@@ -4,7 +4,7 @@
 :width: 80%
 :align: center
 ```
-This session assumes that FCS is already installed in the system. If not please follow [the instruction](#install-fcs-target).
+こちらはFCSがインストールされてからの手順です。まだFCSのインストールが完了していない場合は、[FCSのインストール](#install-fcs-target)ページをご覧ください。
 
 
 ```{note}
