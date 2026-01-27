@@ -253,17 +253,17 @@ Sessionの新規作成/Open後、続けて別のSession作成や起動は出来�
 #### 「Maya Verの設定」をしても反映されない場合
 
 Session作成時に設定した項目は File&rarr;Session&rarr;info で確認することができます。
-```{figure} images/first-steps/create-or-open-session/22-session_session_info.jpg
+```{figure} images/common/01-maya_session_info.jpg
 :width: 80%
 :align: center
 ```
 
 New Sessionで設定したMayaVerがinfoで反映されていない場合は、info画面のMaya Versionを右クリックし、Editから変更ができます。
-```{figure} images/first-steps/create-or-open-session/23-session_info_edit.jpg
+```{figure} images/common/02-maya_info_edit.jpg
 :width: 80%
 :align: center
 ```
-```{figure} images/first-steps/create-or-open-session/24-session_change_maya_ver.jpg
+```{figure} images/common/03-maya_change_maya_ver.jpg
 :width: 80%
 :align: center
 ```
