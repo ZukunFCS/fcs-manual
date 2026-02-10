@@ -4,7 +4,7 @@
 FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起動する必要があります。  
 ```
 
-```{figure} images/getting-started/first-steps/launch-maya/01-launch_maya_open_scene.jpg
+```{figure} images/getting-started/workflow/launch-maya/01-launch_maya_open_scene.jpg
 :width: 80%
 :align: center
 
@@ -23,7 +23,7 @@ FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起
 
  - Maya&rarr;Launch&rarr;Mayaバージョンの選択でMayaを起動  
 例：今回キャラクターデータを作成したMayaのバージョンはMaya2020なので2020を選択しています。
-```{figure} images/getting-started/first-steps/launch-maya/02-launch_maya_launch.jpg
+```{figure} images/getting-started/workflow/launch-maya/02-launch_maya_launch.jpg
 :width: 80%
 :align: center
 ```
