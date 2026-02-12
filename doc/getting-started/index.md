@@ -18,3 +18,5 @@ FCS プロジェクトで使用できるコンテンツの種類についてよ�
 
 ### ヘルプとサポート　
 使用方法でご不明な点がある場合は、[HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。  
+
+```{include} first-steps/index.md
