@@ -9,3 +9,5 @@ FCSのインストールと設定を行ってから、インターフェース�
 プロジェクトをパッケージ化する方法を学びます。
 
 参考：[Unreal Engine：新規ユーザー向け](https://dev.epicgames.com/documentation/ja-jp/unreal-engine/unreal-engine-for-new-users)
+
+```{include} create-profile.md
