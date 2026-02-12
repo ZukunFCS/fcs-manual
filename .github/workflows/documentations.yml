@@ -19,14 +19,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          TAG_NAME="25.10"
-
-          # Create or update the tag to point to HEAD
-          git tag -f "$TAG_NAME"
-
-          # Push the tag (forcefully to update it)
-          git push origin "$TAG_NAME" --force
-          
       - name: Install dependencies
         run: |
           pip install sphinx sphinx_rtd_theme myst_parser
