@@ -169,7 +169,7 @@ Videoウィンドウで
 
  - 該当する項目に ☑ を入れ
  - Output Filename を任意の名前に変更
-```{note}
+```text
 - {solver} → solverの名前
 - {video} → ビデオのファイル名
 - {user} → windows ユーザ名
