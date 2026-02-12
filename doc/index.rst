@@ -9,4 +9,5 @@ FCSマニュアル
    :maxdepth: 2
    :caption: コンテンツ:
 
+   getting-started/index.md
    glossary/index.md
