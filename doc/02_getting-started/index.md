@@ -19,21 +19,14 @@ FCS プロジェクトで使用できるコンテンツの種類についてよ�
 ### ヘルプとサポート　
 使用方法でご不明な点がある場合は、[HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。  
 
-### 事前準備
+### FCSを始める
 
-:::{grid} 1
-:gutter: 2
-
-:::{grid-item-card} 🛠️ 事前準備のページへ
-:link: 01_setup/index
-:link-type: doc
-
-FCSを始めるための事前準備についてはこちらから。
-:::
-:::
+* [🛠️ 事前準備はこちら](01_setup/index)
+  FCSを始めるためのシステム要件やインストール手順を確認します。
 
 ```{toctree}
 :maxdepth: 1
 :hidden:
 
 01_setup/index
+```
