@@ -27,7 +27,7 @@ FCSを始めるための推奨スペック・事前にインストールが必�
 最新バージョンへの更新手順。
 
 **〇環境設定**
-* [環境設定はこちら](../06_glossary/01_Menu/index) \
+* [環境設定はこちら](../06_glossary/01_Menu/settings) \
 最適な動作環境のための設定ガイド。　**※用語集のウィンドウ設定に飛ばず**
 
 **〇スターターキット**
@@ -41,7 +41,7 @@ FCSを始めるための推奨スペック・事前にインストールが必�
 01_setup/index
 02_install/index
 03_upgrade/index
-../06_glossary/01_Menu/index
+../06_glossary/01_Menu/settings
 ../05_sample-project/index
 ```
 
