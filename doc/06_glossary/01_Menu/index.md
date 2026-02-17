@@ -29,5 +29,6 @@ View(レイアウト)に関するメニューです。
 Exploreを開きます。
 
 **〇Info** \
-[Infoメニュー](info.md) \
+[Infoメニュー](info.md) 
+
 
