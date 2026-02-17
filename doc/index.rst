@@ -8,7 +8,7 @@ FCSマニュアル
    :maxdepth: 2
    :caption: コンテンツ:
 
-   00_contents
+   00_contents/index.md
    01_updates/index.md
    02_getting-started/index.md
    03_workflow/index.md
