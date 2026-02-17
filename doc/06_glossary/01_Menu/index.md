@@ -31,16 +31,3 @@ Exploreを開きます。
 **〇Info** \
 [Infoメニュー](info.md) 
 
-
-```{toctree}
-:maxdepth: 1
-:hidden:
-
-file
-settings
-window
-maya
-view
-explore
-info
-```
