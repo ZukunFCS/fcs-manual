@@ -11,7 +11,7 @@ FCSの使用方法で困ったときは、「ユーザーガイド」をご確�
 
 * [よくある質問 (FAQ)](../06_glossary/04_faq/index)
 
-* [Tips](../06_glossary/02_glossary/03_Tips/index)
+* [Tips](../06_glossary/03_Tips/index)
 
 ---
 
