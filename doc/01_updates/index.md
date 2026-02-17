@@ -1,3 +1,3 @@
-## 最新情報
+## リリースノート
 
-最新情報をお知らせします。
+[Download FCS here](https://github.com/ZukunFCS/fcs-doc/releases)
