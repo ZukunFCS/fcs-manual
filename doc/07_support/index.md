@@ -1,8 +1,9 @@
-## サポート
+## ヘルプとサポート
 
-サポートは[HELTECホームページ](https://sensing.heltec.co.jp/contact/)にご連絡ください。  
+使用方法でご不明な点がある場合など、サポートは[HELTECホームページ](https://sensing.heltec.co.jp/contact/)にご連絡ください。  
+
 その際に、以下の情報を添えてください。
 
 1. 使用されたFCSライセンスキー
-2. [エクスポート](#export-header-target)されたFCSフォルダー  
+2. [エクスポート](../03_workflow/08_export)されたFCSフォルダー  
 3. (できれば)Mayaシーンデータ
