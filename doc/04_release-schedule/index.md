@@ -6,11 +6,11 @@ FCSは継続開発中のソフトです。 \
 ---
 
 **01. ロードマップ**
-* [詳細を確認する](01_roadmap/index) \
+* [開発ロードマップ](01_roadmap/index) \
 今後の機能追加計画やアップデートの予定について確認できます。
 
 **02. リリーススケジュール**
-* [詳細を確認する](02_release-schedule/index) \
+* [リリーススケジュール](02_release-schedule/index) \
 FCSのリリーススケジュールについて確認できます。
 
 ```{toctree}
@@ -20,4 +20,5 @@ FCSのリリーススケジュールについて確認できます。
 01_roadmap/index
 02_release-schedule/index
 ```
+
 
