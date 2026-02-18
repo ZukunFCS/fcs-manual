@@ -15,11 +15,11 @@ FCSマニュアルの全コンテンツ一覧です。
 * [過去の更新履歴はこちら](01_history/index)
 
 ```{toctree}
-:maxdepth: 1
 :hidden:
 
 01_history/index
 ```
+
 
 
 
