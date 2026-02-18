@@ -11,15 +11,14 @@ FCSマニュアルの全コンテンツ一覧です。
 ---
 
 **🔔FCSマニュアル　更新情報**
-* [過去の更新履歴はこちら](01_update_history/index)
+* [過去の更新履歴はこちら](01_update_history/index.md)
 
 <br>
 
-```markdown
-```{literalinclude} 01_update_history/index
-:language: markdown
+```{include} 01_update_history/index.md
 :start-after: <!-- start_here -->
 :end-before: <!-- end_here -->
+
 
 
 
