@@ -16,9 +16,14 @@ FCSマニュアルの全コンテンツ一覧です。
 
 ```{include} 01_update_history/index.md
 :start-after:<!-- start_here -->
-:end-before:<!-- end_here --> ```
+:end-before:<!-- end_here -->
+```
 
+```{toctree}
+:hidden:
 
+01_update_history/index
+```
 
 
 
