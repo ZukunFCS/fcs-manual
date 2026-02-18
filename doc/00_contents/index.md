@@ -9,3 +9,8 @@ FCSマニュアルの全コンテンツ一覧です。
 | [開発計画](04_release-schedule/01_roadmap/index) <br> [更新履歴](04_release-schedule/02_release-schedule/index) | [サンプルプロジェクト](05_sample-project/index) <br> [上級マニュアル](08_advanced_doc_link) | [よくある質問(FAQ)](06_glossary/04_faq) <br> [お問い合わせ](../07_support/index) |
 
 ---
+
+**🔔FCSマニュアル　更新情報**
+
+```{include} 01_update_history/index.md
+:start-after: :end-before: ```
