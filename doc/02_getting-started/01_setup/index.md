@@ -16,10 +16,10 @@ FCSは、以下スペックのPCで利用することができます。
 - 推奨
   - Nvidia　CUDA/CuDNN
 
-**ライセンス**  
+**ライセンス**  \
 FCSを使用するためには、ライセンスキーが必要です。  
 また、一ヶ月無料のトライアルライセンスもご用意がございます。  
 [HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。  
 
-**ダウンロード**  
+**ダウンロード**  \
 インストーラーは[こちら](https://github.com/ZukunFCS/fcs-doc/releases)からダウンロードできます。
