@@ -14,16 +14,11 @@ FCSマニュアルの全コンテンツ一覧です。
 
 * [過去の更新履歴はこちら](01_update_history/index.md)
 
-```{eval-rst}
-.. include:: 01_update_history/index.md
-   :start-after: <!-- start_here -->
-   :end-before: <!-- end_here -->
+```{toctree}
+:hidden:
 
-.. toctree::
-   :hidden:
-
-   01_update_history/index
-
+01_update_history/index.md
+```
 
 
 
