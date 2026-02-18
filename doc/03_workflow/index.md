@@ -12,8 +12,7 @@ FCSを使用したアニメーション制作の全体的な流れを説明し�
 | **04. Controller登録** | [詳細を確認する](04_register-controller) <br> 各種コントローラーの紐付け |
 | **05. Profile作成** | [詳細を確認する](05_create-profile) <br> キャラクタ設定の構築 |
 | **06. 出力** | [詳細を確認する](06_export-animation) <br> アニメーションデータの書き出し |
-| **07. Denosingの詳細設定** | [詳細を確認する](07_denosing) <br> Denosing（旧Solver）機能について |
-| **08. Sessionのエクスポート** | [詳細を確認する](08_export) <br> Sessionデータのエクスポートについて |
+| **07. Sessionのエクスポート** | [詳細を確認する](08_export) <br> Sessionデータのエクスポートについて |
 
 ```{warning}
 FCSで使用するファイルやフォルダ名は全て半角英数字にしてください。
