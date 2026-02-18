@@ -14,9 +14,9 @@ FCSマニュアルの全コンテンツ一覧です。
 
 * [過去の更新履歴はこちら](01_history/index)
 
-```{include} 01_history/index
-    :start-after: <!-- start_here -->
-    :end-before: <!-- end_here -->
+```{include} 01_history/index.md
+    :start-after: <!--start_here-->
+    :end-before: <!--end_here-->
 ```
 
 ```{toctree}
@@ -24,6 +24,7 @@ FCSマニュアルの全コンテンツ一覧です。
 
 01_history/index
 ```
+
 
 
 
