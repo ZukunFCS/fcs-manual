@@ -13,4 +13,5 @@ FCSマニュアルの全コンテンツ一覧です。
 **🔔FCSマニュアル　更新情報**
 
 ```{include} 01_update_history/index.md
-:start-after: :end-before: ```
+:start-after:`` :end-before:`` ```
+
