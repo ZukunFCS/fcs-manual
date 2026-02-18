@@ -4,7 +4,7 @@ FCSマニュアルの全コンテンツ一覧です。
 
 | **🚀 概要・導入** | **🛠️ 作業フロー** |
 | :--- | :--- |
-| [・リリースノート](../01_updates/index) <br> [・FCSとは](../02_getting-started/index) <br> [・事前準備](../02_getting-started/01_setup/index) <br> [・インストール](../02_getting-started/02_install/index) <br> [・アップグレード](../02_getting-started/03_upgrade/index) <br> [・環境設定](../06_glossary/01_Menu/settings) <br> [・スターターキット](../05_sample-project/index) | [・作業フロー (全体) ](../03_workflow/index) <br> [・FCS起動](../03_workflow/01_launch-FCS) <br> [・Session作成](../03_workflow/02_create-or-open-session) <br> [・Mayaの起動](../03_workflow/03_launch-maya) <br> [・Controller登録](../03_workflow/04_register-controller) <br> [・Profile作成](../03_workflow/05_create-profile) <br> [・アニメーション出力](../03_workflow/06_export-animation) <br> [・Denosing機能](../03_workflow/07_denosing) <br> [・Sessionのエクスポート](../03_workflow/08_export) |
+| [・リリースノート](../01_updates/index) <br> [・FCSとは](../02_getting-started/index) <br> [・事前準備](../02_getting-started/01_setup/index) <br> [・インストール](../02_getting-started/02_install/index) <br> [・アップグレード](../02_getting-started/03_upgrade/index) <br> [・環境設定](../06_glossary/01_Menu/settings) <br> [・スターターキット](../05_sample-project/index) | [・作業フロー (全体) ](../03_workflow/index) <br> [・FCS起動](../03_workflow/01_launch-FCS) <br> [・Session作成](../03_workflow/02_create-or-open-session) <br> [・Mayaの起動](../03_workflow/03_launch-maya) <br> [・Controller登録](../03_workflow/04_register-controller) <br> [・Profile作成](../03_workflow/05_create-profile) <br> [・アニメーション出力](../03_workflow/06_export-animation) <br> [・Sessionのエクスポート](../03_workflow/08_export) |
 
 | **📖 ユーザーガイド** | **📦 サポート/その他** |
 | :--- | :--- |
@@ -21,6 +21,7 @@ FCSマニュアルの全コンテンツ一覧です。
 ```
 
  [※過去の更新履歴はこちら](01_history/index)
+
 
 
 
