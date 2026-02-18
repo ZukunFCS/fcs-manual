@@ -15,12 +15,12 @@ FCSマニュアルの全コンテンツ一覧です。
 
 **FCSマニュアル 更新情報**
 
-* [過去の更新履歴はこちら](01_history/index)
-
 ```{include} 01_history/index.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->
 ```
+
+ [※過去の更新履歴はこちら](01_history/index)
 
 
 
