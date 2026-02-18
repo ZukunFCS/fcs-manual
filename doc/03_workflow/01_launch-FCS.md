@@ -1,6 +1,6 @@
 ## FCS起動
 
-```{figure} images/getting-started/workflow/launch-FCS/01-launch_FCS_exe.jpg
+```{figure} images/03_workflow_launch_FCS_exe.jpg
 :width: 80%
 :align: center
 ```
@@ -12,12 +12,12 @@
 その際には、[HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。
 ```
 
-### ライセンスの入力
+**ライセンスの入力** 
 
 FCS初回起動時ライセンスキーの入力を求められます。  
  - New Licenseにライセンスキーを入力  
  - Update  
-```{figure} images/getting-started/workflow/launch-FCS/02-launch_FCS_license.jpg
+```{figure} images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center
 ```
@@ -25,12 +25,12 @@ FCS初回起動時ライセンスキーの入力を求められます。
 ライセンス認証完了後FCSを操作できるようになります。
 
 
-### ライセンスの更新
+**ライセンスの更新**
 
 FCSを起動後、ライセンスの期限切れだった場合にはLicenseInfoがポップします。  
  - 新しいライセンスキーをNew Licenseに入力  
  - Update
-```{figure} images/getting-started/workflow/launch-FCS/02-launch_FCS_license.jpg
+```{figure} images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center
 ```
