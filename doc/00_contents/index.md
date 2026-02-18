@@ -12,12 +12,13 @@ FCSマニュアルの全コンテンツ一覧です。
 
 **🔔 FCSマニュアル 更新情報**
 
-* [過去の更新履歴はこちら](01_update_history/index.md)
+* [過去の更新履歴はこちら](01_history/index)
 
 ```{toctree}
+:maxdepth: 1
 :hidden:
 
-01_update_history/index.md
+01_history/index
 ```
 
 
