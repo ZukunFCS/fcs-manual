@@ -6,14 +6,14 @@
 
 Window&rarr;VideosでVideosウィンドウが開きます。  
 Videosウィンドウでは解析したい動画を開いたり、インポートすることができます。
-```{figure} images/03_workflow_create_profile_windows_videos.jpg
+```{figure} /images/03_workflow_create_profile_windows_videos.jpg
 :width: 80%
 :align: center
 
 Windows&rarr;Videos
 ```
 
-```{figure} images/03_workflow_create_profile_videos_import.jpg
+```{figure} /images/03_workflow_create_profile_videos_import.jpg
 :width: 80%
 :align: center
 
@@ -22,7 +22,7 @@ Import
 
 ウィンドウがポップアップされるので  
 
-```{figure} images/03_workflow_create_profile_videos_open.jpg
+```{figure} /images/03_workflow_create_profile_videos_open.jpg
 :width: 80%
 :align: center
 
@@ -34,7 +34,7 @@ Shift+クリックで複数同時にimportできます。
 ```
 
 
-```{figure} images/03_workflow_create_profile_videos_complete.jpg
+```{figure} /images/03_workflow_create_profile_videos_complete.jpg
 :width: 80%
 :align: center
 
@@ -43,7 +43,7 @@ Videosウィンドウに解析したい動画が表示されます。
 
 **Timelineの画面説明**
 
-```{figure} images/03_workflow_create_profile_timeline.png
+```{figure} /images/03_workflow_create_profile_timeline.png
 :width: 80%
 :align: center
 ```
@@ -57,7 +57,7 @@ Videosウィンドウに解析したい動画が表示されます。
 
 **Editorの画面説明**
 
-```{figure} images/03_workflow_create_profile_editor_explanation.jpg
+```{figure} /images/03_workflow_create_profile_editor_explanation.jpg
 :width: 80%
 :align: center
 ```
@@ -102,7 +102,7 @@ LM：LandMarkを表示する
 
 **Galleryの画面説明**
 
-```{figure} images/03_workflow_create_profile_gallery_explanation.jpg
+```{figure} /images/03_workflow_create_profile_gallery_explanation.jpg
 :width: 80%
 :align: center
 ```
@@ -158,7 +158,7 @@ profileには基本的に全てのRegionの登録を推奨していますが
 **解析したい動画の読み込み方法**  
 
 開いた動画ファイル名の上で右クリック  
-```{figure} images/03_workflow_create_profile_right_click_open.jpg
+```{figure} /images/03_workflow_create_profile_right_click_open.jpg
 :width: 80%
 :align: center
 
@@ -166,7 +166,7 @@ Open
 ```
 
 
-```{figure} images/03_workflow_create_profile_video_player.jpg
+```{figure} /images/03_workflow_create_profile_video_player.jpg
 :width: 80%
 :align: center
 
@@ -179,7 +179,7 @@ VideoTimelineウィンドウの
  - スライダーを動かし表情の登録を行いたいフレームで止め  
  - +を押す  
 
-```{figure} images/03_workflow_create_profile_profile_addition.jpg
+```{figure} /images/03_workflow_create_profile_profile_addition.jpg
 :width: 80%
 :align: center
 
@@ -198,7 +198,7 @@ Neutral表情とは、アクターの表情筋に力が入っていないナチ�
  - Neutralに ☑  
  - 任意の名前に変更  
  - Save
-```{figure} images/03_workflow_create_profile_neutral_save.jpg
+```{figure} /images/03_workflow_create_profile_neutral_save.jpg
 :width: 80%
 :align: center
 ```
@@ -206,7 +206,7 @@ Neutral表情とは、アクターの表情筋に力が入っていないナチ�
 ```{note}
 NeutralのProfileは登録が完了すると緑になります。
 ```
-```{figure} images/03_workflow_create_profile_neutral_complete.jpg
+```{figure} /images/03_workflow_create_profile_neutral_complete.jpg
 :width: 80%
 :align: center
 ```
@@ -216,28 +216,28 @@ NeutralのProfileは登録が完了すると緑になります。
  - VideoTimelineウィンドウのスライダーを動かし表情の登録を行いたいフレームで止め+を押す
   
 Galleryに指定したフレームの画像が追加されます。
-```{figure} images/03_workflow_create_profile_gallery_addition.jpg
+```{figure} /images/03_workflow_create_profile_gallery_addition.jpg
 :width: 80%
 :align: center
 ```
 ```{note}
 値が0（未登録）のProfileは赤枠
 ```
-```{figure} images/03_workflow_create_profile_image_confirm.jpg
+```{figure} /images/03_workflow_create_profile_image_confirm.jpg
 :width: 80%
 :align: center
 
 追加した赤色の画像をクリックし、Editor画面に表示されている画像が同じであることを確認
 ```
 
-```{figure} images/03_workflow_create_profile_maya_character_adjustment.jpg
+```{figure} /images/03_workflow_create_profile_maya_character_adjustment.jpg
 :width: 80%
 :align: center
 
 Mayaのコントローラーリグで、追加したアクターの表情と同じになるようにキャラクターの表情を調節
 ```
 
-```{figure} images/03_workflow_create_profile_from_maya.jpg
+```{figure} /images/03_workflow_create_profile_from_maya.jpg
 :width: 80%
 :align: center
 
@@ -255,7 +255,7 @@ Syncのプルダウンで「From Maya at save」もしくは「Both」にして�
  
  - Nameを任意の名前に変更
  - Save
-```{figure} images/03_workflow_create_profile_image_name.jpg
+```{figure} /images/03_workflow_create_profile_image_name.jpg
 :width: 80%
 :align: center
 ```
@@ -268,7 +268,7 @@ Syncのプルダウンで「From Maya at save」もしくは「Both」にして�
  - VideoTimelineウィンドウのスライダーを動かし表情の登録を行いたいフレームで止め+を押す
  
 Galleryに指定したフレームの画像が追加されます。
-```{figure} images/03_workflow_create_profile_gallery_addition.jpg
+```{figure} /images/03_workflow_create_profile_gallery_addition.jpg
 :width: 80%
 :align: center
 ```
@@ -276,7 +276,7 @@ Galleryに指定したフレームの画像が追加されます。
 値が0（未登録）のProfileは赤枠
 ```
  - 追加した赤色の画像をクリックし、Editor画面に表示されている画像が同じであることを確認
-```{figure} images/03_workflow_create_profile_image_confirm.jpg
+```{figure} /images/03_workflow_create_profile_image_confirm.jpg
 :width: 80%
 :align: center
 ```
@@ -284,7 +284,7 @@ Galleryに指定したフレームの画像が追加されます。
 ```{warning}
 Syncが「No Sync」の場合はProfileの自動情報共有が行われないためMaya上は1つ前に登録した表情のままになっています。
 ```
-```{figure} images/03_workflow_create_profile_maya_sync.jpg
+```{figure} /images/03_workflow_create_profile_maya_sync.jpg
 :width: 80%
 :align: center
 ```
@@ -294,13 +294,13 @@ Syncを「Both」にした状態で開きなおすと デフォルトの表情�
 既にしている場合はスキップ
 ```
  - Mayaのコントローラーリグで、追加したアクターの表情が同じになるようにキャラクターの表情を調節
-```{figure} images/03_workflow_create_profile_controller_adjustment.jpg
+```{figure} /images/03_workflow_create_profile_controller_adjustment.jpg
 :width: 80%
 :align: center
 ```
 
  - To Mayaをクリック
-```{figure} images/03_workflow_create_profile_to_maya.jpg
+```{figure} /images/03_workflow_create_profile_to_maya.jpg
 :width: 80%
 :align: center
 ```
@@ -310,7 +310,7 @@ Syncのプルダウンで「To Maya」もしくは「Both」にしている場�
 ```
 
 FCSで調整した内容がMayaに反映されます。
-```{figure} images/03_workflow_create_profile_maya_reflection.jpg
+```{figure} /images/03_workflow_create_profile_maya_reflection.jpg
 :width: 80%
 :align: center
 ```
@@ -319,7 +319,7 @@ FCSで調整した内容がMayaに反映されます。
 絞り込みたい項目（文字含む）のみ表示されるようにするには…
  - ▼Filterから搾りたい項目をクリック
 ```
-```{figure} images/03_workflow_create_profile_filter.jpg
+```{figure} /images/03_workflow_create_profile_filter.jpg
 :width: 80%
 :align: center
 ```
@@ -340,7 +340,7 @@ Predictで自動リターゲットする精度は、登録済のProfileの精度
 - VideoTimelineウィンドウのスライダーを動かし表情の登録を行いたいフレームで止め+を押す 
  
 Galleryに指定したフレームの画像が追加される
-```{figure} images/03_workflow_create_profile_gallery_addition.jpg
+```{figure} /images/03_workflow_create_profile_gallery_addition.jpg
 :width: 80%
 :align: center
 ```
@@ -349,27 +349,27 @@ Galleryに指定したフレームの画像が追加される
 ```
 
  - 追加した赤色の画像をクリックし、Editor画面に表示されている画像が同じであることを確認
-```{figure} images/03_workflow_create_profile_image_confirm.jpg
+```{figure} /images/03_workflow_create_profile_image_confirm.jpg
 :width: 80%
 :align: center
 ```
 
  - Predict実行  
 valueの数値が変動します。
-```{figure} images/03_workflow_create_profile_predict.jpg
+```{figure} /images/03_workflow_create_profile_predict.jpg
 :width: 80%
 :align: center
 ```
 
 MayaにPredict結果が出るので、  
 調整が必要な場合は調整し、登録できる内容になったら
-```{figure} images/03_workflow_create_profile_predict_confirm.jpg
+```{figure} /images/03_workflow_create_profile_predict_confirm.jpg
 :width: 80%
 :align: center
 ```
 
  - Save
-```{figure} images/03_workflow_create_profile_image_save.jpg
+```{figure} /images/03_workflow_create_profile_image_save.jpg
 :width: 80%
 :align: center
 ```
@@ -384,19 +384,19 @@ MayaにPredict結果が出るので、
 ```
 
 例：眉のぎゅっと絞る動きを作りたい時には
-```{figure} images/03_workflow_create_profile_close_eyes.jpg
+```{figure} /images/03_workflow_create_profile_close_eyes.jpg
 :width: 80%
 :align: center
 ```
 
  - 表情を調整した上で
-```{figure} images/03_workflow_create_profile_close_eyes_adjustment.jpg
+```{figure} /images/03_workflow_create_profile_close_eyes_adjustment.jpg
 :width: 80%
 :align: center
 ```
 
  - Regionのgaze/lowerの ☑ を外す
-```{figure} images/03_workflow_create_profile_close_eyes_region.jpg
+```{figure} /images/03_workflow_create_profile_close_eyes_region.jpg
 :width: 80%
 :align: center
 ```
@@ -409,7 +409,7 @@ MayaにPredict結果が出るので、
 Profileを作成していない場合、精度が十分ではない解析結果が出力される可能性があります 
 ```
 Videosウィンドウの「Profiles」をご参照ください    
-```{figure} images/03_workflow_create_profile_videos_profiles.jpg
+```{figure} /images/03_workflow_create_profile_videos_profiles.jpg
 :width: 80%
 :align: center
 ```
@@ -418,7 +418,7 @@ Videosウィンドウの「Profiles」をご参照ください
 「Profiles」が表示されない場合  
  - メニューバー上部で右クリック  
  - 「Profiles」に ☑ を入れる  
-```{figure} images/03_workflow_create_profile_profiles_check.jpg
+```{figure} /images/03_workflow_create_profile_profiles_check.jpg
 :width: 80%
 :align: center
 ```
@@ -428,13 +428,13 @@ Videosウィンドウの「Profiles」をご参照ください
 **＋キーを押してもGalleryにProfileが追加されない場合**  \
 ＋キーを押してもGalleryにProfileが追加されない場合  
 Galleryの表示ウィンドウが小さいケースが考えられます。
-```{figure} images/03_workflow_create_profile_gallery_window.jpg
+```{figure} /images/03_workflow_create_profile_gallery_window.jpg
 :width: 80%
 :align: center
 ```
 
 その場合、Galleryウィンドウの◀&rarr;をクリックすると追加したProfileが表示されます。
-```{figure} images/03_workflow_create_profile_gallery_window_adjustment.jpg
+```{figure} /images/03_workflow_create_profile_gallery_window_adjustment.jpg
 :width: 80%
 :align: center
 ```
@@ -445,7 +445,7 @@ FCSでは同一フレームのProfileは重複して追加されないように�
 WARNIG:Frame ○○ already has a Profile associated with it  
 と表示されます。  
 ```
-```{figure} images/03_workflow_create_profile_warnig_profile.jpg
+```{figure} /images/03_workflow_create_profile_warnig_profile.jpg
 :width: 80%
 :align: center
 ```

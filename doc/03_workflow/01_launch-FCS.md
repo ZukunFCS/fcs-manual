@@ -1,6 +1,6 @@
 ## FCS起動
 
-```{figure} images/03_workflow_launch_FCS_exe.jpg
+```{figure} /images/03_workflow_launch_FCS_exe.jpg
 :width: 80%
 :align: center
 ```
@@ -17,7 +17,7 @@
 FCS初回起動時ライセンスキーの入力を求められます。  
  - New Licenseにライセンスキーを入力  
  - Update  
-```{figure} images/03_workflow_launch_FCS_license.jpg
+```{figure} /images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center
 ```
@@ -30,7 +30,7 @@ FCS初回起動時ライセンスキーの入力を求められます。
 FCSを起動後、ライセンスの期限切れだった場合にはLicenseInfoがポップします。  
  - 新しいライセンスキーをNew Licenseに入力  
  - Update
-```{figure} images/03_workflow_launch_FCS_license.jpg
+```{figure} /images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center
 ```
