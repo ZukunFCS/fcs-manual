@@ -8,7 +8,7 @@ FCS起動後、Sessionデータへアクセスするため
 初めにSessionに関わる設定を行うことで、Mayaを別途操作することなくFCS上のボタンでスムーズに作業を開始することができます。
 ```
 
-### Create new Sessionで作成されるフォルダ構造  
+**Create new Sessionで作成されるフォルダ構造**  
 
 | 色 | 内容 | 
 |:-------------|:--------------:|
@@ -17,7 +17,7 @@ FCS起動後、Sessionデータへアクセスするため
 | 緑枠      | Characterで作成されるフォルダ             |
 
 
-```{figure} images/getting-started/workflow/create-or-open-session/01-session_folder_structure.jpg
+```{figure} images/03_workflow_session_folder_structure.jpg
 :width: 80%
 :align: center
 ```
@@ -38,15 +38,15 @@ FCS起動後、Sessionデータへアクセスするため
 |         ||   L   | fcs_session.yaml      | Session情報を保存しているファイル             |
 
 
-### Sessionの新規作成   
+**Sessionの新規作成**   
 
  - File &rarr; Session&rarr;New...を選択
-```{figure} images/getting-started/workflow/create-or-open-session/02-session_new_create.jpg
+```{figure} images/03_workflow_session_new_create.jpg
 :width: 80%
 :align: center
 ```
 
-```{figure} images/getting-started/workflow/create-or-open-session/03-session_create_name.jpg
+```{figure} images/03_workflow_session_create_name.jpg
 :width: 80%
 :align: center
 ```  
@@ -63,7 +63,7 @@ FCS起動後、Sessionデータへアクセスするため
 
     Browseボタンをクリックし、Project Folderを指定するためウィンドウを起動します。  
     
-    ```{figure} images/getting-started/workflow/create-or-open-session/04-session_folder_browse.jpg
+    ```{figure} images/03_workflow_session_folder_browse.jpg
     :width: 80%
     :align: center
 
@@ -72,7 +72,7 @@ FCS起動後、Sessionデータへアクセスするため
 
     Project Folderを作成します。  
 
-    ```{figure} images/getting-started/workflow/create-or-open-session/05-session_folder_create.jpg
+    ```{figure} images/03_workflow_session_folder_create.jpg
     :width: 80%
     :align: center
 
@@ -81,7 +81,7 @@ FCS起動後、Sessionデータへアクセスするため
 
     問題なく作成できたらポップアップが表示されます。  
 
-    ```{figure} images/getting-started/workflow/create-or-open-session/06-session_folder_close.jpg
+    ```{figure} images/03_workflow_session_folder_close.jpg
     :width: 80%
     :align: center
 
@@ -89,7 +89,7 @@ FCS起動後、Sessionデータへアクセスするため
     ```
 
     エクスプローラーで「Facial」「FCS」のフォルダが作成されます。
-    ```{figure} images/getting-started/workflow/create-or-open-session/07-session_folder_complete.jpg
+    ```{figure} images/03_workflow_session_folder_complete.jpg
     :width: 80%
     :align: center
     ```
@@ -99,14 +99,14 @@ FCS起動後、Sessionデータへアクセスするため
     ※別の場所に保存していてもアクセスできます。
     ```
 
-    ```{figure} images/getting-started/workflow/create-or-open-session/08-session_assets_folder.jpg
+    ```{figure} images/03_workflow_session_assets_folder.jpg
     :width: 80%
     :align: center
 
     Example assets folder
     ```
 
-    ```{figure} images/getting-started/workflow/create-or-open-session/09-session_recdata_folder.jpg
+    ```{figure} images/03_workflow_session_recdata_folder.jpg
     :width: 80%
     :align: center
     
@@ -122,20 +122,20 @@ FCS起動後、Sessionデータへアクセスするため
     - 「Actor」＝モーションキャプチャアクター名  
 
     - Create
-    ```{figure} images/getting-started/workflow/create-or-open-session/10-session_actor_create.jpg
+    ```{figure} images/03_workflow_session_actor_create.jpg
     :width: 80%
     :align: center
     ```
 
     問題なく作成できたらポップアップが表示されます。  
     - close
-    ```{figure} images/getting-started/workflow/create-or-open-session/11-session_actor_close.jpg
+    ```{figure} images/03_workflow_session_actor_close.jpg
     :width: 80%
     :align: center
     ```
 
     エクスプローラーでProject Folderフォルダ直下に入力したActerフォルダが作成されます。
-    ```{figure} images/getting-started/workflow/create-or-open-session/12-session_actor_folder.jpg
+    ```{figure} images/03_workflow_session_actor_folder.jpg
     :width: 80%
     :align: center
     ```
@@ -146,13 +146,13 @@ FCS起動後、Sessionデータへアクセスするため
     - 「Character Name」の入力欄に登録したい名前を入力
 
     - Create
-    ```{figure} images/getting-started/workflow/create-or-open-session/13-session_character_create.jpg
+    ```{figure} images/03_workflow_session_character_create.jpg
     :width: 80%
     :align: center
     ```
 
     エクスプローラーでActorフォルダ直下に入力したCharacterフォルダが作成されます。
-    ```{figure} images/getting-started/workflow/create-or-open-session/14-session_character_folder.jpg
+    ```{figure} images/03_workflow_session_character_folder.jpg
     :width: 80%
     :align: center
     ```
@@ -162,7 +162,7 @@ FCS起動後、Sessionデータへアクセスするため
 
     Browseボタンをクリックし、MayaSceneを指定するためウィンドウを起動します。  
     - MayaSceneデータのパスを指定
-    ```{figure} images/getting-started/workflow/create-or-open-session/15-session_maya_scene_path.jpg
+    ```{figure} images/03_workflow_session_maya_scene_path.jpg
     :width: 80%
     :align: center
     ```
@@ -174,14 +174,14 @@ FCS起動後、Sessionデータへアクセスするため
     ```{attention}
     FCS上でポップアップするウィンドウにはworkspace.melが表示されません  
     ``` 
-    ```{figure} images/getting-started/workflow/create-or-open-session/16-session_maya_ver_browse.jpg
+    ```{figure} images/03_workflow_session_maya_ver_browse.jpg
     :width: 80%
     :align: center
     ```
 
 6. MayaVerの設定
 
-    ```{figure} images/getting-started/workflow/create-or-open-session/17-session_maya_ver_select.jpg
+    ```{figure} images/03_workflow_session_maya_ver_select.jpg
     :width: 80%
     :align: center
 
@@ -189,7 +189,7 @@ FCS起動後、Sessionデータへアクセスするため
     ```
 
     全て入力を終えたらSaveボタンを押してください。  
-    ```{figure} images/getting-started/workflow/create-or-open-session/18-session_maya_ver_save.jpg
+    ```{figure} images/03_workflow_session_maya_ver_save.jpg
     :width: 80%
     :align: center
 
@@ -198,7 +198,7 @@ FCS起動後、Sessionデータへアクセスするため
 
 
     
-    ```{figure} images/getting-started/workflow/create-or-open-session/19-session_create_yaml.jpg
+    ```{figure} images/03_workflow_session_create_yaml.jpg
     :width: 80%
     :align: center
     
@@ -217,40 +217,40 @@ FCS起動後、Sessionデータへアクセスするため
     .lockファイルをエクスプローラーで直接削除してください。
     ```
 
-### 既にSessionが作成されている場合
+**既にSessionが作成されている場合**
 
 履歴またはfcs_session.yamlファイルからSessionを開いてください。 
 
-#### 履歴から開く場合
+**履歴から開く場合**
 
 以前にSessionを起動している場合、File&rarr;Session&rarr;Openの下に履歴が表示されます。  
  - 作業したいデータをクリック
-```{figure} images/getting-started/workflow/create-or-open-session/20-session_open_log.jpg
+```{figure} images/03_workflow_session_open_log.jpg
 :width: 80%
 :align: center
 ```
 
-#### fcs_session.yamlファイルから開く場合
+**fcs_session.yamlファイルから開く場合**
 
  - File&rarr;Session&rarr;Open&rarr;Open...  
 OpenSessionウィンドウが開かれたらローカルとネットワークドライブが表示されます。  
 
  - Characterフォルダ直下にあるfcs_session.yamlファイルを選択し、開く
-```{figure} images/getting-started/workflow/create-or-open-session/21-session_open_yaml.jpg
+```{figure} images/03_workflow_session_open_yaml.jpg
 :width: 80%
 :align: center
 ```
 
-### Seesionを開く際の注意
+**Seesionを開く際の注意**
 
-#### Sessionの同時起動について
+**Sessionの同時起動について**
 
 ```{warning}
 Sessionの新規作成/Open後、続けて別のSession作成や起動は出来ません。  
 別のSessionを開きたい場合は、現在のSessionを終了し、FCSの再起動後開きなおしてください。
 ```
 
-#### 「Maya Verの設定」をしても反映されない場合
+**「Maya Verの設定」をしても反映されない場合**
 
 Session作成時に設定した項目は File&rarr;Session&rarr;info で確認することができます。
 ```{figure} images/common/01-maya_session_info.jpg
