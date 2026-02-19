@@ -65,7 +65,7 @@ FCSは、インストーラーを使用してインストールします。
 ```
 
 2. 問題がなければOKを選択します。  
-```{figure} ../images/02_getting-started_uninstall_complete.jpg
+```{figure} /images/02_getting-started_uninstall_complete.jpg
 :width: 80%
 :align: center
 ```
