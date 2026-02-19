@@ -4,7 +4,7 @@
 FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起動する必要があります。  
 ```
 
-```{figure} images/getting-started/workflow/launch-maya/01-launch_maya_open_scene.jpg
+```{figure} images/03_workflow_launch_maya_open_scene.jpg
 :width: 80%
 :align: center
 
@@ -23,7 +23,7 @@ FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起
 
  - Maya&rarr;Launch&rarr;Mayaバージョンの選択でMayaを起動  
 例：今回キャラクターデータを作成したMayaのバージョンはMaya2020なので2020を選択しています。
-```{figure} images/getting-started/workflow/launch-maya/02-launch_maya_launch.jpg
+```{figure} images/03_workflow_launch_maya_launch.jpg
 :width: 80%
 :align: center
 ```
@@ -32,12 +32,12 @@ FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起
 Mayaバージョンの誤クリックを防ぐため、Session作成時に設定したMaya Version以外はクリックできないように、ブラックアウトしています。
 ```
   
-### トラブルシューティング  
+**トラブルシューティング**  
 
-#### Launchで指定したMayaバージョンが開けない場合  
+**Launchで指定したMayaバージョンが開けない場合**  
 
 
-```{figure} images/common/01-maya_session_info.jpg
+```{figure} images/03_workflow_maya_session_info.jpg
 :width: 80%
 :align: center
 
@@ -45,14 +45,14 @@ session作成時に設定した項目は File&rarr;Session&rarr;info で確認�
 
 ```
 
-```{figure} images/common/02-maya_info_edit.jpg
+```{figure} images/03_workflow_maya_info_edit.jpg
 :width: 80%
 :align: center
 
 New Sessionで設定したMaya Verがinfoで反映されていない場合は、info画面のMaya Versionを右クリックし、Editから変更ができます。
 ```
 
-```{figure} images/common/03-maya_change_maya_ver.jpg
+```{figure} images/03_workflow_maya_change_maya_ver.jpg
 :width: 80%
 :align: center
 
