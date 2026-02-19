@@ -28,6 +28,5 @@ FCSで使用するファイルやフォルダ名は全て半角英数字にし�
 04_register-controller
 05_create-profile
 06_export-animation
-07_denoising
 08_export
 ```
