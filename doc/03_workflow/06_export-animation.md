@@ -6,11 +6,11 @@
 詳しくはSolverの詳細設定ページをご確認ください。
 ```
 
-### 単体のアニメーション出力
+**単体のアニメーション出力**
 
-#### 出力画面説明
+**出力画面説明**
 
-```{figure} images/getting-started/workflow/export-animation/01-export_animation_process_list.jpg
+```{figure} images/03_workflow_export_animation_process_list.jpg
 :width: 80%
 :align: center
 ```
@@ -35,7 +35,7 @@ Export Options
 
 Start process：アニメーションの出力を開始する
 
-#### 単体のアニメーション出力方法
+**単体のアニメーション出力方法**
 
 Videoウィンドウで
  - 解析/出力したい動画名の上で右クリック
@@ -44,13 +44,13 @@ Videoウィンドウで
  - ▼Process　を選択
  - 該当する項目に ☑ を入れ
 
-```{figure} images/getting-started/workflow/export-animation/02-export_animation_process_check.jpg
+```{figure} images/03_workflow_export_animation_process_check.jpg
 :width: 80%
 :align: center
 ```
 
  - Start process
-```{figure} images/getting-started/workflow/export-animation/03-export_animation_start_process.jpg
+```{figure} images/03_workflow_export_animation_start_process.jpg
 :width: 80%
 :align: center
 ```
@@ -59,13 +59,13 @@ Videoウィンドウで
 ```{note}
  - 解析結果を見てから再度調整を行いたい場合はPlayblastやSceneの ☑ を外しておくと時間短縮できます。
 ```
-```{figure} images/getting-started/workflow/export-animation/04-export_animation_export_options.jpg
+```{figure} images/03_workflow_export_animation_export_options.jpg
 :width: 80%
 :align: center
 ```
 
  - 初回出力時は時間がかかるため待機
-```{figure} images/getting-started/workflow/export-animation/05-export_animation_export.jpg
+```{figure} images/03_workflow_export_animation_export.jpg
 :width: 80%
 :align: center
 ```
@@ -76,7 +76,7 @@ Videoウィンドウで
    - アニメーションデータ の順で反映される
    - アニメーションデータ反映時はスライダーが動く
 
-```{figure} images/getting-started/workflow/export-animation/06-export_animation_maya_reflection.jpg
+```{figure} images/03_workflow_export_animation_maya_reflection.jpg
 :width: 80%
 :align: center
 ```
@@ -86,25 +86,25 @@ Videoウィンドウで
 
 出力が完了したらエクスプローラーがポップアップします。
 ```
-```{figure} images/getting-started/workflow/export-animation/07-export_animation_export_complete.jpg
+```{figure} images/03_workflow_export_animation_export_complete.jpg
 :width: 80%
 :align: center
 ```
 <br>
 
-#### 動画の一部範囲のみを再処理して出力
+**動画の一部範囲のみを再処理して出力**  \
 （FCS 25.04.02～）
 ```{note}
 タイムラインの一部表示機能を使用して、FCSのタイムラインで表示している範囲のみのアニメーションを出力することができます。
 ```
 
-```{figure} images/getting-started/workflow/export-animation/08-export_animation_partial_process.jpg
+```{figure} images/03_workflow_export_animation_partial_process.jpg
 :width: 80%
 :align: center
 ```
 - FCSのタイムライン範囲をアニメーション出力したい部分に設定
 
-```{figure} images/getting-started/workflow/export-animation/09-export_animation_partial_process_export.jpg
+```{figure} images/03_workflow_export_animation_partial_process_export.jpg
 :width: 80%
 :align: center
 ```
@@ -112,7 +112,7 @@ Videoウィンドウで
 - ☑ Partial Process：動画の一部範囲のみ出力、選択項目はアニメーションのみ
 - Start processingで処理開始
 
-```{figure} images/getting-started/workflow/export-animation/10-export_animation_partial_process_complete.jpg
+```{figure} images/03_workflow_export_animation_partial_process_complete.jpg
 :width: 80%
 :align: center
 
@@ -120,11 +120,11 @@ Videoウィンドウで
 ```
 <br>
 
-### 複数のアニメーション出力
+**複数のアニメーション出力**
 
-#### 出力画面説明
+**出力画面説明**
 
-```{figure} images/getting-started/workflow/export-animation/11-export_animation_processor_list.jpg
+```{figure} images/03_workflow_export_animation_processor_list.jpg
 :width: 80%
 :align: center
 ```
@@ -145,24 +145,24 @@ Output Filename：出力されるデータ名。任意の名前に変更可能
 
 Start：アニメーションの出力を開始する
 
-#### 複数のアニメーション出力方法
+**複数のアニメーション出力方法**
 
 Videoウィンドウで
 
  - 解析/出力したい動画名の左側の ☑ をつける
-```{figure} images/getting-started/workflow/export-animation/12-export_animation_processor_video_check.jpg
+```{figure} images/03_workflow_export_animation_processor_video_check.jpg
 :width: 80%
 :align: center
 ```
 
  - Processorウインドウを開く
-```{figure} images/getting-started/workflow/export-animation/13-export_animation_window_processor.jpg
+```{figure} images/03_workflow_export_animation_window_processor.jpg
 :width: 80%
 :align: center
 ```
 <br>
 
-```{figure} images/getting-started/workflow/export-animation/14-export_animation_processor_output_name.jpg
+```{figure} images/03_workflow_export_animation_processor_output_name.jpg
 :width: 80%
 :align: center
 ```
@@ -181,19 +181,19 @@ Videoウィンドウで
 {video}のみにするとimportした動画名で出力される
 ```
  - Start
-```{figure} images/getting-started/workflow/export-animation/15-export_animation_processor_confirm.jpg
+```{figure} images/03_workflow_export_animation_processor_confirm.jpg
 :width: 80%
 :align: center
 ```
 
 出力が完了したらエクスプローラーがポップアップします。
-```{figure} images/getting-started/workflow/export-animation/16-export_animation_processor_complete.jpg
+```{figure} images/03_workflow_export_animation_processor_complete.jpg
 :width: 80%
 :align: center
 ```
 <br>
 
-### カメラ・イメージプレーンについて
+**カメラ・イメージプレーンについて**  \
 Frames、またはLM Framesにチェックを入れた場合、Maya内のイメージプレーンに連番画像がセットされます。  
 連番画像をセットしたいカメラ・イメージプレーンの名前を「Settings/Maya/Camera」「Settings/Maya/ImagePlane」から設定してください。
 
