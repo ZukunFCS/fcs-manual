@@ -7,7 +7,7 @@ FCSでは顔のパーツ区分のことをRegionと呼びます。
 アニメーション解析のため、Upper、Eyelid、Gaze、Lowerにそれぞれコントローラーリグを１つ以上登録してください。  
 
 また、コントローラーリグの登録時にRegionの最大値最小値も登録できます。
-```{figure} images/getting-started/workflow/register-controller/01-register_controller_window_controller.jpg
+```{figure} images/03_workflow_register_controller_window_controller.jpg
 :width: 80%
 :align: center
 
@@ -22,7 +22,7 @@ Window&rarr;ControllerでConrollerウィンドウが起動します。
 数値ではない(True/False)アトリビュートがあると正常に動作しないため、登録から除外してください。
 ```
 
-```{figure} images/getting-started/workflow/register-controller/02-register_controller_list.jpg
+```{figure} images/03_workflow_register_controller_list.jpg
 :width: 80%
 :align: center
 ```
@@ -46,18 +46,18 @@ all▼：all/Upper/Eyelid/Gaze/Lower/null　指定した項目（部位の区分
 
 - save：controller Infoを登録。
 
-### Controllerの登録
+**Controllerの登録**
 
-#### Upperの登録方法 
+**Upperの登録方法** 
 
-```{figure} images/getting-started/workflow/register-controller/03-register_controller_maya_upper_select.jpg
+```{figure} images/03_workflow_register_controller_maya_upper_select.jpg
 :width: 80%
 :align: center
 
 MayaでUpperに登録したいコントローラーを選択
 ```
 
-```{figure} images/getting-started/workflow/register-controller/04-register_controller_add_selected_uppper.jpg
+```{figure} images/03_workflow_register_controller_add_selected_uppper.jpg
 :width: 80%
 :align: center
 
@@ -66,7 +66,7 @@ Add selected
 
 Mayaで選択したコントローラーが「Controller」に表示されるので  
 
-```{figure} images/getting-started/workflow/register-controller/05-register_controller_select_all_uppper.jpg
+```{figure} images/03_workflow_register_controller_select_all_uppper.jpg
 :width: 80%
 :align: center
 
@@ -75,7 +75,7 @@ select All（=全選択）でUpperに登録したいコントローラーを選�
 ```
 
 今回はUpperに登録したいので  
-```{figure} images/getting-started/workflow/register-controller/06-register_controller_confirmation_uppper.jpg
+```{figure} images/03_workflow_register_controller_confirmation_uppper.jpg
 :width: 80%
 :align: center
 
@@ -83,16 +83,16 @@ Upperを選択
 RegionにUpperと表示されたら登録できます。
 ```
 
-#### Eyelidの登録方法
+**Eyelidの登録方法**
 
-```{figure} images/getting-started/workflow/register-controller/07-register_controller_maya_eyelid_select.jpg
+```{figure} images/03_workflow_register_controller_maya_eyelid_select.jpg
 :width: 80%
 :align: center
 
 MayaでEyelidに登録したいコントローラーを選択
 ```
 
-```{figure} images/getting-started/workflow/register-controller/08-register_controller_add_selected_eyelid.jpg
+```{figure} images/03_workflow_register_controller_add_selected_eyelid.jpg
 :width: 80%
 :align: center
 
@@ -100,7 +100,7 @@ Add selected
 Upperの下にAdd selectedで追加したコントローラーが表示されます。
 ```
 
-```{figure} images/getting-started/workflow/register-controller/09-register_controller_all_null_eyelid.jpg
+```{figure} images/03_workflow_register_controller_all_null_eyelid.jpg
 :width: 80%
 :align: center
 
@@ -113,14 +113,14 @@ allのままだとUpperも表示されているため、select AllするとUpper
 間違って全選択してしまった場合はUnselect Allで選択解除が可能です。
 ```
 
-```{figure} images/getting-started/workflow/register-controller/10-register_controller_select_all_eyelid.jpg
+```{figure} images/03_workflow_register_controller_select_all_eyelid.jpg
 :width: 80%
 :align: center
 
 nullにすることで登録されていない項目が絞り込まれるのでUpperと同様に、Select All（=全選択）でEyelidに登録したいコントローラーを選択    
 ```
 
-```{figure} images/getting-started/workflow/register-controller/11-register_controller_confirmation_eyelid.jpg
+```{figure} images/03_workflow_register_controller_confirmation_eyelid.jpg
 :width: 80%
 :align: center
 
@@ -132,7 +132,7 @@ nullで絞り込んでいるのでRegionを登録すると非表示になりま�
 ```
 
 allに戻すとすべて表示されます。
-```{figure} images/getting-started/workflow/register-controller/12-register_controller_all_view.jpg
+```{figure} images/03_workflow_register_controller_all_view.jpg
 :width: 80%
 :align: center
 ```
@@ -142,24 +142,24 @@ allに戻すとすべて表示されます。
 また、登録したRegionで絞り込むこともできます。
 ```
 
-#### gazeの登録方法
+**gazeの登録方法**
 
 
-```{figure} images/getting-started/workflow/register-controller/13-register_controller_maya_gaze_select.jpg
+```{figure} images/03_workflow_register_controller_maya_gaze_select.jpg
 :width: 80%
 :align: center
 
 同様に、gazeに登録したいコントローラーを選択し
 ```
 
-```{figure} images/getting-started/workflow/register-controller/14-register_controller_add_selected_gaze.jpg
+```{figure} images/03_workflow_register_controller_add_selected_gaze.jpg
 :width: 80%
 :align: center
 
 Add selectedで登録済みのコントローラーの下に追加したコントローラーが表示されます。
 ```
 
-```{figure} images/getting-started/workflow/register-controller/15-register_controller_all_null_gaze.jpg
+```{figure} images/03_workflow_register_controller_all_null_gaze.jpg
 :width: 80%
 :align: center
 
@@ -167,7 +167,7 @@ Add selectedで登録済みのコントローラーの下に追加したコン�
 ```
 
 
-```{figure} images/getting-started/workflow/register-controller/16-register_controller_select_all_gaze.jpg
+```{figure} images/03_workflow_register_controller_select_all_gaze.jpg
 :width: 80%
 :align: center
 
@@ -175,7 +175,7 @@ Select All
 ```
 
 
-```{figure} images/getting-started/workflow/register-controller/17-register_controller_confirmation_gaze.jpg
+```{figure} images/03_workflow_register_controller_confirmation_gaze.jpg
 :width: 80%
 :align: center
 
@@ -186,8 +186,8 @@ gaze
 nullで絞り込んでいるのでRegionを登録すると非表示になります。
 ```
 
-#### lowerの登録方法
-```{figure} images/getting-started/workflow/register-controller/18-register_controller_maya_lower_select.jpg
+**lowerの登録方法**
+```{figure} images/03_workflow_register_controller_maya_lower_select.jpg
 :width: 80%
 :align: center
 
@@ -197,20 +197,20 @@ Mayaでlowerに登録したいコントローラーを選択
 ```{note}
 前段でnullで絞り込んでいるのでnullのみが表示されます
 ```
-```{figure} images/getting-started/workflow/register-controller/19-register_controller_add_selected_lower.jpg
+```{figure} images/03_workflow_register_controller_add_selected_lower.jpg
 :width: 80%
 :align: center
 
 Add selected
 ```
 
-```{figure} images/getting-started/workflow/register-controller/20-register_controller_select_all_lower.jpg
+```{figure} images/03_workflow_register_controller_select_all_lower.jpg
 :width: 80%
 :align: center
 
 Select All
 ```
-```{figure} images/getting-started/workflow/register-controller/21-register_controller_confirmation_lower.jpg
+```{figure} images/03_workflow_register_controller_confirmation_lower.jpg
 :width: 80%
 :align: center
 
@@ -222,7 +222,7 @@ nullで絞り込んでいるのでRegionを登録すると非表示になりま�
 ```
 
 Upper/Eyelid/Gaze/Lowerをすべて登録し終えたら  
-```{figure} images/getting-started/workflow/register-controller/22-register_controller_save.jpg
+```{figure} images/03_workflow_register_controller_save.jpg
 :width: 80%
 :align: center
 
@@ -233,11 +233,11 @@ Save
 未登録状態のものがあるとSave出来ません
 ```
 
-### トラブルシューティング
+**トラブルシューティング**
 
-#### セーブできない場合
+**セーブできない場合**  \
 登録すべきものか確認後
-```{figure} images/getting-started/workflow/register-controller/23-register_controller_remove.jpg
+```{figure} images/03_workflow_register_controller_remove.jpg
 :width: 80%
 :align: center
 
@@ -245,47 +245,47 @@ Save
 ```
 
 
-```{figure} images/getting-started/workflow/register-controller/24-register_controller_remove_empty.jpg
+```{figure} images/03_workflow_register_controller_remove_empty.jpg
 :width: 80%
 :align: center
 
 nullのままのコントローラーを一括削除
 ```
 
-#### マニュアル以外のコントローラーを登録したい場合
+**マニュアル以外のコントローラーを登録したい場合**  \
 本マニュアルでは、UnrealEngineのMetahumanを使用していますが、別の3DCG作成ソフトで作成したものでも、各部位に連携できるコントローラーリグがあれば対応可能です。また、必要最低限のコントローラーのみを登録していますので、任意で登録するコントローラーを増やすことができます。
 
 
-#### Add selectでコントローラーの追加ができない場合
+**Add selectでコントローラーの追加ができない場合**
 ```{warning} 
 設定したMayaバージョンとsceneを作成したMayaバージョンが一致しているか確認してください。
 ```
-#### コントローラーの登録順番を変えたい場合
+**コントローラーの登録順番を変えたい場合**
 
 例：L/R　blinkが離れていて不便なのでblinkを上下（隣接するよう）に並べたい
 ```{note}
 並び替えたいコントローラーをドラッグしドロップで順番を変更できます。  
 ```
-#### コントローラーの登録順を戻したい場合
+**コントローラーの登録順を戻したい場合**
  - Reset  
 controller info登録時の順番に戻ります。
-```{figure} images/getting-started/workflow/register-controller/25-register_controller_reset.jpg
+```{figure} images/03_workflow_register_controller_reset.jpg
 :width: 80%
 :align: center
 ```
 
 
-#### 作業しやすいように並び替えたら 
+**作業しやすいように並び替えたら** 
  - Save
-```{figure} images/getting-started/workflow/register-controller/22-register_controller_save.jpg
+```{figure} images/03_workflow_register_controller_save.jpg
 :width: 80%
 :align: center
 ```
 
 
-### 操作性向上に関する変更
+**操作性向上に関する変更**  \
 Mayaでコントローラーを選択して「Add selected」を実行した例です。
-```{figure} images/getting-started/workflow/register-controller/26-register_controller_add_selected_improvement.png
+```{figure} images/03_workflow_register_controller_add_selected_improvement.png
 :width: 80%
 :align: center
 ```
@@ -293,7 +293,7 @@ Mayaでコントローラーを選択して「Add selected」を実行した例�
 選択したコントローラーが「Controller」に自動で追加され、チェックも自動的に入った状態になります。
 同様に別の部位を選択して「Add selected」した例が下図です。こちらも自動的にチェックが入ります。
 このように、連続して登録する際に、選択したコントローラーが自動で反映されるよう改善しました。
-```{figure} images/getting-started/workflow/register-controller/27-register_controller_auto_check.png
+```{figure} images/03_workflow_register_controller_auto_check.png
 :width: 80%
 :align: center
 ```
