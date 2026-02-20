@@ -18,12 +18,12 @@ FCSで使用される専門用語について解説します。
 **よくある質問**
 * [よくある質問](04_faq/index)
 
+**チュートリアル動画**
+* [チュートリアル動画](05_tutorial/index)
+
 **FCS ホームページ**
 * [TOEIFCS ホームページ](https://www.fcs.zukun-lab.com)
 
-**チュートリアル動画**
-* [チュートリアル動画](https://www.fcs.zukun-lab.com/tutorial-video) \
-  ※TOEIFCS ホームページより
 
 ```{toctree}
 :maxdepth: 1
@@ -33,6 +33,6 @@ FCSで使用される専門用語について解説します。
 02_glossary/index
 03_Tips/index
 04_faq/index
+05_tutorial/index
 TOEIFCS ホームページ <https://www.fcs.zukun-lab.com>
-チュートリアル動画 <https://www.fcs.zukun-lab.com/tutorial-video>
 ```
