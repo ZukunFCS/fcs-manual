@@ -23,23 +23,23 @@ FCSスターターキットには、以下のコンテンツが含まれてい�
 **1: Mayaの3Dモデルデータ** \
 Mayaの3Dモデルデータフォルダには、以下の2種類のモデルデータが含まれています。
 
-**DIGITAL HUMAN** 
+**AVERAGE HUMAN** 
 
 ```{figure} /images/05_sample-project_DIGITALHUMAN.jpg
 :width: 80%
 :align: center
 ```
 
-DIGITAL HUMANとは、東映ツークン研究所が長年培ってきたデジタルヒューマン技術（実在の人物をCGで再現する技術）と、Unreal Engineを開発するEpic Games社が提供するMetaHuman（デジタルヒューマン作成ツール）を組み合わせて制作された3Dモデルです。  
+AVERAGE HUMANとは、東映ツークン研究所が長年培ってきたデジタルヒューマン技術（実在の人物をCGで再現する技術）と、Unreal Engineを開発するEpic Games社が提供するMetaHuman（デジタルヒューマン作成ツール）を組み合わせて制作された3Dモデルです。  
 MetaHumanに関する詳細は、Epic Games社が提供する[MetaHuman紹介ホームページ](https://www.unrealengine.com/ja/metahuman)をご確認ください。  
   
-DIGITAL HUMANは、MetaHuman標準のフェイシャルコントローラを使ってアニメーションさせることができます。  
+AVERAGE HUMANは、MetaHuman標準のフェイシャルコントローラを使ってアニメーションさせることができます。  
 MetaHumanフェイシャルコントローラの使い方は、Epic Games社が提供する[こちらのYouTube解説動画](https://www.youtube.com/watch?v=GEpH3o44_58)をご確認ください。  
 
 ご利用の際には、同梱されているreadme.txtを必ずお読みください。
 
 ```{note}
-DIGITAL HUMANをご利用される際は、Unreal Engineでの確認 - レンダリングが前提となります。  
+AVERAGE HUMANをご利用される際は、Unreal Engineでの確認 - レンダリングが前提となります。  
 事前にUnreal Engineのインストール、確認用プロジェクトの作成をお願いいたします。  
 Unreal Engineに関する詳細は、Epic Games社が提供する[Unreal Engine紹介ホームページ](https://www.unrealengine.com/ja)をご確認ください。
 ```
@@ -79,14 +79,14 @@ FCSに読み込ませてご利用ください。
 <details>
 <summary>サンプル動画の内容について</summary>
 
- - DIGITAL HUMAN：感情の異なる、全9種類のセリフ動画*（セリフ自体は全て同一です）  
+ - AVERAGE HUMAN：感情の異なる、全9種類のセリフ動画*（セリフ自体は全て同一です）  
  - NIKE SHIKINO：感情の異なる、全9種類のセリフ動画*（セリフ自体は全て同一です）  
   *<span style="font-size:75%;">株式会社モーションアクター - 杉口秀樹様・Mao様のご協力を得て収録</span>
 </details>
 <br>
 
 **5: Profile作成済みのFCS Session参考例データ** \
-動画解析をお試しいただく際の参考例として作成された、DIGITAL HUMAN＆NIKE SHIKINOのFCS Sessionデータです。  
+動画解析をお試しいただく際の参考例として作成された、AVERAGE HUMAN＆NIKE SHIKINOのFCS Sessionデータです。  
 どちらもフェイシャルROM体操動画から約50程度のProfileが既に作成済みのため、サンプル動画を読み込んでProfile作成をしていただくことで、ゼロからSessionを作成することなくFCSをご体験いただけます。
 
 ```{warning}
