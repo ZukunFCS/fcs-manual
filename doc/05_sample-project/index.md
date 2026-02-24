@@ -51,7 +51,7 @@ Mayaでのレンダリングや、Unity*でのご利用はできませんので�
 
 **NIKE SHIKINO** 
 
-```{figure} images/05_sample-project_NIKESHIKINO.jpg
+```{figure} /images/05_sample-project_NIKESHIKINO.jpg
 :width: 80%
 :align: center
 ```
@@ -135,7 +135,7 @@ Mayaデータについては、FCS上でMaya Sceneパス - Maya Baseパスそれ
 ②．Importボタンをクリックして、ファイルダイアログを起動する  
 ③．FCS Sessionフォルダ構造内の該当ファイルを選択し、開くボタンをクリックする
 
-```{figure} images/05_sample-project_movie_import.jpg
+```{figure} /images/05_sample-project_movie_import.jpg
 :width: 80%
 :align: center
 ```
