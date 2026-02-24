@@ -23,7 +23,7 @@ FCSスターターキットには、以下のコンテンツが含まれてい�
 **1: Mayaの3Dモデルデータ** \
 Mayaの3Dモデルデータフォルダには、以下の2種類のモデルデータが含まれています。
 
-**DIGITAL HUMAN** \
+**DIGITAL HUMAN** 
 
 ```{figure} /images/05_sample-project_DIGITALHUMAN.jpg
 :width: 80%
@@ -49,7 +49,7 @@ Mayaでのレンダリングや、Unity*でのご利用はできませんので�
 *<span style="font-size:75%;">Unity Technologies社が開発 - 提供するゲームエンジン</span>
 ```
 
-**NIKE SHIKINO** \
+**NIKE SHIKINO** 
 
 ```{figure} images/05_sample-project_NIKESHIKINO.jpg
 :width: 80%
