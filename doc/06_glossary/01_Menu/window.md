@@ -3,6 +3,36 @@
 ウィンドウを表示するメニューです。ここでは各ウィンドウの説明を行います。
 
 <details>
+<summary><strong style="font-size: 1.25em;">Videos</strong></summary>
+  
+1.25倍
+
+</details>
+
+
+<details>
+<summary><strong style="font-size: 1.5em;">Videos</strong></summary>
+  
+1.5倍
+
+</details>
+
+<details>
+<summary><strong style="font-size: 1.75em;">Videos</strong></summary>
+  
+1.75倍
+
+</details>
+
+<details>
+<summary><strong style="font-size: 2em;">Videos</strong></summary>
+  
+2倍
+
+</details>
+
+
+<details>
 <summary><strong>Videos</strong></summary>
 Videosウィンドウが開きます。
 
