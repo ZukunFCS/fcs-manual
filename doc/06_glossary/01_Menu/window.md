@@ -38,7 +38,7 @@ Remove Videos and Sequencesウィンドウを表示します。
 <strong>Videos 右クリックメニュー</strong>
 
 ```{figure} /images/06_glossary_Menu_window_right_click.png
-:width: 80%
+:width: 40%
 :align: center
 ```
 
@@ -95,6 +95,7 @@ Gallery \
 Editor
 - Solver 
 - Log
+
 
 
 
