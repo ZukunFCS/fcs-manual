@@ -38,7 +38,7 @@ Remove Videos and Sequencesウィンドウを表示します。
 <strong>Videos 右クリックメニュー</strong>
 
 ```{figure} /images/06_glossary_Menu_window_right_click.png
-:width: 100%
+:width: 80%
 :align: center
 ```
 
@@ -80,7 +80,11 @@ Remove Videos and Sequencesウィンドウを表示します。
 - Cancel \
 キャンセル
 
-
+```{note}
+動画の尺変更などが原因で同じ名前の違う内容の動画を読み込みたいとき、
+Keep＞再読み込みとするとピックアップしたフレーム位置にずれが発生し想定していないアニメーション結果になる場合があります。
+適宜DeleteやKeep but unlinkで以前の動画との連携を解除してください。
+```
 
 </details>
 
@@ -91,6 +95,7 @@ Gallery \
 Editor
 - Solver 
 - Log
+
 
 
 
