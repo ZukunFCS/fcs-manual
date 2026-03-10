@@ -14,5 +14,6 @@ FCSマニュアル
    03_workflow/index.md
    06_glossary/index.md
    07_support/index.md
+   04_release-schedule/index.md
    08_advanced_doc_link.rst
 
