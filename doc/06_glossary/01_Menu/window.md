@@ -202,12 +202,82 @@ windowsユーザ名
 
 </details>
 
-- Controllers
+<details>
+<summary><strong style="font-size: 1.5em;">Controller</strong></summary>
+コントローラーの登録を行うためのウィンドウです。
+
+```{figure} /images/06_glossary_Menu_window_controller.jpg
+:width: 80%
+:align: center
+```
+
+<strong>Controllerウィンドウ</strong>
+
+- Filter \
+入力したコントローラー名でコントローラー表にフィルターをかけます。
+- all▼
+   - all / null / upper / lower / gaze / eyelid \
+指定した項目（Region）を絞り込んで表示します。
+- save \
+コントローラー設定を登録・保存します。
+
+- Maya
+   - Add selected \
+選択したコントローラーを登録します。
+   - ☑ Sync \
+表の数値の操作をMayaと同期させます。
+- ▼Value
+   - ▼Min / Max / Default \
+☑ を入れたコントローラーのどの値に対しての処理か指定します。
+   - 0.000 \
+入力する数値
+   - Apply \
+実行ボタン
+- ▼Region
+   - Upper / Lower / Gaze / Eyelid \
+☑ を入れたコントローラーのRegionを設定します。
+   - Remove \
+☑ を入れたコントローラーを表から削除します。
+   - Select All/Unselect All \
+controller上に表示されているコントローラーすべての ☑ / □ を切り替えます。
+- ▼Advanced
+   - Remove empty \
+Regionが登録されていないコントローラー(null)を表から削除します。
+   - Delete all \
+登録したコントローラー情報をすべて削除します。
+   - Reset \
+以前Saveした際のデータの状態に戻します。
+   - Rearrange \
+コントローラー表の順番をドラッグ＆ドロップで変更できるようにします。
+
+```{note}
+プルダウンメニューについて：
+
+- Region名 … 現在登録しているRegionのコントローラーが表示されます。
+プルダウンがRegionの状態でAdd Selectedを押すと、コントローラーをそのRegionに設定された状態で読み込むことができます。
+- all … すべてのRegionのコントローラーが表示されます。
+allの状態でコントローラーを読み込むとRegionにはnull(リージョン未設定)が設定されます。
+- null … リージョンが設定されていないコントローラーが表示されます。
+コントローラー表に一つでもnullがあると登録したコントローラーを保存できないため、
+Save前にリージョンがnullになっているコントローラーがないか確認してください。
+```
+
+```{note}
+最大値最小値は自動で入力されますが、値があまりにも大きすぎる場合は調整を行って下さい。
+```
+
+```{warning}
+数値ではない(True/False)アトリビュートがあると正常に動作しないため、登録から除外してください。
+```
+
+</details>
+
 - Profiles \
 Gallery \
 Editor
 - Solver 
 - Log
+
 
 
 
