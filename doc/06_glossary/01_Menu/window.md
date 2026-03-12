@@ -272,11 +272,98 @@ Save前にリージョンがnullになっているコントローラーがない
 
 </details>
 
-- Profiles \
-Gallery \
-Editor
+<details>
+<summary><strong style="font-size: 1.5em;">Profiles</strong></summary>
+
+```{figure} /images/06_glossary_Menu_window_gallery.jpg
+:width: 80%
+:align: center
+```
+
+<strong>Gallery</strong>
+
+- Count \
+現在表示されているプロファイル数を表示します。
+- [ 　 ]▼
+   - Enabled \
+Enabled状態のプロファイルを表示します。
+   - Disabled \
+Disabled状態のプロファイルを表示します。
+   - Default \
+数値未設定含む、すべてのRegionがデフォルトの値のプロファイルを表示します。
+   - Not Default \
+デフォルトの値ではないプロファイルを表示します。
+   - Neutral \
+ニュートラルのプロファイルを表示します。
+   - No Tags \
+タグのついていないプロファイルを表示します。
+   - [Region名] Enabled \
+そのRegionに値が登録されているプロファイルを表示します。
+- Sync timeline \
+選択したプロファイルが含まれる動画を開いている場合、そのプロファイルのフレームに移動します。
+- Adbanced \
+詳細機能を表示します。
+
+<strong>Misc</strong>
+
+- Hide Tooltip
+   - □ \
+登録されているRegionの図の表示 / 非表示を切り替えます。
+- Display Mode
+   - Image \
+プロファイルをアクターの写真で表示します。
+   - Render \
+プロファイルをキャラクターモデルのスクリーンショットで表示します。
+- Refresh Renders \
+Display Mode＞Render表示用にスクリーンショットを現在のMayaの設定で再出力します。
+
+<strong>Editor</strong>
+
+プロファイルを登録するウィンドウです。 \
+画像に対応する表情をMayaで作成し、FCSに読み込みます。
+
+```{figure} /images/06_glossary_Menu_window_editor.jpg
+:width: 80%
+:align: center
+```
+
+<strong>Editorウィンドウ</strong>
+
+- No Sync▼ \
+数値の操作をMayaと同期させるかどうかの設定です。
+   - To Maya \
+FCSのスライダー上でのプロファイルの数値変更をMayaに転送します。
+   - From Maya \
+saveボタンを押す際にMaya上での表情データを取得しFCSに反映させてから登録します。
+   - Both \
+「To Maya」と「From Maya」をどちらも行い、FCSとMayaを双方向で同期させます。
+   - No Sync \
+FCSとMayaを同期させません。
+- Neutral \
+Neutral表情かどうかを設定します。
+- Enabled \
+このプロファイルを表情推定の計算に含めるかどうか設定します。
+- Controller▼ \
+プロファイル画像右のスライダー表記を切り替えます。
+   - controller \
+スライダーにコントローラー名を表示します。
+   - Value \
+スライダーに値を表示します。
+- Name \
+プロファイル名を表示します。任意の名前に変更することも可能です。
+- save \
+現在の設定でプロファイルを登録・保存します。
+
+```{note}
+コントローラーウィンドウ右部のスライダーはCtrl＋クリックで直接数値を入力することが可能です。
+```
+
+</details>
+
+
 - Solver 
 - Log
+
 
 
 
