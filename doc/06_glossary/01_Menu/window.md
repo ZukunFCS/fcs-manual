@@ -40,9 +40,7 @@ Remove Videos and Sequencesウィンドウを表示します。
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
 
   <div style="flex: 0 0 40%;">
-    
-    ![](/images/06_glossary_Menu_window_right_click.png)
-  
+    <img src="../../images/06_glossary_Menu_window_right_click.png" style="width: 100%;">
   </div>
 
   <div style="flex: 1;">
