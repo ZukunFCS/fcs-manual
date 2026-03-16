@@ -22,7 +22,7 @@ FCSで使用される専門用語について解説します。
 [チュートリアル動画](05_tutorial/index)
 
 **FCS ホームページ** \
-[TOEIFCS ホームページ](https://www.fcs.zukun-lab.com) \
+[TOEIFCS ホームページ](https://www.fcs.zukun-lab.com)
 
 
 ```{toctree}
