@@ -26,7 +26,8 @@ FCSで使用される専門用語について解説します。
 
 <br>
  
-[**FCS ホームページ**](https://www.fcs.zukun-lab.com)
+[**FCS ホームページ**](https://www.fcs.zukun-lab.com) \
+※外部サイトに移行します。
 
 
 ```{toctree}
