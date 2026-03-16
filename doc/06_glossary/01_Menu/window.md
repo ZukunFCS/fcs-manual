@@ -37,17 +37,21 @@ Remove Videos and Sequencesウィンドウを表示します。
 
 <strong>Videos 右クリックメニュー</strong>
 
-```{figure} /images/06_glossary_Menu_window_right_click.png
-:width: 40%
-:align: center
-```
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
 
-- 動画名
-- Open \
-動画を開く（PlayerとTimelineに表示されます）
-- Remove \
-Remove Videos and Sequencesウィンドウを表示します。
+  <div style="flex: 0 0 40%;">
+    ![](/images/06_glossary_Menu_window_right_click.png)
+  </div>
 
+  <div style="flex: 1;">
+    <ul style="margin: 0; padding-left: 20px;">
+      <li><strong>・動画名</strong></li>
+      <li><strong>・Open</strong><br>動画を開く（PlayerとTimelineに表示されます）</li>
+      <li><strong>・Remove</strong><br>Remove Videos and Sequencesウィンドウを表示します。</li>
+    </ul>
+  </div>
+
+</div>
 <strong>Remove Videos and Sequencesウィンドウ</strong>
 
 ```{figure} /images/06_glossary_Menu_window_remove_videos.png
