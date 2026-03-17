@@ -17,11 +17,12 @@ build_all_docs = os.environ.get("build_all_docs", False)
 pages_root = os.environ.get("pages_root", "")
 build_pdf = os.environ.get("build_pdf", )
 suppress_warnings = ["myst.header"]
+myst_enable_extensions = ["colon_fence"]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['myst_parser', 'sphinx_rtd_theme',]
+extensions = ['myst_parser', 'sphinx_rtd_theme', 'sphinx_design', ]
 if build_pdf:
     extensions.append('rst2pdf.pdfbuilder')
     extensions.append('sphinx.ext.autodoc')
