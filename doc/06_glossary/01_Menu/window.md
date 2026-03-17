@@ -68,6 +68,7 @@ Remove Videos and Sequencesウィンドウを表示します。
        動画を開く（PlayerとTimelineに表示されます）
     3. **Remove**
        「Remove Videos and Sequence」ウィンドウを表示します。
+```
 
 
 <strong>Remove Videos and Sequencesウィンドウ</strong>
