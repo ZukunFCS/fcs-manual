@@ -7,7 +7,7 @@ FCSマニュアルの全コンテンツ一覧です。
 [・FCSとは](../02_getting-started/index) \
 [・事前準備](../02_getting-started/01_setup/index) \
 [・インストール&アンインストール](../02_getting-started/02_install/index) \
-[・アップグレード](../02_getting-started/03_upgrade/index) \
+[・アップグレード](　) \
 [・環境設定](../06_glossary/01_Menu/settings) \
 [・スターターキット](../05_sample-project/index)
 
@@ -58,12 +58,12 @@ FCSマニュアルの全コンテンツ一覧です。
 
 **FCSマニュアル 更新情報**
 
-```{include} 01_history/index.md
+```{include} 01_history.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->
 ```
 
- [※過去の更新履歴はこちら](01_history/index)
+ [※過去の更新履歴はこちら](01_history)
 
 
 
