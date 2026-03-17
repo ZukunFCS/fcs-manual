@@ -3,7 +3,9 @@
 ウィンドウを表示するメニューです。ここでは各ウィンドウの説明を行います。
 
 
-```{dropdown} Videos**
+<details>
+<summary><strong style="font-size: 1.5em;">Videos</strong></summary>
+  
 Videosウィンドウが開きます。
 
 Videosウィンドウでは読み込んだHMC動画を一覧で表示します。読み込んだ動画に対しての処理も右クリックから可能です。
@@ -153,7 +155,7 @@ Mayaシーンを出力、保存します
 - Parent \
 動画の親ディレクトリのパスをクリップボードにコピーします
 
-```
+<details>
 
 <details>
 <summary><strong style="font-size: 1.5em;">Processor</strong></summary>
