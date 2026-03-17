@@ -58,7 +58,7 @@ FCSは、インストーラーを使用してインストールします。
    
 
 **アンインストールの手順**   
-1. スタートメニューから、uninstall_FCS_"version"を実行します。  
+1. スタートメニュー、もしくは、FCSのインストール先フォルダから**unins000.exe**を実行します。
 ```{figure} /images/02_getting-started_uninstall_start.jpg
 :width: 80%
 :align: center
