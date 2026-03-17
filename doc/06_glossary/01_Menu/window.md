@@ -155,7 +155,7 @@ Mayaシーンを出力、保存します
 - Parent \
 動画の親ディレクトリのパスをクリップボードにコピーします
 
-<details>
+</details>
 
 <details>
 <summary><strong style="font-size: 1.5em;">Processor</strong></summary>
