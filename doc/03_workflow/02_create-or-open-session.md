@@ -10,17 +10,31 @@ FCS起動後、Sessionデータへアクセスするため
 
 **Create new Sessionで作成されるフォルダ構造**  
 
-| 色 | 内容 | 
-|:-------------|:--------------:|
-| 赤枠      | Project Folderで作成されるフォルダ           |
-| 青枠      | Actorで作成されるフォルダ           |
-| 緑枠      | Characterで作成されるフォルダ             |
-
-
 ```{figure} /images/03_workflow_session_folder_structure.jpg
 :width: 80%
 :align: center
 ```
+
+- 赤枠：Project Folderで作成されるフォルダ
+- 青枠：Actorで作成されるフォルダ
+- 緑枠：Characterで作成されるフォルダ
+
+<br>
+
+- **Facial**
+    動画やMayaシーンデータ等素材を保存する場所
+    - **Assets**：Mayaのプロジェクトファイル（Assets以下）を保存
+    - **RecData**：ROM体操やFCSで解析したい動画を保存
+    - **Scene**：アニメーション出力時のデフォルト出力先
+    - **SetData**：アニメーション出力で「audio」を選択した場合のwav出力先
+- **FCS**
+    解析に使用するデータが保存されるプロジェクトフォルダ
+    - **Actor**：Actor名（入力した名前）のフォルダ
+        - **Character**：Character名（入力した名前）のフォルダ
+            - **RetargetData**：作成したProfileの編集データ
+            - **VideoData**：解析動画のキャッシュ
+            - **.lock**：競合防止用のロックファイル
+            - **fcs_session.yaml**：Session情報を保存しているファイル
 
 |フォルダ　　　　　||| 内容| 説明 | 
 |:-------------:|:-------------|:-------------|:--------------:|:--------------:|
@@ -46,18 +60,20 @@ FCS起動後、Sessionデータへアクセスするため
 :align: center
 ```
 
+<br>
+
 ```{figure} /images/03_workflow_session_create_name.jpg
 :width: 80%
 :align: center
-```  
-| フォルダ | 説明 | 
-|:-------------|:--------------:|
-| Project Folder | FCSの作業データを置きたい場所を指定 | 
-| Actor | モーションキャプチャアクター名    | 
-| Character | 3Dモデルのキャラクター名   | 
-| Maya Scene | 3DモデルのMayaシーンへのパス   | 
-| Maya Base | Assets、workspace.melがあるフォルダへのパス   | 
-| Maya Ver | 3Dモデルを作成したMayaのバージョンを指定 | 
+```
+
+**① Project Folder**：FCSの作業データを置きたい場所を指定
+**② Actor**：モーションキャプチャアクター名
+**③ Character**：3Dモデルのキャラクター名
+**④ Maya Scene**：3DモデルのMayaシーンへのパス
+**⑤ Maya Base**：Assets、workspace.melがあるフォルダへのパス
+**⑥ Maya Ver**：3Dモデルを作成したMayaのバージョンを指定
+
 
 1. Project Folderの設定
 
