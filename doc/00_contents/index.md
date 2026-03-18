@@ -16,8 +16,8 @@ FCSマニュアルの全コンテンツ一覧です。
 **🛠️ 作業フロー**  
 [・作業フロー (全体) ](../03_workflow/index)  
 [・FCS起動](../03_workflow/01_launch-FCS)  
-[・Session作成](../03_workflow/02_create-or-open-session) 
-[・Mayaの起動](../03_workflow/03_launch-maya) 
+[・Session作成](../03_workflow/02_create-or-open-session)  
+[・Mayaの起動](../03_workflow/03_launch-maya)  
 [・Controller登録](../03_workflow/04_register-controller)  
 [・Profile作成](../03_workflow/05_create-profile)  
 [・アニメーション出力](../03_workflow/06_export-animation)  
@@ -29,17 +29,17 @@ FCSマニュアルの全コンテンツ一覧です。
 [・ユーザーガイド](../06_glossary/index)  
 [・Menu/ウィンドウ説明](../06_glossary/01_Menu/index)  
 [・用語集](../06_glossary/02_glossary/index)  
-[・Tips](../06_glossary/03_Tips/index) \
-[・よくある質問](../06_glossary/04_faq/index) \
-[・チュートリアル動画](../06_glossary/05_tutorial/index) \
+[・Tips](../06_glossary/03_Tips/index)  
+[・よくある質問](../06_glossary/04_faq/index)  
+[・チュートリアル動画](../06_glossary/05_tutorial/index)  
 [・FCS ホームページ](https://www.fcs.zukun-lab.com)　※外部サイトに移行します。
 
 <br>
 
- **📦 サポート/その他** \
-[・お問い合わせ](../07_support/index) \
-[・開発ロードマップ](../04_release-schedule/index) \
-[・上級マニュアル](../08_advanced_doc_link)　※外部サイトに移行します。 \
+ **📦 サポート/その他**  
+[・お問い合わせ](../07_support/index)  
+[・開発ロードマップ](../04_release-schedule/index)  
+[・上級マニュアル](../08_advanced_doc_link)　※外部サイトに移行します。  
 [・マニュアル更新履歴](01_history)
 
 
