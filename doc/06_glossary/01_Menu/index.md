@@ -4,30 +4,23 @@
 ※画像（各メニュー）
 
 ---
-**〇File** \
-[Fileメニュー](file.md) \
-Session(セッション)ファイルに関連したメニューです。
+[**〇File**](file.md)  
+Session(セッション)ファイルに関連したメニューについてはこちら。  
 
-**〇Settings** \
-[File/Settingsメニュー](settings.md) \
-File/Settings FCS全般の設定メニューです。
+[**〇Settings**](settings.md)  
+File/Settings FCS全般の設定メニューについてはこちら。    
 
-**〇Window** \
-[Windowメニュー](window.md) \
-ウィンドウを表示するメニューです。ここでは各ウィンドウの説明を行います。
+[**〇Window**](window.md)  
+ウィンドウを表示するメニューです。ここでは各ウィンドウの説明を行います。  
 
-**〇Maya** \
-[Mayaメニュー](maya.md) \
-Mayaに関するメニューです。
+[**〇Maya**](maya.md)  
+Mayaの起動・連携に関するメニューについてはこちら。  
 
-**〇View** \
-[Viewメニュー](view.md) \
-View(レイアウト)に関するメニューです。
+[**〇View**](view.md)  
+View(レイアウト)に関するメニューについてはこちら。  
 
-**〇Explore** \
-[Exploreメニュー](explore.md) \
-Exploreを開きます。
+[**〇Explore**](explore.md)  
+FCSからWindowsエクスプローラーを開く際のメニューについてはこちら。  
 
-**〇Info** \
-[Infoメニュー](info.md) 
+[**〇Info**](info.md)  
 
