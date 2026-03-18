@@ -177,8 +177,8 @@ File &rarr; Session&rarr;New...を選択
 
 5. MayaBaseの設定
 
-    Browseボタンをクリックし、MayaBaseを指定するためウィンドウを起動します。  
-    - workspace.melがある場所(Mayaシーンのプロジェクト設定で登録している場所)を指定  
+   Browseボタンをクリックし、MayaBaseを指定するためウィンドウを起動します。  
+   workspace.melがある場所(Mayaシーンのプロジェクト設定で登録している場所)を指定  
     ```{attention}
     FCS上でポップアップするウィンドウにはworkspace.melが表示されません  
     ``` 
@@ -221,8 +221,6 @@ File &rarr; Session&rarr;New...を選択
     正常に終了した際には自動で削除されます。
     ```
     
-    <br>
-
     ```{note}
     不正に終了するなどして.lockファイルが残ってしまった場合、  
     FCSの起動時にポップアップから削除するか、  
