@@ -152,7 +152,7 @@ allに戻すとすべて表示されます。
 :header-rows: 0
 
 * - ![](/images/03_workflow_register_controller_all_view.jpg)
-* - ![](/images/03_workflow_register_controller_all_view.jpg)
+ - ![](/images/03_workflow_register_controller_all_view.jpg)
 ```
 
 <br>
