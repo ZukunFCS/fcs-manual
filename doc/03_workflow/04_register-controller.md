@@ -154,7 +154,11 @@ allに戻すとすべて表示されます。
 :header-rows: 0
 
 * - ![](/images/03_workflow_register_controller_all_view.jpg)
-  - ![](/images/03_workflow_register_controller_all_view.jpg)
+
+    all選択時
+  - ![](/images/03_workflow_register_controller_null_view.jpg)
+
+    null選択時
 ```
 
 <br>
@@ -223,12 +227,13 @@ Regionが未登録状態(null)のものがあるとSave出来ません
 
 <br>
 
-```{rubric} **コントローラーの登録順を戻したい場合**
-```
- - Reset →controller info登録時の順番に戻ります。
-```{figure} /images/03_workflow_register_controller_reset.jpg
-:width: 80%
-:align: center
+**コントローラーの登録順を戻したい場合**
+```{list-table}
+:widths: 40 60
+:header-rows: 0
+
+* - ![](/images/03_workflow_register_controller_reset.jpg)
+  - Reset → controller info登録時の順番に戻ります。  
 ```
 
 <br>
