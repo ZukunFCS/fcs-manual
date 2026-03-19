@@ -155,12 +155,10 @@ allに戻すとすべて表示されます。
 
 * - ![](/images/03_workflow_register_controller_all_view.jpg)
 
-    all選択時
-
+    all選択時  
   - ![](/images/03_workflow_register_controller_null_view.jpg)
 
-    null選択時
-    
+    null選択時  
 ```
 
 <br>
