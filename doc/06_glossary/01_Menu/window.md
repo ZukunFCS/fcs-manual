@@ -464,12 +464,102 @@ Neutral表情かどうかを設定します。
 
 </details>
 
+**Timelineの画面説明**
 
-- Solver 
-- Log
+```{figure} /images/03_workflow_create_profile_timeline.png
+:width: 80%
+:align: center
+```
+- Timeline：バーを左右に動かし、ビデオを手動で再生させる
+- [0][20130]：ビデオの縮尺を変更できる。
+- [7967]：現在のフレーム数
+- |< >|：1フレーム前/後に移動する
+- << >>：登録したprofileにジャンプする
+- ＞ ||：動画の再生 - 停止（再生すると一時停止ボタンが表示される）
+- Video：Video playerに表示されている動画名
 
+**Editorの画面説明**
 
+```{figure} /images/03_workflow_create_profile_editor_explanation.jpg
+:width: 80%
+:align: center
+```
+Sync:
+- To Maya：登録されているprofile情報をMayaに転送する
+- From Maya at save：saveする際にMaya上での調整データを取得しFCSに反映する
+- Both：FCSとMayaを双方向で連動させる
+- No Sync：FCSとMayaを連動させない
 
+```{note}
+本ページではProfileの追加手順 - 編集手順について記載しております  
+Mayaをベースに表情を調整するのか、FCSをベースに表情を調整するのかは任意で使い分けることができますが、  
+最初は「Both」での使用をオススメします。
+```
+
+- Neutral：デフォルトの表情として必ず1つ登録する
+- Enabled：解析する素材として使用する
+
+Controller▼
+- Controller：コントローラー表示が名前になる
+- Value：コントローラー表示が数字になる 
+
+▼Region
+- Upper/Eyelid/Gaze/Lower：調整した情報を登録する  
+
+▼Utils
+- To Maya：FCS上で操作した値をMayaへ送る
+- From Maya：Mayaで操作した値をFCSへ送る
+- Predict：画像から表情を解析し、Mayaの3Dモデルに反映する機能
+
+LM：LandMarkを表示する  
+
+▼Filter
+- ▼all/Upper/Eyelid/Gaze/Lower：選択した項目でコントローラーを絞り込む
+- [ ]：入力した文字でコントローラーを絞り込む  
+
+▼Reset：入力した情報を削除する
+- Name：Profileとして登録する名前
+- Save：変更した情報を保存する
+- 画像部分：Timelineから+で追加した画像が表示される
+- コントローラー：Controller Infoで登録したコントローラーが表示される
+
+**Galleryの画面説明**
+
+```{figure} /images/03_workflow_create_profile_gallery_explanation.jpg
+:width: 80%
+:align: center
+```
+作成したProfileが表示されるウィンドウ
+
+&larr;&rarr;：1列に表示するprofileの数を変更する。◀を押すと少なく、&rarr;を押すと多くなる。最小3、最大10。
+Count:○○：登録しているprofileの総数
+
+All&darr;：該当する項目を絞り込む
+- All：すべてのprofileを表示する
+- Enabled：解析に使用するprofileを表示する。Enabledに ☑ を入れて登録したprofileが対象となる。
+- Disabled：解析に使用しないprofileを表示する。Enabledに ☑ を入れずに登録したprofileが対象となる。
+- Default：数値がdefaultのprofileを表示する。
+- Not Default：数値がdefaultではないprofileを表示する。
+- Neutral：Neutralにチェックを入れて登録したprofileを表示する。
+- （Region）Enabled：該当する（Region）に ☑ を入れて登録したprofileを表示する。
+- （Region）Disabled：該当する（Region）に ☑ を入れず登録したprofileを表示する。
+
+Sync timeline ☑ ：登録したprofileと同じ動画を開いた状態でprofileを選択すると、該当するフレームにジャンプする。
+
+&uarr;&darr;：ソートの昇順 降順を変更する
+
+Video▼：ソート機能
+- Video：profileのName順にソート
+- Created At：profileを作成した日時で順にソート
+- Saved At：saveした日時で順にソート
+- （controller名）：該当する（controller）に登録した数値でソート
+  
+ピックアップした画像
+- 緑：「Neutral」に ☑ を入れて登録したProfile  
+- 赤：数値がデフォルト状態/未編集のProfile  
+- 青：選択中（編集中）のprofile  
+- 黒：「Enabled」の ☑ を外し、「Disabled」で登録したprofile  
+- 白：リターゲット後、登録したprofile 
 
 
 

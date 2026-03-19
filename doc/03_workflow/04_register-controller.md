@@ -146,7 +146,7 @@ select Allは表示されているもののみ選択します。
 
 <br>
 
-<!-- nullとallを横に並べたい -->
+
 nullで絞り込んでいるのでこの状態でRegionを登録すると非表示になります。  
 allに戻すとすべて表示されます。  
 ```{list-table}
@@ -156,9 +156,11 @@ allに戻すとすべて表示されます。
 * - ![](/images/03_workflow_register_controller_all_view.jpg)
 
     all選択時
+
   - ![](/images/03_workflow_register_controller_null_view.jpg)
 
     null選択時
+    
 ```
 
 <br>
