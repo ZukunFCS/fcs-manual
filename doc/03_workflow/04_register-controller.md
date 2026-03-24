@@ -1,19 +1,18 @@
 ## Contorollerの登録
 
-Window&rarr;ControllerでConrollerウィンドウが起動します。  
+Window&rarr;ControllerでContollerウィンドウが起動します。  
 Contollerウィンドウでは、接続しているMayaSceneのコントローラーリグを登録することができます。
 
-<!-- コントローラーウィンドウ画像　取り直す -->
 ```{list-table}
 :widths: 40 60
 :header-rows: 0
 
 * - ![](/images/03_workflow_register_controller_window_controller.jpg)
-  - Window&rarr;ControllerでConrollerウィンドウが起動します
+  - Window&rarr;ControllerでContollerウィンドウが起動します。
 ```
 
 ```{note}
-コントローラーウィンドウについての説明は[ユーザーガイド/Menu/Window/controller](../06_glossary/01_Menu/window)をご覧ください。
+コントローラーウィンドウについての説明は[ユーザーガイド/Menu/Window/Contoller](../06_glossary/01_Menu/window)をご覧ください。
 ```
 
 <br>
@@ -25,9 +24,9 @@ FCSでは顔のパーツ区分のことをRegionと呼びます。
 
 
 ```{note}
- - Upper（アッパー）：眉周りの動きのこと。眉の上下や眉間にしわを寄せる動きなど。  
- - Eyelid（アイリッド）：まぶたの動きのこと。まばたきや目を細める動きなど。  
- - Gaze（ゲイズ）：目線の動きのこと。目線の上下左右や寄り目の動きなど。  
+ - Upper（アッパー）：眉周りの動きのこと。眉の上下や眉間にしわを寄せる動きなど  
+ - Eyelid（アイリッド）：まぶたの動きのこと。まばたきや目を細める動きなど  
+ - Gaze（ゲイズ）：目線の動きのこと。目線の上下左右や寄り目の動きなど   
  - Lower（ロウワー）：鼻、頬、口周りの動きのこと。頬や鼻から下の動き全般
 ```
 
@@ -37,9 +36,9 @@ FCSでは顔のパーツ区分のことをRegionと呼びます。
 
 <br>
 
-また、コントローラーリグの登録時にRegionの最大値最小値も登録できます。  
+また、コントローラーリグの登録時にコントローラーの最大値最小値も登録できます。  
 最大値最小値は自動で入力されますが、値があまりにも大きすぎる場合は調整を行って下さい。  
-<!-- 画像追加 -->
+
 ```{figure} /images/03_workflow_register_controller_min_max.jpg
 :width: 80%
 :align: center
@@ -47,7 +46,7 @@ FCSでは顔のパーツ区分のことをRegionと呼びます。
 <br>
 
 ```{warning}
-数値ではない(True/False)アトリビュートがあると正常に動作しないため、登録から除外してください。
+【True/False】といったアトリビュートなど、数値ではないアトリビュートがあると正常に動作しないため、登録から除外してください。
 ```
 
 <br><br>
