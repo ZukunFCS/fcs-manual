@@ -1,8 +1,47 @@
 ## File
 
-**Session**
+`````{tab-set}
 
-**New** 
+````{tab-item} File
+
+Session(セッション)ファイルに関連したメニューです。  
+セッションを開く、設定の変更、新規セッションの作成などを実行することができます。  
+
+```{figure} /images/
+:width: 80%
+:align: center
+```  
+
+````
+
+````{tab-item} Session ▶
+ - New
+  セッションを新規で作成します。  
+ 【Create new Session】ウィンドウを開きます。
+ - Open
+ - Info
+ - 
+
+````
+
+
+````{tab-item} Create new Session
+
+セッションを新規で作成します。  
+Create new Sessionウィンドウを開きます。  
+```{figure} /images/
+:width: 80%
+:align: center
+```
+
+
+
+
+`````
+
+
+
+**** 
 - Create new Session
 
 ```{figure} /images/03_workflow_session_create_name.jpg
