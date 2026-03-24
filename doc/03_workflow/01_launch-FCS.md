@@ -16,11 +16,8 @@
 ```
 
 FCS初回起動時ライセンスキーの入力を求められます。  
- - New Licenseにライセンスキーを入力
- - Update
-
+ - 【New License】にライセンスキーを入力し、【Update】を押す。   
 ライセンス認証完了後FCSを操作できるようになります。  
-
 ```{figure} /images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center
@@ -32,9 +29,7 @@ FCS初回起動時ライセンスキーの入力を求められます。
 ```
 
 FCSを起動後、ライセンスの期限切れだった場合にはLicenseInfoがポップします。  
- - 新しいライセンスキーをNew Licenseに入力  
- - Update  
-
+ - 新しいライセンスキーを【New License】に入力し、【Update】を押す。   
 ```{figure} /images/03_workflow_launch_FCS_license.jpg
 :width: 80%
 :align: center

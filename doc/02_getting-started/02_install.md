@@ -41,7 +41,7 @@ FCSは、インストーラーを使用してインストールします。
 <br>
   
 5. スタートメニューフォルダを指定します。
-デフォルトはFCSです。  
+デフォルトは【FCS】です。  
 変更する場合は、フォルダ名を記入、または参照から選択してください。  
 ```{figure} /images/02_getting-started_install_start_menu.jpg
 :width: 80%
@@ -85,7 +85,7 @@ FCSは、インストーラーを使用してインストールします。
 
 <br>
 
-2. 問題がなければOKを選択します。
+2. 問題がなければ【OK】を選択します。
 ```{figure} /images/02_getting-started_uninstall_complete.jpg
 :width: 80%
 :align: center
