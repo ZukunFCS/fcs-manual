@@ -10,7 +10,7 @@ Windowsエクスプローラー上のフォルダを開きます。
 :widths: 40 60
 :header-rows: 0
 
-* - ![](/images/06_glossary_Explore_Explore.jpg)
+* - ![](/images/06_glossary_Menu_Explore_Explore.jpg)
   -  ① Project：プロジェクトフォルダを開きます。  
      ② FCS：FCSフォルダを開きます。
      ③ Facial：Facialフォルダを開きます。  
@@ -28,7 +28,7 @@ Windowsエクスプローラー上のフォルダを開きます。
 :widths: 40 60
 :header-rows: 0
 
-* - ![](/images/06_glossary_Explore_FCS.jpg)
+* - ![](/images/06_glossary_Menu_Explore_FCS.jpg)
   -  ① Actor：Actorフォルダを開きます。  
      ② Character：Characterフォルダを開きます。  
      ③ Retarget Folder：RetargetDataフォルダを開きます。  
@@ -46,7 +46,7 @@ Windowsエクスプローラー上のフォルダを開きます。
 :widths: 40 60
 :header-rows: 0
 
-* - ![](/images/06_glossary_Explore_Facial.jpg)
+* - ![](/images/06_glossary_Menu_Explore_Facial.jpg)
   -  ① Actor：Facialフォルダを開きます。  
      ② Assets：workspaceフォルダを開きます。  
      ③ RecData：RecDataフォルダを開きます。  
@@ -65,7 +65,7 @@ Windowsエクスプローラー上のフォルダを開きます。
 :widths: 40 60
 :header-rows: 0
 
-* - ![](/images/06_glossary_Explore_Info.jpg)
+* - ![](/images/06_glossary_Menu_Explore_Info.jpg)
   -  ① License：ライセンスの管理  
      ② About：FCSについて  
      ③ Help：FCSマニュアルの表示  
