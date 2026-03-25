@@ -1,9 +1,5 @@
 ## FCS起動
 
-```{figure} /images/03_workflow_launch_FCS_exe.jpg
-:width: 50%
-:align: center
-```
 こちらはFCSがインストールされてからの手順です。  
 まだFCSのインストールが完了していない場合は、[FCSのインストール](../02_getting-started/02_install)ページをご覧ください。
 
