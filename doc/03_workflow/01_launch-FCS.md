@@ -1,7 +1,7 @@
 ## FCS起動
 
 ```{figure} /images/03_workflow_launch_FCS_exe.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 こちらはFCSがインストールされてからの手順です。  
