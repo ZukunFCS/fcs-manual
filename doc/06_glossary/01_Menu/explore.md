@@ -6,17 +6,18 @@ Windowsエクスプローラー上のフォルダを開きます。
 
 ````{tab-item} Explore
 
-```{list-table}
-:widths: 40 60
-:header-rows: 0
 
-* - ![](/images/06_glossary_Menu_Explore_Explore.jpg)
-  -  ① Project：プロジェクトフォルダを開きます。  
-     ② FCS：FCSフォルダを開きます。
-     ③ Facial：Facialフォルダを開きます。  
-     ④ tmp：Logなどが格納されているユーザー設定フォルダを開きます。  
-
+```{figure} /images/06_glossary_Menu_Explore_Explore.jpg
+:width: 80%
+:align: center
 ```
+
+<br>
+
+① Project：プロジェクトフォルダを開きます。  
+② FCS：FCSフォルダを開きます。
+③ Facial：Facialフォルダを開きます。  
+④ tmp：Logなどが格納されているユーザー設定フォルダを開きます。
 
 ````
 
@@ -76,7 +77,7 @@ Windowsエクスプローラー上のフォルダを開きます。
 
 `````
 
-他のMenuページはこちら。  
+**Menu説明 目次**  
 ```{include} index.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->
