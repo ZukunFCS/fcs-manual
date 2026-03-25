@@ -287,6 +287,31 @@ Mayaシーンを保存する
 ⑥　Log \
 処理状況のログが表示されます
 
+**出力画面説明**
+
+```{figure} /images/03_workflow_export_animation_processor_list.jpg
+:width: 80%
+:align: center
+```
+Output Folder：出力先を指定
+
+Output Targets
+-  ☑ Animation：アニメーションデータを生成、Mayaに反映
+-  ☑ Audio：解析する動画の音声データをMayaに反映
+-  ☑ Frames：解析する動画の連番画像を生成、Mayaのイメージプレーン上に反映
+-  ☑ Landmark Frames：顔の動きをオートトラッキングする連番画像を生成、Mayaのイメージプレーン上に反映
+-  ☑ Playblast：出力されたアニメーションをmov形式の動画で出力、保存する
+-  ☑ Scene：出力されたMayaシーンを自動で保存する
+
+Advenced  
+-  ☑ Reprocess：作成したProfile情報を読み取る
+
+Output Filename：出力されるデータ名。任意の名前に変更可能
+
+Start：アニメーションの出力を開始する
+
+
+
 <strong>フォルダ名・動画名を指定するパラメータについて</strong>
 
 - {solver} \

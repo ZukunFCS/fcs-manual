@@ -18,10 +18,8 @@
 
 <br>
 
-
 1.Videosウィンドウで解析/出力したい動画名の上で右クリックします。  
-画像のメニューが表示されるので  
-▼Process を選択し、該当する項目に ☑ を入れ、
+画像のメニューが表示されるので、▼Process を選択・該当する項目に ☑ を入れ、
 ```{figure} /images/03_workflow_export_animation_process_check.jpg
 :width: 80%
 :align: center
@@ -86,73 +84,85 @@ playblastやsceneに ☑ していた場合、
 
 ```{rubric} **動画の一部範囲のみを再処理して出力**
 ```
-※本機能は『FCS 25.04.02』以降に搭載されています。  
+
+Timelineの一部表示機能を使用して、FCSのTimelineで表示している範囲のみのアニメーションを出力することができます。  
+※本機能は **FCS 25.04.02** 以降に搭載されています。  
 
 <br>
 
-タイムラインの一部表示機能を使用して、FCSのタイムラインで表示している範囲のみのアニメーションを出力することができます。  
-
-<br>
-
-
+1.FCSのTimeline範囲をアニメーション出力したい部分に設定します。
 ```{figure} /images/03_workflow_export_animation_partial_process.jpg
 :width: 80%
 :align: center
 ```
-- FCSのタイムライン範囲をアニメーション出力したい部分に設定
 
+<br><br>
+
+2.Timelineの動画名を右クリックし、【Segment Only】にチェックを入れ、  
+【Start processing】を押します。
 ```{figure} /images/03_workflow_export_animation_partial_process_export.jpg
 :width: 80%
 :align: center
 ```
-- FCSのタイムラインの動画名を右クリックして表示されるメニューからのみ実行可能(Videosウィンドウからは実行不可)
-- ☑ Partial Process：動画の一部範囲のみ出力、選択項目はアニメーションのみ
-- Start processingで処理開始
 
+<br>
+
+```{admonition} Maya Start の値について  
+ FCSで一部範囲を指定し出力したアニメーションをMayaの指定のフレームに出力できます。  
+ <例>
+ - FCS Timeline上の指定範囲：100F～200F
+ - Maya Start：50  
+ →この場合、アニメーションはMayaの『50F～150F』に出力されます。  
+
+<dr>
+
+デフォルトでは『-1』となっており、この場合はFCSで指定した範囲と同じフレームに出力されます。  
+例：上記の場合、Mayaでも100F～200Fに出力されます。
+```
+
+<br>
+
+````{caution}
+Timelineの動画名を右クリックし表示されるメニューからのみ実行可能です。  
+（Videosウィンドウからは実行不可）
+
+```{figure} /images/03_workflow_export_animation_partial_process_export02.jpg
+:width: 80%
+:align: center
+```
+
+````
+
+<br>
+
+3.実行結果 指定した範囲のみアニメーションが出力されます。
 ```{figure} /images/03_workflow_export_animation_partial_process_complete.jpg
 :width: 80%
 :align: center
-
-実行結果
 ```
+
+<br><br>
+
+**ーーーーーここからーーーーーーー**
+```{rubric} **複数のアニメーション出力**
+```
+
+```{note}
+出力画面の項目についての説明は  
+[ユーザーガイド/Menu/Window/Processer](../06_glossary/01_Menu/window)をご確認ください。
+```
+
 <br>
 
-**複数のアニメーション出力**
-
-**出力画面説明**
-
-```{figure} /images/03_workflow_export_animation_processor_list.jpg
-:width: 80%
-:align: center
-```
-Output Folder：出力先を指定
-
-Output Targets
--  ☑ Animation：アニメーションデータを生成、Mayaに反映
--  ☑ Audio：解析する動画の音声データをMayaに反映
--  ☑ Frames：解析する動画の連番画像を生成、Mayaのイメージプレーン上に反映
--  ☑ Landmark Frames：顔の動きをオートトラッキングする連番画像を生成、Mayaのイメージプレーン上に反映
--  ☑ Playblast：出力されたアニメーションをmov形式の動画で出力、保存する
--  ☑ Scene：出力されたMayaシーンを自動で保存する
-
-Advenced  
--  ☑ Reprocess：作成したProfile情報を読み取る
-
-Output Filename：出力されるデータ名。任意の名前に変更可能
-
-Start：アニメーションの出力を開始する
-
-**複数のアニメーション出力方法**
-
-Videoウィンドウで
-
- - 解析/出力したい動画名の左側の ☑ をつける
+Videosウィンドウで解析/出力したい動画名の左側の ☑ をつける  
 ```{figure} /images/03_workflow_export_animation_processor_video_check.jpg
 :width: 80%
 :align: center
 ```
 
- - Processorウインドウを開く
+<br><br>
+
+Processorウインドウを開く
 ```{figure} /images/03_workflow_export_animation_window_processor.jpg
 :width: 80%
 :align: center
