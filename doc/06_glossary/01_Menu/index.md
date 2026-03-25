@@ -1,7 +1,12 @@
 ## Menu　ウィンドウ説明
 
-ここではFCSの各メニュー項目について説明します。
-※画像（各メニュー）
+ここではFCSの各メニュー項目について説明します。  
+```{figure} /images/06_glossary_01_Menu_index.jpg
+:width: 80%
+:align: center
+```
+
+<br>
 
 ---
 
