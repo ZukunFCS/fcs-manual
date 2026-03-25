@@ -194,6 +194,34 @@ Mayaシーンを出力、保存します
    - Start processing \
 上記の設定で処理を実行します
 
+**出力画面説明**
+
+```{figure} /images/03_workflow_export_animation_process_list.jpg
+:width: 80%
+:align: center
+```
+
+▼Process
+
+☑ Reprocess：作成したProfile情報を読み取る
+
+```{note}
+基本的に ☑ を付けることをオススメします。
+```
+
+Upload Options
+-  ☑ Animation：アニメーションデータを生成、Mayaに反映
+-  ☑ Audio：解析する動画の音声データをMayaに反映
+-  ☑ Frames：解析する動画の連番画像を生成、Mayaのイメージプレーン上に反映
+-  ☑ Landmark Frames：顔の動きをオートトラッキングする連番画像を生成、Mayaのイメージプレーン上に反映
+
+Export Options
+-  ☑ Playblast：出力されたアニメーションをmov形式の動画で出力、保存する
+-  ☑ Scene：出力されたMayaシーンを自動で保存する
+
+Start process：アニメーションの出力を開始する
+
+
 <strong>Copy</strong>
 
 ```{figure} /images/06_glossary_Menu_window_copy.png

@@ -3,74 +3,65 @@
 
 ```{caution}
 解析する動画が広角レンズを使って撮影されている場合、Solverの設定変更が必要です。  
-詳しくはSolverの詳細設定ページをご確認ください。
+詳しくは[ユーザーガイド/Menu/Window/Solver](../06_glossary/01_Menu/window)をご確認ください。
 ```
 
-**単体のアニメーション出力**
+<br>
 
-**出力画面説明**
-
-```{figure} /images/03_workflow_export_animation_process_list.jpg
-:width: 80%
-:align: center
+```{rubric} **単体のアニメーション出力**
 ```
-
-▼Process
-
-☑ Reprocess：作成したProfile情報を読み取る
 
 ```{note}
-基本的に ☑ を付けることをオススメします。
+出力画面の項目についての説明は  
+[ユーザーガイド/Menu/Window/Videos 右クリック](../06_glossary/01_Menu/window)をご確認ください。
 ```
 
-Upload Options
--  ☑ Animation：アニメーションデータを生成、Mayaに反映
--  ☑ Audio：解析する動画の音声データをMayaに反映
--  ☑ Frames：解析する動画の連番画像を生成、Mayaのイメージプレーン上に反映
--  ☑ Landmark Frames：顔の動きをオートトラッキングする連番画像を生成、Mayaのイメージプレーン上に反映
+<br>
 
-Export Options
--  ☑ Playblast：出力されたアニメーションをmov形式の動画で出力、保存する
--  ☑ Scene：出力されたMayaシーンを自動で保存する
 
-Start process：アニメーションの出力を開始する
-
-**単体のアニメーション出力方法**
-
-Videoウィンドウで
- - 解析/出力したい動画名の上で右クリック
-
-画像のメニューが表示されるので
- - ▼Process　を選択
- - 該当する項目に ☑ を入れ
-
+1.Videosウィンドウで解析/出力したい動画名の上で右クリックします。  
+画像のメニューが表示されるので  
+▼Process を選択し、該当する項目に ☑ を入れ、
 ```{figure} /images/03_workflow_export_animation_process_check.jpg
 :width: 80%
 :align: center
 ```
 
- - Start process
+<br><br>
+
+2.【Start process】を押します。  
 ```{figure} /images/03_workflow_export_animation_start_process.jpg
 :width: 80%
 :align: center
 ```
 
+<br>
 
-```{note}
- - 解析結果を見てから再度調整を行いたい場合はPlayblastやSceneの ☑ を外しておくと時間短縮できます。
-```
+````{note}
+解析結果を見てから再度調整を行いたい場合はPlayblastやSceneの ☑ を外しておくと時間短縮できます。  
+
 ```{figure} /images/03_workflow_export_animation_export_options.jpg
 :width: 80%
 :align: center
 ```
 
- - 初回出力時は時間がかかるため待機
+````
+
+<br>
+
+````{note}
+ 初回出力時は時間がかかる場合があります。  
+
 ```{figure} /images/03_workflow_export_animation_export.jpg
 :width: 80%
 :align: center
 ```
 
-- Mayaシーン上に ☑ を入れた項目が反映されていく
+````
+
+<br>
+
+3.出力中Mayaシーン上に ☑ を入れた項目が反映されていきます。  
    - タイムスライダーに音声データ
    - イメージプレーンに連番画像
    - アニメーションデータ の順で反映される
@@ -81,19 +72,28 @@ Videoウィンドウで
 :align: center
 ```
 
-```{note}
-【playblastやsceneに ☑ していた場合】
+<br><br>
 
-出力が完了したらエクスプローラーがポップアップします。
-```
+4.playblastやsceneに ☑ していた場合、  
+出力が完了したらエクスプローラーがポップアップします。  
+
 ```{figure} /images/03_workflow_export_animation_export_complete.jpg
 :width: 80%
 :align: center
 ```
-<br>
 
-**動画の一部範囲のみを再処理して出力**  \
+<br><br>
+
+**ーーーーーーーーーーーー以下編集中ーーーーーーーーーーーー**
+
+```{rubric} **動画の一部範囲のみを再処理して出力**
+```
+
+
+
 （FCS 25.04.02～）
+
+
 ```{note}
 タイムラインの一部表示機能を使用して、FCSのタイムラインで表示している範囲のみのアニメーションを出力することができます。
 ```
