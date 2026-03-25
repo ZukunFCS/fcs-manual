@@ -75,3 +75,9 @@ Windowsエクスプローラー上のフォルダを開きます。
 ````
 
 `````
+
+他のMenuページはこちら。  
+```{include} index.md
+    :start-after: <!--start_here-->
+    :end-before: <!--end_here-->
+```

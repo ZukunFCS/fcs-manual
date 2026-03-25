@@ -8,10 +8,9 @@
 :header-rows: 0
 
 * - ![](/images/06_glossary_Menu_Info.jpg)
-  -  ① License：ライセンスの管理  
-     ② About：workspaceフォルダを開きます。  
-     ③ RecData：FCSについて  
-     ④ Scenes：Scenesフォルダを開きます。  
-     ⑤ SetData：SetDataフォルダを開きます。  
-     ⑥ Output Scene：_Outputsフォルダを開きます。  
+  -  ① License：ライセンスの管理、License infoが開きます。  
+     ② About：FCSについて  
+     ③ Help：FCSマニュアル(外部サイト)へ移行します。  
+     ④ 3rd party licenses：  
+       サードパーティーライセンスについての一覧が表示されます。
 ```
