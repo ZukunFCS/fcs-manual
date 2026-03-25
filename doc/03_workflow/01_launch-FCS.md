@@ -8,12 +8,12 @@
 その際には、[HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。
 ```
 
+<br>
+
 ```{rubric} **ライセンスの入力**
 ```
 
 FCS初回起動時ライセンスキーの入力を求められます。  
-
-<br>
 
 【New License】にライセンスキーを入力し、【Update】を押します。   
 ライセンス認証完了後FCSを操作できるようになります。  
@@ -22,7 +22,7 @@ FCS初回起動時ライセンスキーの入力を求められます。
 :align: center
 ```
 
-<br>
+<br><br>
 
 ```{rubric} **ライセンスの更新**
 ```
@@ -40,3 +40,5 @@ FCSを起動後、ライセンスの期限切れだった場合にはLicenseInfo
 Updateを押しても正常に動作しない場合があります。   
 その際には、[HELTECホームページ](https://sensing.heltec.co.jp/contact/)からお問い合わせください。
 ```
+
+<br>
