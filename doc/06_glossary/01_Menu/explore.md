@@ -8,7 +8,6 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 ````{tab-item} Explore
 
-
 ```{figure} /images/06_glossary_Menu_Explore_Explore.jpg
 :width: 80%
 :align: center
@@ -52,30 +51,13 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 <br>
 
-① Actor：Facialフォルダを開きます。  
-② Assets：workspaceフォルダを開きます。  
-③ RecData：RecDataフォルダを開きます。  
-④ Scenes：Scenesフォルダを開きます。  
+① Facial：Facialフォルダを開きます。  
+② Assets：Assetsフォルダを開きます。  
+③ Scenes：Scenesフォルダを開きます。  
+④ RecData：RecDataフォルダを開きます。  
 ⑤ SetData：SetDataフォルダを開きます。  
-⑥ Output Scene：_Outputsフォルダを開きます。  
-
-````
-
-
-
-````{tab-item} Info
-
-```{figure} /images/06_glossary_Menu_Explore_Info.jpg
-:width: 80%
-:align: center
-```
-
-<br>
-
-① License：ライセンスの管理  
-② About：FCSについて  
-③ Help：FCSマニュアルの表示  
-④ 3rd party licenses：サードパーティーライセンスについて  
+⑥ Maya workspace：Mayaのworkspaceが格納されているフォルダを開きます。  
+⑦ Output Scene：_Outputsフォルダを開きます。  
 
 ````
 

@@ -34,12 +34,29 @@ FCSでは作業したセッションを出力することができます。
 
 <br>
 
+<!--start_here-->
+
 **①Project Folder**：出力先を指定  
 **②Actor**：アクター名を指定 ※アーカイブ化の場合はそのままでも問題ありません  
 **③Character**：キャラクター名を指定　個mwアーカイブ化の場合はそのままでも問題ありません  
 **④Profile**: 現在のセッションのプロファイルを出力するかどうかを指定  
 **⑤Videos**: 出力先にビデオデータをコピーするかを指定  
-**⑥Assets**: 出力先にFacial/Assetsのフォルダーをコピーするかを指定  
+　 - No video：動画データをコピーしない  
+   - Associated video：関連する動画のみコピー  
+   - All files：Recdata内のすべての動画データをコピー  
+**⑥Facial/Assets Folder**: 出力先にFacial/Assetsのフォルダーをコピーするかを指定  
+
+<br>
+
+
+```{note}
+Project Folderの項目ではエクスポート先のプロジェクトフォルダのパスを指定します。  
+このときプロジェクトフォルダ以下のフォルダ構造が存在しない場合は新しくフォルダが作成されるので、  
+例えばE:\test\FCS\testActor\testCharacterと同じ階層にtestCharacter2をエクスポートしたい場合には  
+Project Folderの項目に「E:\test」を指定し、Characterの項目に「testCharacter2」と入れてください。
+```
+
+<!--end_here-->
 
 <br>
 
