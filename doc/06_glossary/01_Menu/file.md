@@ -15,12 +15,16 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 <br>
 
 ① Settion：Session(セッション)ファイル関連メニューです。  
+
 ② Settings：[Settings](settings.md)参照してください。  
+
 ③ Quit：FCSを終了します。  
 
 ````
 
 ````{tab-item} Session ▶
+
+<br>
 
 Session(セッション)ファイルに関連したメニューです。  
 Sessionを開く、設定の変更、新規Sessionの作成などを実行することができます。  
@@ -34,11 +38,14 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 ① New：Sessionを新規で作成します。   
 　「Create new Session」ウィンドウを開きます。  
+
 ② Open：Sessionを開きます。  
 　・Open...：ダイアログから.yamlファイルを選択してSessionを開きます。  
 　・「パス」：最近使用したSessionのパスが表示されます。  
+
 ③ Info：Sessionに関する情報を確認できます。  
 　「Session Data」ウィンドウが開きます。  
+
 ④ Export：Sessionをエクスポートするための「Export Session」ウィンドウが開きます。  
 
 ````
@@ -46,8 +53,10 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 ````{tab-item} Create new Session
 
+<br>
+
 ・Session ▶ New  
-  Sessionを新規作成する際に開かれるウィンドウです。  
+　Sessionを新規作成する際に開かれるウィンドウです。  
 
 ```{figure} /images/03_workflow_session_create_name.jpg
 :width: 80%
@@ -93,7 +102,8 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 ````
 
-````{tab-item} Session Data
+````{tab-item} Session Data  
+
 ・Session ▶ info  
 　右クリックメニューから内容のコピーや編集を行うことができます。  
 
@@ -125,6 +135,9 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 
 ````{tab-item} Export Session
+
+<br>
+
 ・Session ▶ Export  
 　作業したSessionを出力することができます。  
 
@@ -147,6 +160,7 @@ Sessionのエクスポートについては[作業フロー/エクスポート](
 
 `````
 
+<br><br>
 
 **Menu説明 目次**  
 ```{include} index.md

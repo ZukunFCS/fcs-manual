@@ -41,9 +41,9 @@ FCSでは作業したセッションを出力することができます。
 **③Character**：キャラクター名を指定　個mwアーカイブ化の場合はそのままでも問題ありません  
 **④Profile**: 現在のセッションのプロファイルを出力するかどうかを指定  
 **⑤Videos**: 出力先にビデオデータをコピーするかを指定  
-　 - No video：動画データをコピーしない  
-   - Associated video：関連する動画のみコピー  
-   - All files：Recdata内のすべての動画データをコピー  
+　・ No video：動画データをコピーしない  
+　・ Associated video：関連する動画のみコピー  
+　・ All files：Recdata内のすべての動画データをコピー  
 **⑥Facial/Assets Folder**: 出力先にFacial/Assetsのフォルダーをコピーするかを指定  
 
 <br>
