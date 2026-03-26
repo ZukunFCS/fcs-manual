@@ -216,7 +216,7 @@ Regionが未登録状態(null)のものがあるとSave出来ません
 
 例：L/R　blinkが離れていて不便なのでblinkを上下（隣接するよう）に並べたい場合  
 
-【Rearrange】に☑を入れ、  
+▶Advanced → 【Rearrange】に☑を入れ、  
 並び替えたいコントローラーをドラッグしドロップすると、順番を変更できます。  
 ```{figure} /images/03_workflow_register_controller_Rearrange.jpg
 :width: 80%
@@ -228,7 +228,7 @@ Regionが未登録状態(null)のものがあるとSave出来ません
 ```{rubric} **コントローラーの登録順を戻したい場合**
 ```
 
-【Reset】controller info登録時の順番に戻ります。
+▶Advanced → 【Reset】を押すと、controller info登録時の順番に戻ります。
 ```{figure} /images/03_workflow_register_controller_reset.jpg
 :width: 80%
 :align: center
