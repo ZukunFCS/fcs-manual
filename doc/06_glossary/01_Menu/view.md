@@ -100,7 +100,9 @@
 
 `````
 
-**Menu説明 目次**  
+```{rubric} **Menu説明 目次**  
+```
+
 ```{include} index.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->

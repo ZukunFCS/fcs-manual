@@ -18,7 +18,7 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 
 ② Settings：[Settings](settings.md)参照してください。  
 
-③ Quit：FCSを終了する  
+③ Quit：FCSを終了し、「.Lockファイル」を削除  
 
 ````
 
@@ -161,9 +161,11 @@ Sessionのエクスポートについては[作業フロー/エクスポート](
 
 `````
 
-<br><br>
+<br>
 
-**Menu説明 目次**  
+```{rubric} **Menu説明 目次**  
+```
+
 ```{include} index.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->

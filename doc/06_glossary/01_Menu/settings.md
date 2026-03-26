@@ -2,17 +2,27 @@
 
 Fileメニューのうち、FCSの全体的な動作環境やパス設定、および詳細なカスタマイズを行うための設定メニューについて解説します。  
 
+`````{tab-set}
+
+````{tab-item} Settings
+
 ```{figure} /images/06_glossary_Menu_Settings.jpg
 :width: 80%
 :align: center
 ```
 
-`````{tab-set}
+<br>
+
+ - 【Save】：設定を保存  ※保存後FCSを再起動することで設定が反映されます。  
+ - 【Restore】：設定をデフォルトに戻し、FCSを再起動  
+ - 【import】：他のバージョンなどから設定をインポートし、FCSを再起動  
+ C:\Users[ユーザー名].fcs\Cortado[FCSバージョン]にあるmy_conf.yamlを読み込んでください。    
+
+````
 
 ````{tab-item} UI
 
-
-```{figure} /images/06_glossary_Menu_Info.jpg
+```{figure} /images/06_glossary_Menu_Settings_UI.jpg
 :width: 80%
 :align: center
 ```
@@ -51,54 +61,69 @@ FullHDサイズだと10000fごとに約64GB使用される目安です。
 
 ````{tab-item} Output
 
-- Default output options \
-Default Folder \
-Default Filename \
-Default Filename (Batch) \
-Default Maya scene format
+<br>
 
-- Playblast \
-Encoder \
-Width \
-Height \
-Quality \
-Percent
+アニメーション出力・プレイブラスト出力のデフォルト設定を変更できます。
+```{figure} /images/06_glossary_Menu_Settings_Output.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+① Default output options：アニメーション出力のデフォルト設定  
+ a.Default Folder：デフォルトの出力先フォルダ  
+ b.Default Filename：デフォルトのファイル名  
+ c.Default Filename(Batch)：バッチ出力時のデフォルトファイル名  
+ d.Default Maya scene format(Batch)：デフォルトのMaya保存形式  
+
+② Playblast：プレイブラスト出力のデフォルト設定    
+ a.Encoder：プレイブラストのエンコード設定    
+ b.Width：プレイブラストの横幅  
+ c.Height：プレイブラストの立幅  
+ d.Quality：プレイブラストの画質  
+ e.Percent：プレイブラストの解像度  
 
 
 ````
 
 
-
 ````{tab-item} Keyboard Shortcuts
 
-- Timeline
+<br>
 
-| Timeline | Key | Modifier1 | Modifier2 |
-|:-------------|:--------------|:--------------|:--------------:|
-| Next Frame | Period | Alt |   |
-| Previous Frame | Comma |  Alt  |   |
-| Next ROM | Period |     |   |
-| Previous ROM | Comma |     |   |
-| Play/Pause Timeline | V | Alt  |   |
-| Add current frame to ROM | Q |     |   |
-| Open profile on timeline | E |     |   |
+FCSを使用するときのキーボードショートカットを設定できます。  
+同時押しはキー1種+修飾キー2種の3ボタンまで登録可能です。
 
-- Editor
+```{figure} /images/06_glossary_Menu_Settings_KeyboardShortcuts.jpg
+:width: 80%
+:align: center
+```
 
-| Editor | Key | Modifier1 | Modifier2 |
-|:-------------|:--------------|:--------------|:--------------:|
-| Save ROM edits | S | Control |   |
-| From Maya | V |  Control  |   |
-| To Maya | C |  Control  |   |
+<br>
 
-- Layout
+① Timeline  
+ - Next Frame：次のフレームへ
+ - Previous Frame：前のフレームへ
+ - Next ROM：次のプロファイルへ
+ - Previous ROM：前のプロファイルへ
+ - Play/Pause Timeline：タイムラインの再生 / 一時停止
+ - Add current frame to ROM：現在のフレームをプロファイルとして追加
+ - Open profile on timeline：現在選択しているプロファイルの動画を開く
 
-| Layout | Key | Modifier1 | Modifier2 |
-|:-------------|:--------------|:--------------|:--------------:|
-| Activate Pickup | 1 | Control |   |
-| Activate Process | 2 |  Control  |   |
-| Activate Register | 3 |  Control  |   |
-| Activate Retarget | 4 |  Control  |   |
+<br>
+
+② Editor  
+ - Save ROM edits：プロファイルの保存
+ - From Maya：表情の値をMayaから読み込み
+ - To Maya：表情の値をMayaへ送信
+
+<br>
+
+③ Layout  
+ - Active Single：Singleのプリセットレイアウトに変更
+ - Active Double：Doubleのプリセットレイアウトに変更
+ - Active Triple：Tripleのプリセットレイアウトに変更
 
 
 ````
@@ -107,13 +132,31 @@ Percent
 
 ````{tab-item} Maya
 
-CommandPort \
-SliderSyncPort \
-Open maya scene at launch \
-Use gallery character preview \
-Image Plane \
-Camera \
-Install path
+<br>
+
+Mayaとの接続に関する設定項目です。  
+
+```{figure} /images/06_glossary_Menu_Settings_Maya.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+① CommandPort：Mayaとの接続に使用するコマンドポート  
+
+② SliderSyncPort：Mayaのタイムラインを取得するコマンドポート  
+
+③ Open maya scene at launch：Launch Maya時に登録したMayaシーンも開くか  
+
+④ Use gallery character preview：ギャラリーウィンドウのキャラクター表示切替機能を使用する  
+　 ※再起動不要  
+
+⑤ Image Plane：イメージプレーン名　※再起動不要  
+
+⑥ Camera：カメラ名　※再起動不要  
+
+⑦ Install path：Mayaのインストール先　 ※再起動不要  
 
 ````
 
@@ -121,21 +164,32 @@ Install path
 
 ````{tab-item} Misc
 
-Keep max N video in memory \
-Backend \
-Update Channel \
-Use Beta
+```{figure} /images/06_glossary_Menu_Settings_Maya.jpg
+:width: 80%
+:align: center
+```
 
-Save, Restore, Import
+<br>
+
+① Backend：データの処理方法を選択（cpu/cuda）  
+
+② Update Channel：FCSアップデート時の通知設定  
+　・All：メジャーバージョンアップ・マイナーバージョンアップ両方のアップデート通知を受け取る   
+　・Patch：マイナーバージョンアップ通知のみ受け取る  
+　・None：バージョンアップ通知を受け取らない  
+
+③ Use Beta：ベース機能を使用するか ※Beta版の配信は中止になりました。  
 
 ````
 
 
 `````
 
-<br><br>
+<br>
 
-**Menu説明 目次**  
+```{rubric} **Menu説明 目次**  
+```
+
 ```{include} index.md
     :start-after: <!--start_here-->
     :end-before: <!--end_here-->
