@@ -48,33 +48,9 @@ FullHDサイズだと10000fごとに約64GB使用される目安です。
 ````
 
 
-`````
 
+````{tab-item} Output
 
-
-
-**ーーーーーーーーーーーー以下メモーーーーーーーーーーーー**
-
-**Settings**
-
-**UI**
-- Global \
-Font size \
-Language
-
-- Gallery \
-Thumbnail width \
-Default Cols
-
-- Video Player \
-Cache Frame Max \
-Default Tags
-
-- Video Library \
-Skip rotation prompt \
-Default Rotation
-
-**Output**
 - Default output options \
 Default Folder \
 Default Filename \
@@ -88,7 +64,13 @@ Height \
 Quality \
 Percent
 
-**Keyboard Shortcuts**
+
+````
+
+
+
+````{tab-item} Keyboard Shortcuts
+
 - Timeline
 
 | Timeline | Key | Modifier1 | Modifier2 |
@@ -118,7 +100,13 @@ Percent
 | Activate Register | 3 |  Control  |   |
 | Activate Retarget | 4 |  Control  |   |
 
-**Maya** \
+
+````
+
+
+
+````{tab-item} Maya
+
 CommandPort \
 SliderSyncPort \
 Open maya scene at launch \
@@ -127,13 +115,31 @@ Image Plane \
 Camera \
 Install path
 
-**Misc** \
+````
+
+
+
+````{tab-item} Misc
+
 Keep max N video in memory \
 Backend \
 Update Channel \
 Use Beta
 
 Save, Restore, Import
+
+````
+
+
+`````
+
+<br><br>
+
+**Menu説明 目次**  
+```{include} index.md
+    :start-after: <!--start_here-->
+    :end-before: <!--end_here-->
+```
 
 
 

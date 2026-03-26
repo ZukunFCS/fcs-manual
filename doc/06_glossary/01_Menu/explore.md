@@ -16,8 +16,11 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 <br>
 
 ① Project：プロジェクトフォルダを開く  
+
 ② FCS：FCSフォルダを開く  
+
 ③ Facial：Facialフォルダを開く   
+
 ④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
 
 ````
@@ -34,8 +37,11 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 <br>
 
 ① Actor：Actorフォルダを開く  
+
 ② Character：Characterフォルダを開く  
+
 ③ Retarget Folder：RetargetDataフォルダを開く  
+
 ④ Video Data：VideoDataフォルダを開く  
 
 ````
@@ -52,11 +58,17 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 <br>
 
 ① Facial：Facialフォルダを開く  
+
 ② Assets：Assetsフォルダを開く  
+
 ③ Scenes：Scenesフォルダを開く  
+
 ④ RecData：RecDataフォルダを開く  
+
 ⑤ SetData：SetDataフォルダを開く  
+
 ⑥ Maya workspace：Mayaのworkspaceが格納されているフォルダを開く  
+
 ⑦ Output Scene：_Outputsフォルダを開く  
 
 ````

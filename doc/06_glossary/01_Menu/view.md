@@ -14,10 +14,13 @@
 
 <br>
  
-① ☑ VSync：垂直同期の設定をします。　※基本はONになっています。  
-② Scale：UI表示の拡大率の設定をします。  
-③ ☑ Always on Top：FCSを常に最前面に表示するかの設定ができます。  
-④ Layout ▶：レイアウトのプリセット設定・切り替えができます。    
+① ☑ VSync：垂直同期の設定　※基本はONになっています。  
+
+② Scale：UI表示の拡大率の設定  
+
+③ ☑ Always on Top：FCSを常に最前面に表示するか  
+
+④ Layout ▶：レイアウトのプリセット設定・切り替え  
 
 ````
 
@@ -32,13 +35,17 @@
 
 <br>
 
-① Single：Singleレイアウトに切り替えます。  
-② Double：Doubleレイアウトに切り替えます。  
-③ Triple：Tripleレイアウトに切り替えます。  
-④ sample_layout ▶：【Save current】で登録した任意のレイアウトです。  
-　【Apply】：保存したレイアウトに変更します。  
-　【Delete】：保存したレイアウトを削除します。  
-⑤ Save current：現在のレイアウトを名前を付けて保存できます。  
+① Single：Singleレイアウトに切り替え  
+
+② Double：Doubleレイアウトに切り替え  
+
+③ Triple：Tripleレイアウトに切り替え  
+
+④ sample_layout ▶：【Save current】で登録した任意のレイアウトを選択  
+　【Apply】：保存したレイアウトに変更    
+　【Delete】：保存したレイアウトを削除    
+
+⑤ Save current：現在のレイアウトを名前を付けて保存  
 
 
 ```{rubric} **① Singleレイアウト**
@@ -79,8 +86,8 @@
 ```
 
 保存したレイアウトが一覧に出ます。  
-【Apply】：保存したレイアウトに変更します。  
-【Delete】：保存したレイアウトを削除します。
+【Apply】：保存したレイアウトに変更  
+【Delete】：保存したレイアウトを削除
 ```{figure} /images/06_glossary_Menu_View_Layout.jpg
 :width: 80%
 :align: center
