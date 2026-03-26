@@ -13,12 +13,11 @@
 ```
 
 <br>
-
-① ☑ Fullscreen：全画面表示  
-② ☑ VSync：垂直同期を設定　※基本はONになっています。  
-③ Scale：UI表示の拡大率設定  
-④ ☑ Always on Top：FCSを常に最前面に表示
-⑤ Layout ▶：レイアウトのプリセット設定・切り替え　※詳細は上記『Layout ▶』タブより
+ 
+① ☑ VSync：垂直同期を設定　※基本はONになっています。  
+② Scale：UI表示の拡大率設定  
+③ ☑ Always on Top：FCSを常に最前面に表示
+④ Layout ▶：レイアウトのプリセット設定・切り替え　※詳細は上記『Layout ▶』タブより
 
 ````
 
@@ -33,11 +32,55 @@
 
 <br>
 
-① Pickup：Pickupレイアウトに切り替えます。  
-②  
-③
-④
-⑤ 
+① Single：Singleレイアウトに切り替え
+② Double：Doubleレイアウトに切り替え
+③ Triple：Tripleレイアウトに切り替え
+④ sample_layout ▶：【Save current】で登録した任意のレイアウト
+⑤ Save current：現在のレイアウトを名前を付けて保存
+
+
+```{rubric} **① Singleレイアウト**
+```
+```{figure} /images/06_glossary_Menu_View_Single.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+```{rubric} **② Doubleレイアウト**
+```
+```{figure} /images/06_glossary_Menu_View_Double.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+```{rubric} **③ Tripleレイアウト**
+```
+```{figure} /images/06_glossary_Menu_View_Triple.jpg
+:width: 80%
+:align: center
+```
+
+```{rubric} **レイアウトの保存方法**
+```
+
+【Save current】を押すと「Layout Registration」ウィンドウが出るので、  
+Layout Nameにレイアウトの名前を入力し【Save】を押します。
+```{figure} /images/06_glossary_Menu_View_Savecurrent.jpg
+:width: 80%
+:align: center
+```
+
+保存したレイアウトが一覧に出ます。  
+```{figure} /images/06_glossary_Menu_View_Layout.jpg
+:width: 80%
+:align: center
+```
+
+<br>
 
 ````
 
