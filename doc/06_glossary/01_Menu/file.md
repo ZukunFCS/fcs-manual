@@ -111,7 +111,7 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 ・Session ▶ info  
 　右クリックメニューから内容のコピーや編集を行うことができます。  
 
-```{figure} 06_glossary_Menu_File_Session_info.jpg
+```{figure} /images/06_glossary_Menu_File_Session_info.jpg
 :width: 80%
 :align: center
 ```
@@ -146,11 +146,6 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 　作業したSessionを出力することができます。  
 
 Sessionのエクスポートについては[作業フロー/エクスポート](../../03_workflow/08_export.md)を参照ください。
-
-```{figure} /images/03_workflow_export_export_window.jpg
-:width: 80%
-:align: center
-```
 
 <br>
 

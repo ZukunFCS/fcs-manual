@@ -27,6 +27,8 @@ FCSでは作業したセッションを出力することができます。
 
 3. 出力先をプロジェクトフォルダーとして指定
 
+<!--start_here-->
+
 ```{figure} /images/03_workflow_export_export_window.jpg
 :width: 80%
 :align: center
