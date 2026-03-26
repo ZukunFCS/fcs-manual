@@ -1,6 +1,8 @@
 ## Explore
 
-Windowsエクスプローラー上のフォルダを開きます。
+FCSからWindowsエクスプローラーを直接開くことができます。  
+このページではどのフォルダを参照するか・操作について説明します。  
+
 `````{tab-set}
 
 
@@ -25,17 +27,17 @@ Windowsエクスプローラー上のフォルダを開きます。
 
 ````{tab-item} FCS ▶
 
-```{list-table}
-:widths: 40 60
-:header-rows: 0
-
-* - ![](/images/06_glossary_Menu_Explore_FCS.jpg)
-  -  ① Actor：Actorフォルダを開きます。  
-     ② Character：Characterフォルダを開きます。  
-     ③ Retarget Folder：RetargetDataフォルダを開きます。  
-     ④ Video Data：VideoDataフォルダを開きます。  
-
+```{figure} /images/06_glossary_Menu_Explore_FCS.jpg
+:width: 80%
+:align: center
 ```
+
+<br>
+
+① Actor：Actorフォルダを開きます。  
+② Character：Characterフォルダを開きます。  
+③ Retarget Folder：RetargetDataフォルダを開きます。  
+④ Video Data：VideoDataフォルダを開きます。
 
 ````
 
@@ -43,18 +45,19 @@ Windowsエクスプローラー上のフォルダを開きます。
 
 ````{tab-item} Facial ▶
 
-```{list-table}
-:widths: 40 60
-:header-rows: 0
-
-* - ![](/images/06_glossary_Menu_Explore_Facial.jpg)
-  -  ① Actor：Facialフォルダを開きます。  
-     ② Assets：workspaceフォルダを開きます。  
-     ③ RecData：RecDataフォルダを開きます。  
-     ④ Scenes：Scenesフォルダを開きます。  
-     ⑤ SetData：SetDataフォルダを開きます。  
-     ⑥ Output Scene：_Outputsフォルダを開きます。  
+```{figure} /images/06_glossary_Menu_Explore_Facial.jpg
+:width: 80%
+:align: center
 ```
+
+<br>
+
+① Actor：Facialフォルダを開きます。  
+② Assets：workspaceフォルダを開きます。  
+③ RecData：RecDataフォルダを開きます。  
+④ Scenes：Scenesフォルダを開きます。  
+⑤ SetData：SetDataフォルダを開きます。  
+⑥ Output Scene：_Outputsフォルダを開きます。  
 
 ````
 
@@ -62,16 +65,17 @@ Windowsエクスプローラー上のフォルダを開きます。
 
 ````{tab-item} Info
 
-```{list-table}
-:widths: 40 60
-:header-rows: 0
-
-* - ![](/images/06_glossary_Menu_Explore_Info.jpg)
-  -  ① License：ライセンスの管理  
-     ② About：FCSについて  
-     ③ Help：FCSマニュアルの表示  
-     ④ 3rd party licenses：サードパーティーライセンスについて  
+```{figure} /images/06_glossary_Menu_Explore_Info.jpg
+:width: 80%
+:align: center
 ```
+
+<br>
+
+① License：ライセンスの管理  
+② About：FCSについて  
+③ Help：FCSマニュアルの表示  
+④ 3rd party licenses：サードパーティーライセンスについて  
 
 ````
 
