@@ -16,8 +16,8 @@
  
 ① ☑ VSync：垂直同期を設定　※基本はONになっています。  
 ② Scale：UI表示の拡大率設定  
-③ ☑ Always on Top：FCSを常に最前面に表示
-④ Layout ▶：レイアウトのプリセット設定・切り替え　※詳細は上記『Layout ▶』タブより
+③ ☑ Always on Top：FCSを常に最前面に表示  
+④ Layout ▶：レイアウトのプリセット設定・切り替え　※詳細は上記『Layout ▶』タブ参照  
 
 ````
 
@@ -32,11 +32,13 @@
 
 <br>
 
-① Single：Singleレイアウトに切り替え
-② Double：Doubleレイアウトに切り替え
-③ Triple：Tripleレイアウトに切り替え
-④ sample_layout ▶：【Save current】で登録した任意のレイアウト
-⑤ Save current：現在のレイアウトを名前を付けて保存
+① Single：Singleレイアウトに切り替え  
+② Double：Doubleレイアウトに切り替え  
+③ Triple：Tripleレイアウトに切り替え  
+④ sample_layout ▶：【Save current】で登録した任意のレイアウト  
+　【Apply】：保存したレイアウトに変更  
+　【Delete】：保存したレイアウトを削除
+⑤ Save current：現在のレイアウトを名前を付けて保存  
 
 
 ```{rubric} **① Singleレイアウト**
@@ -74,7 +76,9 @@ Layout Nameにレイアウトの名前を入力し【Save】を押します。
 :align: center
 ```
 
-保存したレイアウトが一覧に出ます。  
+保存したレイアウトが一覧に出ます。
+ - 【Apply】：保存したレイアウトに変更  
+ - 【Delete】：保存したレイアウトを削除
 ```{figure} /images/06_glossary_Menu_View_Layout.jpg
 :width: 80%
 :align: center
