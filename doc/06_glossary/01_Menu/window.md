@@ -2,69 +2,72 @@
 
 FCSを構成する各機能ウィンドウの役割と、それぞれの表示制御や操作方法について説明します。  
 
-`````{tab-set}
+``````{tab-set}
 
-````{tab-item} Videos
+`````{tab-item} Videos
 
-Videosウィンドウが開きます。
-
-Videosウィンドウでは読み込んだHMC動画を一覧で表示します。読み込んだ動画に対しての処理も右クリックから可能です。
-  
-```{figure} /images/06_glossary_Menu_window_videos_window.jpg
-:width: 80%
-:align: center
-```
-````
-
-```{tab-item} contents2
-
-テキストテキスト
-```
-
-```{tab-item} contents3
-
-テキストテキスト
-```
-
-```{tab-item} contents4
-
-テキストテキスト
-```
-
-```{tab-item} contents5
-
-テキストテキスト
-```
-
-```{tab-item} contents6
-
-テキストテキスト
-```
-
-```{tab-item} contents7
-
-テキストテキスト
-```
-
-```{tab-item} contents8
-
-テキストテキスト
-```
-
-```{tab-item} contents9
-
-テキストテキスト
-```
-
-```{tab-item} contents10
-
-テキストテキスト
-```
 
 `````
 
+
+
+`````{tab-item} Processor
+
+
+`````
+
+
+
+`````{tab-item} Controller
+
+
+`````
+
+
+
+`````{tab-item} Profiles/Gallery
+
+
+`````
+
+
+
+`````{tab-item} Profiles/Editor
+
+
+`````
+
+
+
+`````{tab-item} Solver
+
+
+`````
+
+
+
+`````{tab-item} Log
+
+
+`````
+
+
+``````
+
+<br>
+
+```{rubric} **Menu説明 目次**  
+```
+
+```{include} index.md
+    :start-after: <!--start_here-->
+    :end-before: <!--end_here-->
+```
+
+
+**ーーーーーーーーーーーー以下未編集メモーーーーーーーーーーーー**
 <details>
-<summary><strong style="font-size: 1.5em;"></strong></summary>
+<summary><strong style="font-size: 1.5em;">Video</strong></summary>
   
 
 
