@@ -15,11 +15,11 @@ Mayaの起動手順や、FCSとMaya間の連携に関するメニュー項目に
 
 <br>
 
-① Status：Mayaとの接続状況を確認、クリックで接続をテストします。  
+① Status：Mayaとの接続状況を確認　クリックで接続をテストします。  
 
-② Open Scene：Sessionに登録されているMaya Sceneを開きます。    
+② Open Scene：Sessionに登録されているMaya Sceneを開く      
 
-③ Launch ▶：Sessionに登録されているバージョンのMayaを新規で開きます。  
+③ Launch ▶：Sessionに登録されているバージョンのMayaを新規で開く   
 　[Settings](settings.md)で『Open maya scene at launch』をONにしている場合、Mayaシーンも開きます。  
 
 

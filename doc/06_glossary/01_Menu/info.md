@@ -15,14 +15,13 @@
 
 <br>
 
-① License：ライセンスの管理、License infoが開きます。  
+① License：ライセンスの管理、License infoを開く    
 
 ② About：FCSについて  
 
-③ Help：FCSマニュアル(外部サイト)へ移行します。  
+③ Help：FCSマニュアル(外部サイト)へ移行  
 
-④ 3rd party licenses：サードパーティーライセンスについての一覧が表示されます。
-
+④ 3rd party licenses：サードパーティーライセンスについての一覧を表示  
 
 ````
 

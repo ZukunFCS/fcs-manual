@@ -14,11 +14,11 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 
 <br>
 
-① Settion：Session(セッション)ファイル関連メニューです。  
+① Settion：Session(セッション)ファイル関連メニュー  
 
 ② Settings：[Settings](settings.md)参照してください。  
 
-③ Quit：FCSを終了します。  
+③ Quit：FCSを終了する  
 
 ````
 
@@ -36,17 +36,15 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-① New：Sessionを新規で作成します。   
-　「Create new Session」ウィンドウを開きます。  
+① New：Sessionを新規で作成、「Create new Session」ウィンドウを開く  
 
-② Open：Sessionを開きます。  
+② Open：Sessionを開く  
 　・Open...：ダイアログから.yamlファイルを選択してSessionを開きます。  
 　・「パス」：最近使用したSessionのパスが表示されます。  
 
-③ Info：Sessionに関する情報を確認できます。  
-　「Session Data」ウィンドウが開きます。  
+③ Info：「Session Data」ウィンドウを開く  
 
-④ Export：Sessionをエクスポートするための「Export Session」ウィンドウが開きます。  
+④ Export：Sessionをエクスポートするための「Export Session」ウィンドウを開く    
 
 ````
 
@@ -65,25 +63,26 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-① Project Folder：FCSの作業データを置きたい場所を指定してください。  
+① Project Folder：FCSの作業データを置きたい場所（Root）のパス入力欄  
 　【Browse...】：ダイアログを開いてプロジェクトフォルダの作成先を入力します。    
 　【Create】：パス入力後、FCSのプロジェクトフォルダを作成します。  
 
-② Actor：モーションキャプチャアクター名入力欄です。
+② Actor：解析する動画のアクター（演技者）名入力欄  
+　※既に該当アクターのフォルダが存在する場合、プルダウンから選択できます。  
 　【+】「Create new actor」ウィンドウを起動し、アクター名のフォルダを作成します。  
 　　アクター名はプルダウンに追加されます。  
 
-③ Character：3Dモデルのキャラクター名入力欄です。  
+③ Character：3Dモデルのキャラクター名入力欄    
 　【+】「Create new character folder」ウィンドウを起動し、キャラクター名のフォルダを作成します。  
 　　キャラクター名はプルダウンに追加されます。  
 
-④ Maya Scene：3DモデルのMayaシーンへのパスを指定してください。    
+④ Maya Scene：3DモデルのMayaシーンのパス入力欄  
 　【Browse...】：ダイアログを開いてパスを入力します。    
 
-⑤ Maya Base：「workspace.mel」があるフォルダのパスを入力してください。  
+⑤ Maya Base：「workspace.mel」があるフォルダのパスを入力  
 　【Browse...】：ダイアログを開いてパスを入力します。    
 
-⑥ Maya Ver：3Dモデルを作成したMayaのバージョンを指定してください。  
+⑥ Maya Ver：3Dモデルを作成したMayaのバージョンを指定  
 
 
 <br>
@@ -102,7 +101,9 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 ````
 
-````{tab-item} Session Data  
+````{tab-item} Session Data
+
+<br>
 
 ・Session ▶ info  
 　右クリックメニューから内容のコピーや編集を行うことができます。  
