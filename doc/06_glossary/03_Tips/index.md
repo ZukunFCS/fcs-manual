@@ -107,7 +107,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 :align: center
 ```
 
-<BR>
+<br><br>
 
 ⑤ Mayaシーンを保存し、File＞Session▶＞Info...からMaya Sceneに登録します。  
 ```{figure} /images/06_glossary_Tips_basescene_Maya_05.jpg

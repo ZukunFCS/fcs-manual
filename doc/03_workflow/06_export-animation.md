@@ -13,7 +13,7 @@
 
 ```{note}
 出力画面の項目についての説明は  
-[ユーザーガイド/Menu/Window/Videos 右クリック](../06_glossary/01_Menu/window)をご確認ください。
+[ユーザーガイド/Menu/Window/Videos](../06_glossary/01_Menu/window)をご確認ください。
 ```
 
 <br>
