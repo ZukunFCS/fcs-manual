@@ -78,7 +78,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 ① FCS用のカメラを顔のモデルが中心に来るように配置します。  
 使用アトリビュート例：fcs_cam.translateY、fcs_cam.translateZ、fcs_camShape.focalLength
 ```{figure} /images/06_glossary_Tips_basescene_Maya_01.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 
@@ -86,7 +86,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 
 ② FCS用のカメラを使用した状態でView ＞ Image Plane ＞ Import Image...から静止画用イメージプレーンを配置します。  
 ```{figure} /images/06_glossary_Tips_basescene_Maya_02.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 
@@ -95,7 +95,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 ③ イメージプレーンをお好みの大きさに変更し、配置したい場所へ移動します。  
 使用アトリビュート例：imagePlaneShape.depth、imagePlaneShape.sizeX、imagePlaneShape.sizeY、imagePlaneShape.offsetX、imagePlaneShape.offsetY  
 ```{figure} /images/06_glossary_Tips_basescene_Maya_03.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 
@@ -103,7 +103,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 
 ④ 静止画連番画像を再生するためにimagePlaneShape.useFrameExtensionをON（1）にします。  
 ```{figure} /images/06_glossary_Tips_basescene_Maya_04.jpg
-:width: 80%
+:width: 50%
 :align: center
 ```
 
@@ -111,7 +111,7 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 
 ⑤ Mayaシーンを保存し、File＞Session▶＞Info...からMaya Sceneに登録します。  
 ```{figure} /images/06_glossary_Tips_basescene_Maya_05.jpg
-:width: 80%
+:width: 70%
 :align: center
 ```
 
