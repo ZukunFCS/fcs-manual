@@ -7,18 +7,21 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 
 ````{tab-item} File
 
-```{figure} /images/06_glossary_Menu_File.jpg
-:width: 80%
-:align: center
+```{list-table}
+:widths: 50 50
+:header-rows: 0
+
+* - ![](/images/06_glossary_Menu_File.jpg)
+  - ① Settion：Session(セッション)ファイル関連メニュー  
+  
+  ② Settings：[Settings](settings.md)参照してください。  
+  
+  ③ Quit：FCSを終了し、「.Lockファイル」を削除  
+
 ```
 
 <br>
 
-① Settion：Session(セッション)ファイル関連メニュー  
-
-② Settings：[Settings](settings.md)参照してください。  
-
-③ Quit：FCSを終了し、「.Lockファイル」を削除  
 
 ````
 
