@@ -37,7 +37,7 @@
 ③ Triple：Tripleレイアウトに切り替え  
 ④ sample_layout ▶：【Save current】で登録した任意のレイアウト  
 　【Apply】：保存したレイアウトに変更  
-　【Delete】：保存したレイアウトを削除
+　【Delete】：保存したレイアウトを削除  
 ⑤ Save current：現在のレイアウトを名前を付けて保存  
 
 
@@ -66,19 +66,21 @@
 :align: center
 ```
 
+<br>
+
 ```{rubric} **レイアウトの保存方法**
 ```
 
 【Save current】を押すと「Layout Registration」ウィンドウが出るので、  
-Layout Nameにレイアウトの名前を入力し【Save】を押します。
+ Layout Nameにレイアウトの名前を入力し【Save】を押します。
 ```{figure} /images/06_glossary_Menu_View_Savecurrent.jpg
 :width: 80%
 :align: center
 ```
 
-保存したレイアウトが一覧に出ます。
- - 【Apply】：保存したレイアウトに変更  
- - 【Delete】：保存したレイアウトを削除
+保存したレイアウトが一覧に出ます。  
+【Apply】：保存したレイアウトに変更  
+【Delete】：保存したレイアウトを削除
 ```{figure} /images/06_glossary_Menu_View_Layout.jpg
 :width: 80%
 :align: center

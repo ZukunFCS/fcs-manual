@@ -18,8 +18,7 @@ Mayaの起動手順や、FCSとMaya間の連携に関するメニュー項目に
 ① Status：Mayaとの接続状況を確認、クリックで接続をテストします。  
 ② Open Scene：Sessionに登録されているMaya Sceneを開きます。    
 ③ Launch ▶：Sessionに登録されているバージョンのMayaを新規で開きます。  
-　Settingsで『Open maya scene at launch』をONにしている場合、Mayaシーンも開きます。
-④ GenerateMesh for Tracking Edits：
+　[Settings](settings.md)で『Open maya scene at launch』をONにしている場合、Mayaシーンも開きます。  
 
 
 ````
