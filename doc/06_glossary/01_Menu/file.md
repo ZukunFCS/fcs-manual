@@ -40,16 +40,24 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 :widths: 50 50
 :header-rows: 0
 
-* - ![](/images/06_glossary_Menu_File_Session.jpg)
-  - ① **New**：Sessionを新規で作成、「Create new Session」ウィンドウを開く
+* - ```{image} /images/06_glossary_Menu_File_Session.jpg
+    :width: 100%
+    ```
+  - ① New：Sessionを新規で作成、「Create new Session」ウィンドウを開く
 
-    ② **Open**：Sessionを開く
-    * **Open...**：ダイアログから .yaml ファイルを選択して Session を開きます。
-    * **「パス」**：最近使用した Session のパスが表示されます。
 
-    ③ **Info**：「Session Data」ウィンドウを開く
 
-    ④ **Export**：Session をエクスポートするための「Export Session」ウィンドウを開く
+    ② Open：Sessionを開く
+    * Open...：ダイアログから .yaml ファイルを選択して Session を開きます。
+    * 「パス」：最近使用した Session のパスが表示されます。
+
+
+
+    ③ Info：「Session Data」ウィンドウを開く
+
+
+
+    ④ Export：Session をエクスポートするための「Export Session」ウィンドウを開く
 ```
 
 <br>
