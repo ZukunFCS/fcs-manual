@@ -168,15 +168,19 @@ Start process：アニメーションの出力を開始する
 
 `````{tab-item} Processor
 
+<br>
+
 Processerウィンドウが開きます。  
 
 Processerウィンドウでは複数の動画を一括で処理するバッチ機能が使用できます。  
 VideosウィンドウでチェックボックスがONになっている動画が処理の対象になります。  
   
 ```{figure} /images/06_glossary_Menu_window_processor.jpg
-:width: 80%
+:width: 100%
 :align: center
 ```
+
+<br><br>
 
 ①　Output Folder：出力先を指定  
 
