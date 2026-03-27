@@ -8,20 +8,29 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 ````{tab-item} Explore
 
-```{figure} /images/06_glossary_Menu_Explore_Explore.jpg
-:width: 80%
-:align: center
+```{list-table}
+:widths: 50 50
+:header-rows: 0
+
+* - ![](/images/06_glossary_Menu_Explore_Explore.jpg)
+
+  - ① Project：プロジェクトフォルダを開く  
+    
+    <br>
+
+    ② FCS：FCSフォルダを開く  
+    
+    <br>
+
+    ③ Facial：Facialフォルダを開く   
+
+    <br>
+
+    ④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
+
 ```
 
 <br>
-
-① Project：プロジェクトフォルダを開く  
-
-② FCS：FCSフォルダを開く  
-
-③ Facial：Facialフォルダを開く   
-
-④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
 
 ````
 
@@ -29,20 +38,29 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 ````{tab-item} FCS ▶
 
-```{figure} /images/06_glossary_Menu_Explore_FCS.jpg
-:width: 80%
-:align: center
+```{list-table}
+:widths: 50 50
+:header-rows: 0
+
+* - ![](/images/06_glossary_Menu_Explore_FCS.jpg)
+
+  - ① Actor：Actorフォルダを開く  
+    
+    <br>
+
+    ② Character：Characterフォルダを開く  
+    
+    <br>
+
+    ③ Retarget Folder：RetargetDataフォルダを開く  
+
+    <br>
+
+    ④ Video Data：VideoDataフォルダを開く  
+
 ```
 
 <br>
-
-① Actor：Actorフォルダを開く  
-
-② Character：Characterフォルダを開く  
-
-③ Retarget Folder：RetargetDataフォルダを開く  
-
-④ Video Data：VideoDataフォルダを開く  
 
 ````
 
@@ -50,26 +68,41 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 ````{tab-item} Facial ▶
 
-```{figure} /images/06_glossary_Menu_Explore_Facial.jpg
-:width: 80%
-:align: center
+```{list-table}
+:widths: 50 50
+:header-rows: 0
+
+* - ![](/images/06_glossary_Menu_Explore_Facial.jpg)
+
+  - ① Facial：Facialフォルダを開く  
+    
+    <br>
+
+    ② Assets：Assetsフォルダを開く  
+    
+    <br>
+
+    ③ Scenes：Scenesフォルダを開く  
+
+    <br>
+
+    ④ RecData：RecDataフォルダを開く  
+
+    <br>
+
+    ⑤ SetData：SetDataフォルダを開く  
+
+    <br>
+
+    ⑥ Maya workspace：Mayaのworkspaceが格納されているフォルダを開く  
+
+    <br>
+
+    ⑦ Output Scene：_Outputsフォルダを開く  
+
 ```
 
 <br>
-
-① Facial：Facialフォルダを開く  
-
-② Assets：Assetsフォルダを開く  
-
-③ Scenes：Scenesフォルダを開く  
-
-④ RecData：RecDataフォルダを開く  
-
-⑤ SetData：SetDataフォルダを開く  
-
-⑥ Maya workspace：Mayaのworkspaceが格納されているフォルダを開く  
-
-⑦ Output Scene：_Outputsフォルダを開く  
 
 ````
 

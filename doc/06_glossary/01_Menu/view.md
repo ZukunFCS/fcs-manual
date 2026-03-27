@@ -6,29 +6,36 @@
 
 ````{tab-item} View
 
+```{list-table}
+:widths: 50 50
+:header-rows: 0
 
-```{figure} /images/06_glossary_Menu_View_View.jpg
-:width: 80%
-:align: center
+* - ![](/images/06_glossary_Menu_View_View.jpg)
+
+  - ① ☑ VSync：垂直同期の設定　※基本はONになっています。  
+    
+    <br>
+
+    ② Scale：UI表示の拡大率の設定  
+    
+    <br>
+
+    ③ ☑ Always on Top：FCSを常に最前面に表示するか  
+
+    <br>
+
+    ④ Layout ▶：レイアウトのプリセット設定・切り替え  
 ```
 
 <br>
  
-① ☑ VSync：垂直同期の設定　※基本はONになっています。  
-
-② Scale：UI表示の拡大率の設定  
-
-③ ☑ Always on Top：FCSを常に最前面に表示するか  
-
-④ Layout ▶：レイアウトのプリセット設定・切り替え  
-
 ````
 
 
 ````{tab-item} Layout ▶
 
 
-```{figure} /images//images/06_glossary_Menu_View_Layout.jpg
+```{figure} /images/06_glossary_Menu_View_Layout.jpg
 :width: 80%
 :align: center
 ```
@@ -73,7 +80,7 @@
 :align: center
 ```
 
-<br>
+<br><br>
 
 ```{rubric} **レイアウトの保存方法**
 ```
@@ -85,10 +92,12 @@
 :align: center
 ```
 
+<br><br>
+
 保存したレイアウトが一覧に出ます。  
 【Apply】：保存したレイアウトに変更  
 【Delete】：保存したレイアウトを削除
-```{figure} /images/06_glossary_Menu_View_Layout.jpg
+```{figure} /images/06_glossary_Menu_View_Layout_02.jpg
 :width: 80%
 :align: center
 ```

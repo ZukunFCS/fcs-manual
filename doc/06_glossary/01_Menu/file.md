@@ -36,22 +36,30 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 Session(セッション)ファイルに関連したメニューです。  
 Sessionを開く、設定の変更、新規Sessionの作成などを実行することができます。  
 
-```{figure} /images/06_glossary_Menu_File_Session.jpg
-:width: 65%
-:align: center
+```{list-table}
+:widths: 50 50
+:header-rows: 0
+
+* - ![](/images/06_glossary_Menu_File_Session.jpg)
+
+  - ① New：Sessionを新規で作成、「Create new Session」ウィンドウを開く  
+    
+    <br>
+
+    ② Open：Sessionを開く  
+    ・Open...：ダイアログから.yamlファイルを選択してSessionを開きます。  
+    ・「パス」：最近使用したSessionのパスが表示されます。  
+    
+    <br>
+
+    ③ Info：「Session Data」ウィンドウを開く  
+
+    <br>
+
+    ④ Export：Sessionをエクスポートするための「Export Session」ウィンドウを開く    
 ```
 
 <br>
-
-① New：Sessionを新規で作成、「Create new Session」ウィンドウを開く  
-
-② Open：Sessionを開く  
-　・Open...：ダイアログから.yamlファイルを選択してSessionを開きます。  
-　・「パス」：最近使用したSessionのパスが表示されます。  
-
-③ Info：「Session Data」ウィンドウを開く  
-
-④ Export：Sessionをエクスポートするための「Export Session」ウィンドウを開く    
 
 ````
 

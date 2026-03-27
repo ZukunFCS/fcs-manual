@@ -9,7 +9,7 @@
 
 
 ```{figure} /images/06_glossary_Menu_Info.jpg
-:width: 80%
+:width: 60%
 :align: center
 ```
 
