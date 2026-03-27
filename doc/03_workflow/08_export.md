@@ -38,20 +38,20 @@ FCSでは作業したセッションを出力することができます。
 
 <!--start_here-->
 
-**①Project Folder**：出力先を指定  
+①Project Folder：出力先を指定  
 
-**②Actor**：アクター名を指定　　※アーカイブ化の場合はそのままでも問題ありません  
+②Actor：アクター名を指定　　※アーカイブ化の場合はそのままでも問題ありません  
 
-**③Character**：キャラクター名を指定　　※アーカイブ化の場合はそのままでも問題ありません  
+③Character：キャラクター名を指定　　※アーカイブ化の場合はそのままでも問題ありません  
 
-**④Profile**: 現在のセッションのプロファイルを出力するかどうかを指定  
+④Profile: 現在のセッションのプロファイルを出力するかどうかを指定  
 
-**⑤Videos**: 出力先にビデオデータをコピーするかを指定  
+⑤Videos: 出力先にビデオデータをコピーするかを指定  
 　・ No video：動画データをコピーしない  
 　・ Associated video：関連する動画のみコピー  
 　・ All files：Recdata内のすべての動画データをコピー  
 
-**⑥Facial/Assets Folder**: 出力先にFacial/Assetsのフォルダーをコピーするかを指定  
+⑥Facial/Assets Folder: 出力先にFacial/Assetsのフォルダーをコピーするかを指定  
 
 <br>
 
