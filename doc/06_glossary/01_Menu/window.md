@@ -168,100 +168,52 @@ Start process：アニメーションの出力を開始する
 
 `````{tab-item} Processor
 
+Processerウィンドウが開きます。  
 
-
-
-Processor
-Processerウィンドウが開きます。
-
-Processerウィンドウでは複数の動画を一括で処理するバッチ機能が使用できます。
-VideosウィンドウでチェックボックスがONになっている動画が処理の対象になります。
+Processerウィンドウでは複数の動画を一括で処理するバッチ機能が使用できます。  
+VideosウィンドウでチェックボックスがONになっている動画が処理の対象になります。  
   
 ```{figure} /images/06_glossary_Menu_window_processor.jpg
 :width: 80%
 :align: center
 ```
 
-①　Output Folder \
-出力先を指定します
+①　Output Folder：出力先を指定  
 
-②　Output Targets \
-出力する内容を指定します
-   - ☑ Animation \
-アニメーションデータを出力する
-   - ☑ Audio \
-音声データをMayaに読み込む
-   - ☑ Frames \
-動画の連番画像を出力、Mayaのイメージプレーンに読み込む
-   - ☑ Landmark Frames \
-ランドマーク付の連番画像を生成、Mayaのイメージプレーンに読み込む \
-（+パイプラインでは使用不可）
-   - ☑ Playblast \
-プレイブラストをmov形式の動画で出力、保存する
-   - ☑ Scene \
-Mayaシーンを保存する
-   - Format \
-出力するMayaの保存形式(.mb / .ma)
-   - ☑ Distribute
+②　Output Targets：出力する内容を指定  
+ - ☑ Animation：アニメーションデータを出力  
+ - ☑ Audio：音声データをMayaに読み込む  
+ - ☑ Frames：動画の連番画像を出力し、Mayaのイメージプレーンに読み込む  
+ - ☑ LM Frame：ランドマーク付の連番画像を生成し、Mayaのイメージプレーンに読み込む  
+ 　※ "++パイプライン"では使用不可  
+ - ☑ Playblast：プレイブラストをmov形式の動画で出力し、保存  
+ - ☑ Scene：Mayaシーンを保存  
+ - Format：出力するMayaの保存形式を指定(.mb / .ma)  
 
-③　Advanced
-   - ☑ Reprocess \
-キャッシュが既に存在する場合も一から解析する
-   - Output Filename \
-出力されるデータ名
+③　Advanced：出力処理の詳細設定  
+- ☑ Reprocess：キャッシュが既に存在する場合も一から解析する
+- Output Filename：出力されるデータ名を指定  
 
-④　Start \
-アニメーションの出力を開始する
+<br>
 
-⑤　プログレスバー \
-処理状況の表示をします
-
-⑥　Log \
-処理状況のログが表示されます
-
-**出力画面説明**
-
-```{figure} /images/03_workflow_export_animation_processor_list.jpg
-:width: 80%
-:align: center
+```{rubric} **フォルダ名・動画名を指定するパラメータ**
 ```
-Output Folder：出力先を指定
 
-Output Targets
--  ☑ Animation：アニメーションデータを生成、Mayaに反映
--  ☑ Audio：解析する動画の音声データをMayaに反映
--  ☑ Frames：解析する動画の連番画像を生成、Mayaのイメージプレーン上に反映
--  ☑ Landmark Frames：顔の動きをオートトラッキングする連番画像を生成、Mayaのイメージプレーン上に反映
--  ☑ Playblast：出力されたアニメーションをmov形式の動画で出力、保存する
--  ☑ Scene：出力されたMayaシーンを自動で保存する
+```{include} ../../03_workflow/06_export-animation.md
+    :start-after: <!--start_here-->
+    :end-before: <!--end_here-->
+```
 
-Advenced  
--  ☑ Reprocess：作成したProfile情報を読み取る
+<br>
 
-Output Filename：出力されるデータ名。任意の名前に変更可能
+④　【Start】：アニメーションの出力を開始  
 
-Start：アニメーションの出力を開始する
+⑤　プログレスバー：処理状況の表示  
+
+⑥　Log：処理状況のログを表示
 
 
-
-<strong>フォルダ名・動画名を指定するパラメータについて</strong>
-
-- {solver} \
-solverの名前
-- {video} \
-ビデオのファイル名
-- {user} \
-windowsユーザ名
-- {project} \
-案件フォルダ名
-- {chara} \
-キャラクター名
-- {actor} \
-役者名
-- {%Y%m%d} \
-年 月 日
-- {%H%M%S} \
-時間 分 秒
+<br>
 
 
 

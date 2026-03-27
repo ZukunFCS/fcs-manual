@@ -177,8 +177,10 @@ Timelineの動画名を右クリックし表示されるメニューからのみ
 
 <br>
 
-```{admonition} Output Filename 出力ファイル名の設定について
-Output Filenameを変更することで任意の名前を設定できます。  
+<!--start_here-->
+
+```{note} 
+Output Filenameを変更することで出力ファイル名に任意の名前を設定できます。  
 
 - {solver} ： solverの名前
 - {video} ： ビデオのファイル名
@@ -190,6 +192,8 @@ Output Filenameを変更することで任意の名前を設定できます。
 
 {video}のみにするとimportした動画名で出力されます。
 ```
+
+<!--end_here-->
 
 <br>
 
