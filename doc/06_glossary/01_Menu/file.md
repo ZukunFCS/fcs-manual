@@ -37,7 +37,7 @@ Session(セッション)ファイルに関連したメニューです。
 Sessionを開く、設定の変更、新規Sessionの作成などを実行することができます。  
 
 ```{figure} /images/06_glossary_Menu_File_Session.jpg
-:width: 80%
+:width: 65%
 :align: center
 ```
 
