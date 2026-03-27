@@ -43,18 +43,12 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 * - ![](/images/06_glossary_Menu_File_Session.jpg)
 
   - ① New：Sessionを新規で作成、「Create new Session」ウィンドウを開く  
-    
-    <br>
 
     ② Open：Sessionを開く  
     ・Open...：ダイアログから.yamlファイルを選択してSessionを開きます。  
     ・「パス」：最近使用したSessionのパスが表示されます。  
-    
-    <br>
 
     ③ Info：「Session Data」ウィンドウを開く  
-
-    <br>
 
     ④ Export：Sessionをエクスポートするための「Export Session」ウィンドウを開く    
 ```
