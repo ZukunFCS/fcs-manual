@@ -166,7 +166,7 @@ Mayaとの接続に関する設定項目です。
 
 ````{tab-item} Misc
 
-```{figure} /images/06_glossary_Menu_Settings_Maya.jpg
+```{figure} /images/06_glossary_Menu_Settings_Misc.jpg
 :width: 80%
 :align: center
 ```
