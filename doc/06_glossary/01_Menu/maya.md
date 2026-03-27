@@ -22,12 +22,13 @@ Mayaの起動手順や、FCSとMaya間の連携に関するメニュー項目に
 ③ Launch ▶：Sessionに登録されているバージョンのMayaを新規で開く   
 　[Settings](settings.md)で『Open maya scene at launch』をONにしている場合、Mayaシーンも開きます。  
 
+<br>
 
 ````
 
 `````
 
-<br>
+
 
 ```{rubric} **Menu説明 目次**  
 ```
