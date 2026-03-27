@@ -41,7 +41,7 @@
 
 ③ Triple：Tripleレイアウトに切り替え  
 
-④ sample_layout ▶：【Save current】で登録した任意のレイアウトを選択  
+④ Sample_Layout ▶：【Save current】で登録した任意のレイアウトを選択  
 　【Apply】：保存したレイアウトに変更    
 　【Delete】：保存したレイアウトを削除    
 
