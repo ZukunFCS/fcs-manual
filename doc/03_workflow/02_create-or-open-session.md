@@ -289,6 +289,11 @@ New Sessionで設定したMayaVerがinfoで反映されていない場合は、i
 :width: 80%
 :align: center
 ```
+```{figure} /images/03_workflow_maya_change_maya_ver.jpg
+:width: 80%
+:align: center
+```
+
 <br>
 
 ```{attention}

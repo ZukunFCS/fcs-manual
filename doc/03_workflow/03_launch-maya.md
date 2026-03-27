@@ -26,7 +26,7 @@ FCSとMayaを接続するためには、必ずFCSのメニューからMayaを起
 Mayaバージョンの誤クリックを防ぐため、Session作成時に設定したMaya Version以外はクリックできないように、ブラックアウトしています。
 ```
 
-<br>
+<br><br>
 
 ```{rubric} **Launchで指定したMayaバージョンが開けない場合**
 ```
