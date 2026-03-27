@@ -101,22 +101,22 @@ File &rarr; Session&rarr;New...を選択
     
     ```{note}
     作成後、Project Folder&rarr;Facial&rarr;Assetsフォルダに紐付けるMayaシーンを、  
-    Project Folder&rarr;Facial&rarr;Recdataフォルダに解析したい動画を移動しておくことを推奨します。  
-    ※別の場所に保存していてもアクセスできます。
+    Project Folder&rarr;Facial&rarr;Recdataフォルダに解析したい動画を  
+    移動しておくことを推奨します。　※別の場所に保存していてもアクセスできます。
     ```
 
     ```{figure} /images/03_workflow_session_assets_folder.jpg
     :width: 80%
     :align: center
 
-    Example assets folder
+    例：Assetsフォルダ
     ```
 
     ```{figure} /images/03_workflow_session_recdata_folder.jpg
     :width: 80%
     :align: center
     
-    Example RecData folder
+    例：RecData folder
     ```
 
     <br><br>
@@ -125,7 +125,7 @@ File &rarr; Session&rarr;New...を選択
 
     【+】ボタンをクリックし、ActorFolderを作成するための 【Create new actor folder】ウィンドウを起動します。  
     【Actor Name】に登録したい名前を入力し、【Create】を押します。  
-    ※Actor ＝ モーションキャプチャアクター名  
+    ※Actor ＝ アクター名  
     ```{figure} /images/03_workflow_session_actor_create.jpg
     :width: 80%
     :align: center
