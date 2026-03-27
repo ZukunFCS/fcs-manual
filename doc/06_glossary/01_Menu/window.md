@@ -180,11 +180,11 @@ VideosウィンドウでチェックボックスがONになっている動画が
 :align: center
 ```
 
-<br><br>
+<br>
 
-①　Output Folder：出力先を指定  
+①　**Output Folder**：出力先を指定  
 
-②　Output Targets：出力する内容を指定  
+②　**Output Targets**：出力する内容を指定  
  - ☑ Animation：アニメーションデータを出力  
  - ☑ Audio：音声データをMayaに読み込む  
  - ☑ Frames：動画の連番画像を出力し、Mayaのイメージプレーンに読み込む  
@@ -194,7 +194,7 @@ VideosウィンドウでチェックボックスがONになっている動画が
  - ☑ Scene：Mayaシーンを保存  
  - Format：出力するMayaの保存形式を指定(.mb / .ma)  
 
-③　Advanced：出力処理の詳細設定  
+③　**Advanced**：出力処理の詳細設定  
 - ☑ Reprocess：キャッシュが既に存在する場合も一から解析する
 - Output Filename：出力されるデータ名を指定  
 
@@ -210,11 +210,11 @@ VideosウィンドウでチェックボックスがONになっている動画が
 
 <br>
 
-④　【Start】：アニメーションの出力を開始  
+④　**【Start】**：アニメーションの出力を開始  
 
-⑤　プログレスバー：処理状況の表示  
+⑤　**プログレスバー**：処理状況の表示  
 
-⑥　Log：処理状況のログを表示
+⑥　**Log**：処理状況のログを表示
 
 
 <br>
