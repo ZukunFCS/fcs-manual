@@ -55,6 +55,10 @@
 ⑤ Save current：現在のレイアウトを名前を付けて保存  
 
 
+<br><br>
+
+---
+
 ```{rubric} **① Singleレイアウト**
 ```
 ```{figure} /images/06_glossary_Menu_View_Single.jpg
@@ -62,7 +66,7 @@
 :align: center
 ```
 
-<br>
+<br><br>
 
 ```{rubric} **② Doubleレイアウト**
 ```
@@ -71,7 +75,7 @@
 :align: center
 ```
 
-<br>
+<br><br>
 
 ```{rubric} **③ Tripleレイアウト**
 ```
@@ -85,7 +89,7 @@
 ```{rubric} **レイアウトの保存方法**
 ```
 
-【Save current】を押すと「Layout Registration」ウィンドウが出るので、  
+1.【Save current】を押すと「Layout Registration」ウィンドウが出るので、  
  Layout Nameにレイアウトの名前を入力し【Save】を押します。
 ```{figure} /images/06_glossary_Menu_View_Savecurrent.jpg
 :width: 80%
@@ -94,7 +98,7 @@
 
 <br><br>
 
-保存したレイアウトが一覧に出ます。  
+2.保存したレイアウトが一覧に出ます。  
 【Apply】：保存したレイアウトに変更  
 【Delete】：保存したレイアウトを削除
 ```{figure} /images/06_glossary_Menu_View_Layout_02.jpg

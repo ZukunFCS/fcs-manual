@@ -94,7 +94,8 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
     <br>
 
-    ⑥ Maya workspace：Mayaのworkspaceが格納されているフォルダを開く  
+    ⑥ Maya workspace：  
+      Mayaのworkspaceが格納されているフォルダを開く  
 
     <br>
 

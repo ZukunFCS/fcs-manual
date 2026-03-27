@@ -7,23 +7,28 @@
 
 ````{tab-item} Info
 
+```{list-table}
+:widths: 50 50
+:header-rows: 0
 
-```{figure} /images/06_glossary_Menu_Info.jpg
-:width: 60%
-:align: center
+* - ![](/images/06_glossary_Menu_Info.jpg)
+
+  - ① License：ライセンス管理 License infoを開く   
+    
+    <br>
+
+    ② About：FCSについて  
+    
+    <br>
+
+    ③ Help：FCSマニュアル(外部サイト)へ移行  
+
+    <br>
+
+    ④ 3rd party licenses：  
+      サードパーティーライセンスについての一覧を表示  
+
 ```
-
-<br>
-
-① License：ライセンスの管理、License infoを開く    
-
-② About：FCSについて  
-
-③ Help：FCSマニュアル(外部サイト)へ移行  
-
-④ 3rd party licenses：サードパーティーライセンスについての一覧を表示  
-
-````
 
 `````
 
