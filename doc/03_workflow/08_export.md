@@ -5,7 +5,7 @@ FCSでは作業したセッションを出力することができます。
 主に以下の際にご活用いただけます。
 
 - FCSのセッションのアーカイブ化やプロジェクトフォルダの移動時などに、  
-　キャッシュなどの共有に必要ないデータを除いて手早く共有する  
+キャッシュなどの共有に必要ないデータを除いて手早く共有する  
 - 同じアクターのProfileから、別のキャラクターの表情を制作する
 - 同じキャラクターの表情を、別アクターで制作する
 
@@ -68,9 +68,10 @@ Project Folder：E:\test
 Character：testCharacter2
 ```
 
+<br>
+
 <!--end_here-->
 
-<br>
 
 4. Exportボタンを押して出力  
 ```{figure} /images/03_workflow_export_export_explore.jpg
