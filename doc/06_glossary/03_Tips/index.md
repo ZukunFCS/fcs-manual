@@ -91,19 +91,21 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 ```{rubric} **レイアウトの変更方法**
 ```
 
-Viewウィンドウ → Layoutからレイアウトのプリセットを呼び出すことができます。  
-
-<br>
-
+Viewウィンドウ → Layoutからレイアウトのプリセットを呼び出せます。  
 また、各ウィンドウはドラッグ＆ドロップでFCS内を移動・配置することができます。  
 お好きな配置で作業してください。  
 
+Viewウィンドウ → Layoutから変更したレイアウトを保存することも可能です。  
+
+```{include} ../06_glossary/01_Menu/view.md
+    :start-after: <!--start_here_Tips-->
+    :end-before: <!--end_here_Tips-->
+```
+
 <br>
 
-
-Viewウィンドウ → Layoutから変更したレイアウトを保存することも可能です。  
 ```{note}
-Viewウィンドウについての説明は[ユーザーガイド/Menu/view](../06_glossary/01_Menu/view)をご覧ください。
+Viewウィンドウについての説明は[ユーザーガイド/Menu/view](../06_glossary/01_Menu/view.md)をご覧ください。
 ```
 
 <br>

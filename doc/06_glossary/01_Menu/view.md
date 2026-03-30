@@ -34,6 +34,7 @@
 
 ````{tab-item} Layout ▶
 
+<!--start_here_Tips-->
 
 ```{figure} /images/06_glossary_Menu_View_Layout.jpg
 :width: 80%
@@ -55,7 +56,7 @@
 ⑤ Save current：現在のレイアウトを名前を付けて保存  
 
 
-<br><br>
+<br>
 
 ---
 
@@ -86,6 +87,8 @@
 
 <br>
 
+<!--end_here_Tips-->
+
 ---
 
 <br>
@@ -108,6 +111,13 @@
 ```{figure} /images/06_glossary_Menu_View_Layout_02.jpg
 :width: 80%
 :align: center
+```
+
+<br>
+
+3.保存したレイアウトのデータは以下のパスに格納されます。  
+```
+C:\Users\[ユーザー名]\.fcs\Cortado\[FCSバージョン]\layouts\saved
 ```
 
 <br>
