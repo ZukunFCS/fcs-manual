@@ -4,62 +4,6 @@
 
 `````{tab-set}
 
-````{tab-item} レイアウトについて
-
-<br>
-
-FCSにはレイアウトの変更・保存機能があります。
-モニターの数や作業環境に合わせてカスタマイズしてください。
-
-```{rubric} **配置例（二画面）**
-```
-
-```{figure} /images/06_glossary_Tips_layout02.jpg
-:width: 80%
-:align: center
-```
-
-<br><br>
-
-```{rubric} **配置例（一画面）**
-```
-```{figure} /images/06_glossary_Tips_layout01.jpg
-:width: 80%
-:align: center
-```
-
-<br><br>
-
-```{rubric} **レイアウトの変更方法**
-```
-
-Viewウィンドウ → Layoutからレイアウトのプリセットを呼び出すことができます。  
-
-<br>
-
-また、各ウィンドウはドラッグ＆ドロップでFCS内を移動・配置することができます。  
-お好きな配置で作業してください。  
-
-<br>
-
-
-Viewウィンドウ → Layoutから変更したレイアウトを保存することも可能です。  
-```{note}
-Viewウィンドウについての説明は[ユーザーガイド/Menu/view](../06_glossary/01_Menu/view)をご覧ください。
-```
-
-<br>
-
-保存したレイアウトのデータは以下のパスに格納されます。  
-```
-C:\Users\[ユーザー名]\.fcs\Cortado\[FCSバージョン]\layouts\saved
-```
-
-<br>
-
-````
-
-
 ````{tab-item} ベースシーンについて
 
 <br>
@@ -116,5 +60,62 @@ FCSは、シーン内にFCS用のカメラが無い場合、perspのカメラの
 ```
 
 ````
+
+````{tab-item} レイアウトについて
+
+<br>
+
+<!-- 更新予定・コメントアウトしてます。 -->
+<!-- FCSにはレイアウトの変更・保存機能があります。
+モニターの数や作業環境に合わせてカスタマイズしてください。
+
+```{rubric} **配置例（二画面）**
+```
+
+```{figure} /images/06_glossary_Tips_layout02.jpg
+:width: 80%
+:align: center
+```
+
+<br><br>
+
+```{rubric} **配置例（一画面）**
+```
+```{figure} /images/06_glossary_Tips_layout01.jpg
+:width: 80%
+:align: center
+```
+
+<br><br> -->
+
+```{rubric} **レイアウトの変更方法**
+```
+
+Viewウィンドウ → Layoutからレイアウトのプリセットを呼び出すことができます。  
+
+<br>
+
+また、各ウィンドウはドラッグ＆ドロップでFCS内を移動・配置することができます。  
+お好きな配置で作業してください。  
+
+<br>
+
+
+Viewウィンドウ → Layoutから変更したレイアウトを保存することも可能です。  
+```{note}
+Viewウィンドウについての説明は[ユーザーガイド/Menu/view](../06_glossary/01_Menu/view)をご覧ください。
+```
+
+<br>
+
+保存したレイアウトのデータは以下のパスに格納されます。  
+```
+C:\Users\[ユーザー名]\.fcs\Cortado\[FCSバージョン]\layouts\saved
+```
+
+<br>
+
+````
+
 
 `````
