@@ -202,10 +202,25 @@ VideosウィンドウでチェックボックスがONになっている動画が
 ```{rubric} **フォルダ名・動画名を指定するパラメータ**
 ```
 
-```{include} ../../03_workflow/06_export-animation.md
-    :start-after: <!--start_here-->
-    :end-before: <!--end_here-->
+<br>
+
+<!--start_here_Processor_01-->
+
+```{note} 
+Output Filenameを変更することで出力ファイル名に任意の名前を設定できます。  
+
+- {solver} ： solverの名前
+- {video} ： ビデオのファイル名
+- {user} ： windows ユーザ名
+- {project} ： 案件フォルダ名
+- {chara} ： キャラクター名
+- {actor} ： 役者名
+- {%Y%m%d}, {%H%M%S} ： 年月日、時間分秒  
+
+{video}のみにするとimportした動画名で出力されます。
 ```
+
+<!--end_here_Processor_01-->
 
 <br>
 

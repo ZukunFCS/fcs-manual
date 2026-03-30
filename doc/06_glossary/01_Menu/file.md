@@ -100,10 +100,34 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-```{include} ../../03_workflow/02_create-or-open-session.md
-    :start-after: <!--start_here-->
-    :end-before: <!--end_here-->
+<!--start_here_folder-->
+
+```{figure} /images/03_workflow_session_folder_structure.jpg
+:width: 80%
+:align: center
 ```
+
+\*赤枠：Project Folderで作成されるフォルダ  
+\*青枠：Actorで作成されるフォルダ  
+\*緑枠：Characterで作成されるフォルダ  
+
+- **Facial**　：動画やMayaシーンデータ等素材を保存する場所  
+    - **Assets**：Mayaのプロジェクトファイル（Assets以下）を保存
+    - **RecData**：ROM体操やFCSで解析したい動画を保存
+    - **Scene**：アニメーション出力時のデフォルト出力先
+    - **SetData**：アニメーション出力で「audio」を選択した場合のwav出力先
+
+<br>
+
+- **FCS**　：解析に使用するデータが保存されるプロジェクトフォルダ
+    - **Actor**：Actor名（入力した名前）のフォルダ
+        - **Character**：Character名（入力した名前）のフォルダ
+            - **RetargetData**：作成したProfileの編集データ
+            - **VideoData**：解析動画のキャッシュ
+            - **.lock**：競合防止用のロックファイル
+            - **fcs_session.yaml**：Session情報を保存しているファイル  
+
+<!--end_here_folder-->
 
 <br>
 

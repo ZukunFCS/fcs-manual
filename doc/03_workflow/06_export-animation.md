@@ -150,7 +150,7 @@ Timelineの動画名を右クリックし表示されるメニューからのみ
 ```
 
 ```{note}
-出力画面の項目については[ユーザーガイド/Menu/Window/Processer](../06_glossary/01_Menu/window)をご確認ください。
+出力の項目については[ユーザーガイド/Menu/Window/Processer](../06_glossary/01_Menu/window)をご確認ください。
 ```
 
 <br>
@@ -177,23 +177,12 @@ Timelineの動画名を右クリックし表示されるメニューからのみ
 
 <br>
 
-<!--start_here-->
 
-```{note} 
-Output Filenameを変更することで出力ファイル名に任意の名前を設定できます。  
-
-- {solver} ： solverの名前
-- {video} ： ビデオのファイル名
-- {user} ： windows ユーザ名
-- {project} ： 案件フォルダ名
-- {chara} ： キャラクター名
-- {actor} ： 役者名
-- {%Y%m%d}, {%H%M%S} ： 年月日、時間分秒  
-
-{video}のみにするとimportした動画名で出力されます。
+```{include} ../06_glossary/01_Menu/window.md
+    :start-after: <!--start_here_Processor_01-->
+    :end-before: <!--end_here_Processor_01-->
 ```
 
-<!--end_here-->
 
 <br>
 
