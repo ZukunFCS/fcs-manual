@@ -58,16 +58,25 @@ FCSでは作業したセッションを出力することができます。
 
 ```{note}
 Project Folderの項目ではエクスポート先のプロジェクトフォルダのパスを指定します。  
-このときプロジェクトフォルダ以下のフォルダ構造が存在しない場合は新しくフォルダが作成されるので、  
-例えばE:\test\FCS\testActor\testCharacterと同じ階層にtestCharacter2をエクスポートしたい場合には  
-Project Folderの項目に「E:\test」を指定し、Characterの項目に「testCharacter2」と入れてください。
+このとき、プロジェクトフォルダ以下のフォルダ構造が存在しない場合は新しくフォルダが  
+作成される仕様となっています。  
+
+E:\test\FCS\testActor\testCharacterと同じ階層にtestCharacter2をエクスポートしたい場合、
+以下のように出力先を指定してください。
+
+Project Folder：E:\test
+Character：testCharacter2
 ```
 
 <!--end_here-->
 
 <br>
 
-4. Exportボタンを押して出力
+4. Exportボタンを押して出力  
+```{figure} /images/03_workflow_export_export_explore.jpg
+:width: 80%
+:align: center
+```
    
 <br>
 
