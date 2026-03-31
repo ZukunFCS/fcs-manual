@@ -61,7 +61,7 @@ Upperの登録を例にcontrollerの登録方法を説明します。
 
 <br><br>
 
-2.【Add selected】ボタンを押す。
+2.【Add selected】ボタンを押します。
 ```{figure} /images/03_workflow_register_controller_add_selected_uppper.jpg
 :width: 80%
 :align: center
