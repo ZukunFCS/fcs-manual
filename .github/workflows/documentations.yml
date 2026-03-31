@@ -30,7 +30,7 @@ jobs:
           git push origin "$TAG_NAME" --force
       - name: Install dependencies
         run: |
-          pip install "sphinx<8" sphinx_rtd_theme myst_parser "sphinx-design<0.6"
+          pip install "sphinx<8" sphinx_rtd_theme myst_parser "sphinx-design<0.6" "docutils<0.21"
       - name: Sphinx build
         run: |
           cd doc
