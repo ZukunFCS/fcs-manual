@@ -620,10 +620,37 @@ Neutral表情かどうかを設定します。
 
 
 
+
 `````{tab-item} Log
 
+FCS上で表示されたログを確認できます。  
+
+
+```{figure} /images/06_glossary_Menu_window_Log.jpg
+:width: 80%
+:align: center
+```
+
+
+
+（INFO/WARNING/ERROR）
+
+最新のログについては常にFCS下部に表示されます。  
+
+```{figure} /images/06_glossary_Menu_window_Log02.jpg
+:width: 80%
+:align: center
+```
 
 `````
+
+`````{tab-item} Player
+`````
+
+
+`````{tab-item}　Timeline
+`````
+
 
 
 ``````
