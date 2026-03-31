@@ -810,7 +810,7 @@ Upper/Eyelid/Gaze/Lower/ALL：
 ``````
 
 
-`````{tab-item} Player
+``````{tab-item} Player
 
 <br>
 
@@ -821,7 +821,6 @@ Playerでは現在開いている動画を表示します。
 :align: center
 ```
 
-`````
 ``````
 
 
