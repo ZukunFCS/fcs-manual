@@ -751,7 +751,6 @@ Upper/Eyelid/Gaze/Lower/ALL：
 
 ````
 
-
 ````{grid-item}
 
 
@@ -769,12 +768,15 @@ Upper/Eyelid/Gaze/Lower/ALL：
 
 <br>
 
-**Timelineの画面説明**
+動画のタイムラインの操作を行います。  
 
-```{figure} /images/03_workflow_create_profile_timeline.png
+```{figure} /images/06_glossary_Menu_window_timeline.png
 :width: 80%
 :align: center
 ```
+
+① 
+
 - Timeline：バーを左右に動かし、ビデオを手動で再生させる
 - [0][20130]：ビデオの縮尺を変更できる。
 - [7967]：現在のフレーム数
@@ -783,6 +785,43 @@ Upper/Eyelid/Gaze/Lower/ALL：
 - ＞ ||：動画の再生 - 停止（再生すると一時停止ボタンが表示される）
 - Video：Video playerに表示されている動画名
 
+
+```{rubric} **右クリックメニュー**
+```
+
+
+
+
+<br><br>
+
+```{rubric} **timelineのバー表示**
+```
+
+左上の▲をクリックすると、timelineのバーが表示されます。  
+【Hide tab bar】を押すと逆にバーを非表示にできます。  
+```{figure} /images/06_glossary_Menu_window_timeline_ver.png
+:width: 80%
+:align: center
+```
+
+<br><br>
+
+
+``````
+
+
+`````{tab-item} Player
+
+<br>
+
+Playerでは現在開いている動画を表示します。
+
+```{figure} /images/06_glossary_Menu_window_player.jpg
+:width: 80%
+:align: center
+```
+
+`````
 ``````
 
 
