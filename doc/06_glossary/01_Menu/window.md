@@ -770,27 +770,70 @@ Upper/Eyelid/Gaze/Lower/ALL：
 
 動画のタイムラインの操作を行います。  
 
-```{figure} /images/06_glossary_Menu_window_timeline.png
+```{figure} /images/06_glossary_Menu_window_timeline.jpg
 :width: 80%
 :align: center
 ```
 
-① 
+① Timeline：バーを左右に動かし、ビデオを手動で再生  
 
-- Timeline：バーを左右に動かし、ビデオを手動で再生させる
-- [0][20130]：ビデオの縮尺を変更できる。
-- [7967]：現在のフレーム数
-- |< >|：1フレーム前/後に移動する
-- << >>：登録したprofileにジャンプする
-- ＞ ||：動画の再生 - 停止（再生すると一時停止ボタンが表示される）
-- Video：Video playerに表示されている動画名
+② [0][183]：ビデオの縮尺を変更、両サイドの〇をスライドさせることでも変更可能  
 
+③ [58]：現在のフレーム数  
+
+④ |< >|：1フレーム前/後に移動する  
+
+⑤ << >>：登録したprofile位置にジャンプ  
+
+⑥ ＞：動画の再生・停止（再生中は一時停止ボタンが表示されます）  
+
+⑦【+】：現在のフレーム位置でProfileを追加  
+
+⑧ Video：現在表示されている動画名  
+
+⑨ Profile：選択されているフレームでProfileが作成されていれば、そのProfile名  
+
+
+<br><br>
 
 ```{rubric} **右クリックメニュー**
 ```
 
+タイムライン上を右クリックすると表示されるメニューです。
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
 
+````{grid-item}
+:child-align: top
 
+```{image} /images/06_glossary_Menu_window_timeline_click.jpg
+:width: 100%
+```
+
+````
+
+````{grid-item}
+
+① 【▼Resolution】：表示している動画の解像度を変更  
+
+② 【▼Sync】：Mayaとの同期設定  
+　・□ No Sync：タイムラインをMayaと同期しない
+　・□ To Maya：FCSのタイムラインの値をMayaのタイムスライダーへ送信  
+　・□ From Maya：Mayaのタイムスライダーの値をFCSのタイムラインへ送信  
+　　※別途プラグインが必要になります。  
+　・□ Both：FCSとMayaのタイムラインを相互に同期   
+　　※別途プラグインが必要になります。  
+
+③ 【▼Speed】：再生に関する設定  
+　・Every Frame：すべてのフレームを再生
+　・Real Time：リアルタイム再生  
+　・□ Snap
+　・□ Loop：ループ再生  
+　・□ Mute：音声をミュート  
+
+````
+`````
 
 <br><br>
 
@@ -799,7 +842,7 @@ Upper/Eyelid/Gaze/Lower/ALL：
 
 左上の▲をクリックすると、timelineのバーが表示されます。  
 【Hide tab bar】を押すと逆にバーを非表示にできます。  
-```{figure} /images/06_glossary_Menu_window_timeline_ver.png
+```{figure} /images/06_glossary_Menu_window_timeline_ver.jpg
 :width: 80%
 :align: center
 ```
