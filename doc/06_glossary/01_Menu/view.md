@@ -2,37 +2,44 @@
 
 作業目的に合わせた画面レイアウト（View）の変更方法に関するメニューを説明します。  
 
-`````{tab-set}
 
-````{tab-item} View
+```````{tab-set}
 
-```{list-table}
-:widths: 50 50
-:header-rows: 0
-
-* - ![](/images/06_glossary_Menu_View_View.jpg)
-
-  - ① ☑ VSync：垂直同期の設定　※基本はONになっています。  
-    
-    <br>
-
-    ② Scale：UI表示の拡大率の設定  
-    
-    <br>
-
-    ③ ☑ Always on Top：FCSを常に最前面に表示するか  
-
-    <br>
-
-    ④ Layout ▶：レイアウトのプリセット設定・切り替え  
-```
+``````{tab-item} View
 
 <br>
- 
+
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
+
+````{grid-item}
+:child-align: top
+
+```{image} /images/06_glossary_Menu_View_View.jpg
+:width: 100%
+```
+
 ````
 
+````{grid-item}
 
-````{tab-item} Layout ▶
+① ☑ VSync：垂直同期の設定　※基本はONになっています。  
+ 
+② Scale：UI表示の拡大率の設定  
+
+③ ☑ Always on Top：FCSを常に最前面に表示するか  
+
+④ Layout ▶：レイアウトのプリセット設定・切り替え  
+````
+`````
+
+<br>
+
+``````
+
+
+``````{tab-item} Layout ▶
 
 <!--start_here_Tips-->
 
@@ -122,10 +129,10 @@ C:\Users\[ユーザー名]\.fcs\Cortado\[FCSバージョン]\layouts\saved
 
 <br>
 
-````
+``````
 
 
-`````
+```````
 
 <br>
 

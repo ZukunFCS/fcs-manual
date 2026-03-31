@@ -2,7 +2,7 @@
 
 FCSマニュアルの全コンテンツ一覧です。
 
- **🚀 概要・導入**  
+ **概要・導入**  
 [・リリースノート](../01_updates/index)  
 [・FCSとは](../02_getting-started/index)  
 [・事前準備](../02_getting-started/01_setup)  
@@ -13,10 +13,10 @@ FCSマニュアルの全コンテンツ一覧です。
 
 <br>
 
-**🛠️ 作業フロー**  
+**作業フロー**  
 [・作業フロー (全体) ](../03_workflow/index)  
 [・FCS起動](../03_workflow/01_launch-FCS)  
-[・Session作成](../03_workflow/02_create-or-open-session)  
+[・Session作成・読み込み](../03_workflow/02_create-or-open-session)  
 [・Mayaの起動](../03_workflow/03_launch-maya)  
 [・Controller登録](../03_workflow/04_register-controller)  
 [・Profile作成](../03_workflow/05_create-profile)  
@@ -25,7 +25,7 @@ FCSマニュアルの全コンテンツ一覧です。
 
 <br>
 
-**📖 ユーザーガイド**  
+**ユーザーガイド**  
 [・ユーザーガイド](../06_glossary/index)  
 [・Menu/ウィンドウ説明](../06_glossary/01_Menu/index)  
 [・用語集](../06_glossary/02_glossary/index)  
@@ -36,7 +36,7 @@ FCSマニュアルの全コンテンツ一覧です。
 
 <br>
 
- **📦 サポート/その他**  
+ **サポート/その他**  
 [・お問い合わせ](../07_support/index)  
 [・開発ロードマップ](../04_release-schedule/index)  
 [・上級マニュアル](../08_advanced_doc_link)　※外部サイトに移行します。  

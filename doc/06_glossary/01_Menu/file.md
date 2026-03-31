@@ -3,33 +3,41 @@
 Fileメニューのうち、Session（セッション）ファイルの新規作成、保存、読み込みなど、プロジェクト管理に関連するメニュー項目について説明します。  
 ※[File ▶ Settings](settings.md)については別ページを参照ください。  
 
-`````{tab-set}
+```````{tab-set}
 
-````{tab-item} File
+``````{tab-item} File
 
-```{list-table}
-:widths: 50 50
-:header-rows: 0
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
 
-* - ![](/images/06_glossary_Menu_File.jpg)
+````{grid-item}
+:child-align: top
 
-  - ① Settion：Session(セッション)ファイル関連メニュー  
-    
-    <br>
-
-    ② Settings：[Settings](settings.md)参照してください。  
-    
-    <br>
-
-    ③ Quit：FCSを終了し、「.Lockファイル」を削除  
+```{image} /images/06_glossary_Menu_File.jpg
+:width: 100%
 ```
+
+````
+
+````{grid-item}
+
+① Settion：Session(セッション)ファイル関連メニュー  
+
+② Settings：[Settings](settings.md)参照してください。  
+
+③ Quit：FCSを終了し、「.Lockファイル」を削除  
+````
+
+`````
+
 
 <br>
 
 
-````
+``````
 
-````{tab-item} Session ▶
+`````{tab-item} Session ▶
 
 <br>
 
@@ -54,10 +62,10 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-````
+`````
 
 
-````{tab-item} Create new Session
+`````{tab-item} Create new Session
 
 <br>
 
@@ -131,9 +139,9 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-````
+`````
 
-````{tab-item} Session Data
+`````{tab-item} Session Data
 
 <br>
 
@@ -164,10 +172,10 @@ Sessionを開く、設定の変更、新規Sessionの作成などを実行する
 
 <br>
 
-````
+`````
 
 
-````{tab-item} Export Session
+`````{tab-item} Export Session
 
 <br>
 
@@ -184,9 +192,9 @@ Sessionのエクスポートについては[作業フロー/エクスポート](
     :end-before: <!--end_here-->
 ```
 
-````
-
 `````
+
+```````
 
 <br>
 
