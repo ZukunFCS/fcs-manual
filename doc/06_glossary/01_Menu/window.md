@@ -228,18 +228,18 @@ VideosウィンドウでチェックボックスがONになっている動画が
 ①　**Output Folder**：出力先を指定  
 
 ②　**Output Targets**：出力する内容を指定  
- - ☑ Animation：アニメーションデータを出力  
- - ☑ Audio：音声データをMayaに読み込む  
- - ☑ Frames：動画の連番画像を出力し、Mayaのイメージプレーンに読み込む  
- - ☑ LM Frame：ランドマーク付の連番画像を生成し、Mayaのイメージプレーンに読み込む  
+　・☑ Animation：アニメーションデータを出力  
+　・☑ Audio：音声データをMayaに読み込む  
+　・☑ Frames：動画の連番画像を出力し、Mayaのイメージプレーンに読み込む  
+　・☑ LM Frame：ランドマーク付の連番画像を生成し、Mayaのイメージプレーンに読み込む  
  　※ "++パイプライン"では使用不可  
- - ☑ Playblast：プレイブラストをmov形式の動画で出力し、保存  
- - ☑ Scene：Mayaシーンを保存  
- - Format：出力するMayaの保存形式を指定(.mb / .ma)  
+　・☑ Playblast：プレイブラストをmov形式の動画で出力し、保存  
+　・☑ Scene：Mayaシーンを保存  
+　・Format：出力するMayaの保存形式を指定(.mb / .ma)  
 
 ③　**Advanced**：出力処理の詳細設定  
-- ☑ Reprocess：キャッシュが既に存在する場合も一から解析する
-- Output Filename：出力されるデータ名を指定  
+　・☑ Reprocess：キャッシュが既に存在する場合も一から解析する  
+　・Output Filename：出力されるデータ名を指定  
 
 <br>
 
@@ -369,17 +369,17 @@ Save前にリージョンがnullになっているコントローラーがない
 <br>
 
 ① 【▼Copy&Paste】  
- - 【Copy Name】：コントローラー名をコピー  
- - 【Copy Values】：数値操作をコピー  
- - 【Copy Blendshapes】：ブレンドシェイプをコピー  
- - 【Paste Values】：数値操作貼り付け  
- - 【Paste Blendshapes】：ブレンドシェイプを貼り付け  
+　・【Copy Name】：コントローラー名をコピー  
+　・【Copy Values】：数値操作をコピー  
+　・【Copy Blendshapes】：ブレンドシェイプをコピー  
+　・【Paste Values】：数値操作貼り付け  
+　・【Paste Blendshapes】：ブレンドシェイプを貼り付け  
 
 <br>
 
 ② 【▼Reset】  
- - 【To Save】：名前・数値などを【Save】時点に戻す  
- - 【To Maya】：名前・数値などをMayaの設定に戻す  
+　・【To Save】：名前・数値などを【Save】時点に戻す  
+　・【To Maya】：名前・数値などをMayaの設定に戻す  
 
 <br>
 
@@ -634,9 +634,9 @@ FCS上で表示されたログを確認できます。
 <br>
 
 ① 【WARNING ▼】：表示するログの種類を選択
- - INFO：インフォメーションログを表示
- - WARNING：警告ログを表示
- - ERROR：エラーログを表示
+　・INFO：インフォメーションログを表示  
+　・WARNING：警告ログを表示  
+　・ERROR：エラーログを表示  
 
 ② Time：発生時刻  
 
