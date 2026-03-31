@@ -18,11 +18,11 @@ def build_doc(version, language, tag=None, ):
 	if version == 'latest':
 		subprocess.run("git checkout master", shell=True)
 	else:
-		subprocess.run("git checkout " + tag, shell=True)
+		subprocess.run("git checkout " + tag, shell=True, check=True)
 		for filename in ['conf.py', 'versions.yaml', '../.gitignore', 'build_docs.py']:
 			subprocess.run(f"git checkout master -- {filename}", shell=True)
 	os.environ['SPHINXOPTS'] = "-D language='{}'".format(language)
-	subprocess.run("make html", shell=True)
+	subprocess.run("make html", shell=True, check=True)
 
 	move('_build/html', f'pages/{version}/{language}')
 
