@@ -16,11 +16,11 @@ def build_doc(version, language, tag=None, ):
 	subprocess.run("git clean -fd", shell=True)  # Remove untracked files
 	subprocess.run("git fetch --all --tags", shell=True)  # Remove untracked files
 	if version == 'latest':
-		subprocess.run("git checkout main", shell=True)
+		subprocess.run("git checkout master", shell=True)
 	else:
 		subprocess.run("git checkout " + tag, shell=True)
 		for filename in ['conf.py', 'versions.yaml', '../.gitignore', 'build_docs.py']:
-			subprocess.run(f"git checkout main -- {filename}", shell=True)
+			subprocess.run(f"git checkout master -- {filename}", shell=True)
 	os.environ['SPHINXOPTS'] = "-D language='{}'".format(language)
 	subprocess.run("make html", shell=True)
 
@@ -60,7 +60,7 @@ build_dir = Path("./_build")
 rmtree(build_dir)
 build_dir.mkdir(exist_ok=True, parents=True)
 subprocess.run("mv ./pages _build/html", shell=True)
-subprocess.run("git checkout main", shell=True)
+subprocess.run("git checkout master", shell=True)
 subprocess.run("cp ../src/index.html _build/html/index.html", shell=True)
 legacy_paths = [Path('_build/html/latest/jp'), Path('_build/html/latest/en')]
 for path in legacy_paths:
