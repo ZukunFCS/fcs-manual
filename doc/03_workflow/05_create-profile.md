@@ -323,7 +323,9 @@ Profile作成時にProfileに「タグ」を付けることができます。
 ▶ Filter：表示するProfileの絞り込みを設定します。  
 ▶ sort：Profileの表示順を変更します。  
 ▶ Batch Edit：表示されているProfileを処理に使用するかなどを設定します。  
-▶ Misc：  
+▶ Misc：Galleryの表示などその他設定を変更できます。  
+
+詳しくは[ユーザーガイド/Menu/Window/Profile/Gallery](../06_glossary/01_Menu/window)をご確認ください。  
 ```
 
 <br>

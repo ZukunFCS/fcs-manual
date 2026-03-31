@@ -453,10 +453,10 @@ Galleryは作成したProfileが一覧で表示されるウィンドウです。
 　・空白：すべてのprofileを表示  
 　・Enabled：解析に使用するprofileを表示、Enabledに ☑ を入れて登録したprofileが対象  
 　・Disabled：解析に使用しないprofileを表示、Enabledに ☑ を入れずに登録したprofileが対象  
-　・Default：数値がdefaultのprofileを表示  
+　・Default：Neutralを含む、数値がdefaultのprofileを表示  
 　・Not Default：数値がdefaultではないprofileを表示  
 　・Neutral：Neutralにチェックを入れて登録したprofileを表示  
-　・No Tag：タグを設定していないProfileを表示  
+　・No Tags：タグを設定していないProfileを表示  
 　・（Region）Enabled：該当する（Region）に ☑ を入れて登録したprofileを表示  
 　・（Region）Disabled：該当する（Region）に ☑ を入れず登録したprofileを表示  
 
@@ -521,7 +521,7 @@ Profileの表示順を変更します。
 　・Created At：profileを作成した日時で順にソート  
 　・Saved At：saveした日時で順にソート  
 　・Name：profileのName順にソート  
-　・Confidence：
+　・Confidence：アルゴリズムとの一致度順（predict結果と近いもの）でソート  
 　・Randomized：ランダムに表示  
 　・（controller名）：該当する（controller）に登録した数値でソート  
 
@@ -538,7 +538,9 @@ Profileの表示順を変更します。
 <br><br>
 
 
-① Property：どの項目に対して使用・不使用（ON/OFF）を設定するかを指定  
+① Property：どの項目に対して設定を変更するかを指定  
+　・Enabled：すべてのRegionに反映  
+　・（各Region名）：そのRegionに反映  
 
 ② ☑ 【Apply】：
 　・表示されているProfileを解析に使用する場合はチェックを入れる（☑）
@@ -553,7 +555,7 @@ Profileの表示順を変更します。
 
 **【▶ Misc】**  
 
-Galleryのその他設定を変更できます。  
+Galleryの表示形式などその他設定を変更できます。  
 
 ```{figure} /images/06_glossary_Menu_window_Profile_Gallery_Adbanced_Misc.jpg
 :width: 80%
