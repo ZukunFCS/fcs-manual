@@ -862,6 +862,7 @@ Playerでは現在開いている動画を表示します。
 :width: 80%
 :align: center
 ```
+<br>
 
 ``````
 
@@ -881,7 +882,7 @@ Playerでは現在開いている動画を表示します。
 <br>
 
 
-```{rubric} **Global**
+```{rubric} **▼Global**
 ```
 
 ```{figure} /images/06_glossary_Menu_window_Solver_Global.jpg
@@ -889,12 +890,90 @@ Playerでは現在開いている動画を表示します。
 :align: center
 ```
 
+<br>
 
+① ☑ Fisheye：魚眼レンズで撮影された動画の処理に最適化  
+　広角レンズで撮影された動画を解析する際はチェックを外してください。  
 
+② Processing Pipeline：動画を処理するためのパイプラインを指定  
+
+```{note}
+
+各パイプラインについては[テクニカルマニュアル](https://zukunfcs.github.io/fcs-doc-advanced/26.04/jp/experiments/index.html)をご参照ください。
+
+```
+
+<br>
+
+```{rubric} **▼Denoising**
+```
+
+```{figure} /images/06_glossary_Menu_window_Solver_Denoising.jpg
+:width: 80%
+:align: center
+```
+<br>
+
+①【▼Parameters】：処理のパラメータ設定  
+
+② 【▼Type】：Smoothing機能の設定  
+　・Raw：
+　・Smoothing：
+　・Peak：
+
+③ Weight：強さを設定  
+
+④ Reps：回数を設定  
+
+⑤【Save current denoising profile】：現在の設定をプリセットとして保存  
+　「Save Denoising preset」ウインドウが開きます。  
+
+ - プリセットの登録には「Preset name」を入力し【Save】します。
+```{figure} /images/06_glossary_Menu_window_Solver_Denoising_Preset.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+⑥【▼Preset】：登録したプリセットが表示される  
+
+⑦ 【Delete】：選択（☑）したプリセットを削除  
+
+<br>
+
+```{rubric} **▼Post processing**
+```
+
+```{figure} /images/06_glossary_Menu_window_Solver_Postprocessing.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+① ☐ Gaze Freezing：
+
+② ☑ Prioritize profile：  
+　Profileが登録されているフレームはProfileと全く同じ表情の値にして出力  
+　解析の予測値よりもProfile登録時のリターゲットの値を優先します。  
+
+③ Range：Profileのフレームの前後合わせて指定の数秒スムージングをかける（単位：秒）  
+　例：Range1.0の場合 → 前後0.5秒がスムージング対象  
+
+④ Exponential Coefficient：デフォルト値は1.0（線形）  
+　値が小さいほどカーブが滑らかになります（その文解析の予測値から遠ざかります。）  
+
+⑤ Clamp mode：クランプ処理の設定を切り替え  
+　・No Clamp：クランプ処理なし  
+　・Hard Clamp：アニメーションカーブをControllerウィンドウで設定した最大値 - 最小値でクランプ  
+　　（クランプされた範囲のスムージング処理なし）  
+　・Soft Clamp：アニメーションカーブをControllerウィンドウで設定した最大値 - 最小値でクランプ  
+　　（クランプされた範囲のスムージング処理あり）
+
+<br>　
 
 ``````
-
-
 
 
 ``````{tab-item} Log
