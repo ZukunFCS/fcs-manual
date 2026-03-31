@@ -753,7 +753,6 @@ Upper/Eyelid/Gaze/Lower/ALL：
 
 ````{grid-item}
 
-
 プロファイルにタグを追加  
 
 入力欄にタグ名を記入し、
@@ -870,6 +869,27 @@ Playerでは現在開いている動画を表示します。
 ``````{tab-item} Solver
 
 <br>
+
+アニメーション出力について、詳細設定を行うウィンドウです。  
+基本的にはデフォルト設定のまま使用できます。  
+
+```{figure} /images/06_glossary_Menu_window_Solver.jpg
+:width: 80%
+:align: center
+```
+
+<br>
+
+
+```{rubric} **Global**
+```
+
+```{figure} /images/06_glossary_Menu_window_Solver_Global.jpg
+:width: 80%
+:align: center
+```
+
+
 
 
 ``````
