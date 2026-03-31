@@ -168,6 +168,8 @@ Mayaとの接続に関する設定項目です。
 
 ````{tab-item} Misc
 
+<br>
+
 ```{figure} /images/06_glossary_Menu_Settings_Misc.jpg
 :width: 80%
 :align: center

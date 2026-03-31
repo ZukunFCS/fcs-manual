@@ -7,6 +7,8 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 
 ``````{tab-item} File
 
+<br>
+
 `````{grid} 1 1 2 2 
 :gutter: 3
 :items-align: top
