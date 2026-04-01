@@ -9,14 +9,14 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 ``````{tab-item} Explore
 
 `````{grid} 1 1 2 2 
-:gutter: 3
+:gutter: 2
 :items-align: top
 
 ````{grid-item}
 :child-align: top
 
 ```{image} /images/06_glossary_Menu_Explore_Explore.jpg
-:width: 80%
+:width: 100%
 ```
 
 ````
@@ -29,7 +29,8 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 
 ③ Facial：Facialフォルダを開く   
 
-④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
+④ tmp：Logなどが格納されている  
+　ユーザー設定フォルダを開く  
 
 ````
 
@@ -41,14 +42,14 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 ``````{tab-item} FCS ▶
 
 `````{grid} 1 1 2 2 
-:gutter: 3
+:gutter: 2
 :items-align: top
 
 ````{grid-item}
 :child-align: top
 
 ```{image} /images/06_glossary_Menu_Explore_FCS.jpg
-:width: 80%
+:width: 100%
 ```
 
 ````
@@ -77,14 +78,14 @@ FCSからWindowsエクスプローラーを直接開くことができます。
 ``````{tab-item} Facial ▶
 
 `````{grid} 1 1 2 2 
-:gutter: 3
+:gutter: 2
 :items-align: top
 
 ````{grid-item}
 :child-align: top
 
 ```{image} /images/06_glossary_Menu_Explore_Facial.jpg
-:width: 80%
+:width: 100%
 ```
 
 ````

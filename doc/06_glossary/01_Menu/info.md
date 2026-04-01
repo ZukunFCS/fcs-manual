@@ -8,14 +8,14 @@
 ``````{tab-item} Info
 
 `````{grid} 1 1 2 2 
-:gutter: 3
+:gutter: 2
 :items-align: top
 
 ````{grid-item}
 :child-align: top
 
 ```{image} /images/06_glossary_Menu_Info.jpg
-:width: 80%
+:width: 100%
 ```
 
 ````
@@ -31,7 +31,8 @@
 　FCSマニュアル(外部サイト)へ移行  
 
 ④ 3rd party licenses：  
-　サードパーティーライセンスについての一覧を表示  
+　サードパーティーライセンス  
+　について一覧を表示  
 
 ````
 
