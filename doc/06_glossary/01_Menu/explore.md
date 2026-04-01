@@ -3,111 +3,122 @@
 FCSからWindowsエクスプローラーを直接開くことができます。  
 このページではどのフォルダを参照するか・操作について説明します。  
 
-`````{tab-set}
+```````{tab-set}
 
 
-````{tab-item} Explore
+``````{tab-item} Explore
 
-```{list-table}
-:widths: 50 50
-:header-rows: 0
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
 
-* - ![](/images/06_glossary_Menu_Explore_Explore.jpg)
+````{grid-item}
+:child-align: top
 
-  - ① Project：プロジェクトフォルダを開く  
-    
-    <br>
-
-    ② FCS：FCSフォルダを開く  
-    
-    <br>
-
-    ③ Facial：Facialフォルダを開く   
-
-    <br>
-
-    ④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
-
+```{image} /images/06_glossary_Menu_Explore_Explore.jpg
+:width: 80%
 ```
-
-<br>
 
 ````
 
+````{grid-item}
 
+① Project：プロジェクトフォルダを開く  
 
-````{tab-item} FCS ▶
+② FCS：FCSフォルダを開く  
 
-```{list-table}
-:widths: 50 50
-:header-rows: 0
+③ Facial：Facialフォルダを開く   
 
-* - ![](/images/06_glossary_Menu_Explore_FCS.jpg)
-
-  - ① Actor：Actorフォルダを開く  
-    
-    <br>
-
-    ② Character：Characterフォルダを開く  
-    
-    <br>
-
-    ③ Retarget Folder：RetargetDataフォルダを開く  
-
-    <br>
-
-    ④ Video Data：VideoDataフォルダを開く  
-
-```
-
-<br>
-
-````
-
-
-
-````{tab-item} Facial ▶
-
-```{list-table}
-:widths: 50 50
-:header-rows: 0
-
-* - ![](/images/06_glossary_Menu_Explore_Facial.jpg)
-
-  - ① Facial：Facialフォルダを開く  
-    
-    <br>
-
-    ② Assets：Assetsフォルダを開く  
-    
-    <br>
-
-    ③ Scenes：Scenesフォルダを開く  
-
-    <br>
-
-    ④ RecData：RecDataフォルダを開く  
-
-    <br>
-
-    ⑤ SetData：SetDataフォルダを開く  
-
-    <br>
-
-    ⑥ Maya workspace：  
-      Mayaのworkspaceが格納されているフォルダを開く  
-
-    <br>
-
-    ⑦ Output Scene：_Outputsフォルダを開く  
-
-```
-
-<br>
+④ tmp：Logなどが格納されているユーザー設定フォルダを開く  
 
 ````
 
 `````
+
+``````
+
+
+``````{tab-item} FCS ▶
+
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
+
+````{grid-item}
+:child-align: top
+
+```{image} /images/06_glossary_Menu_Explore_FCS.jpg
+:width: 80%
+```
+
+````
+
+````{grid-item}
+
+① Actor：  
+　Actorフォルダを開く  
+
+② Character：  
+　Characterフォルダを開く  
+
+③ Retarget Folder：  
+　RetargetDataフォルダを開く  
+
+④ Video Data：  
+　VideoDataフォルダを開く 
+
+````
+
+`````
+
+``````
+
+
+``````{tab-item} Facial ▶
+
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
+
+````{grid-item}
+:child-align: top
+
+```{image} /images/06_glossary_Menu_Explore_Facial.jpg
+:width: 80%
+```
+
+````
+
+````{grid-item}
+
+① Facial：  
+　Facialフォルダを開く  
+
+② Assets  
+　Assetsフォルダを開く  
+
+③ Scenes：  
+　Scenesフォルダを開く  
+
+④ RecData：  
+　RecDataフォルダを開く  
+
+⑤ SetData：  
+　SetDataフォルダを開く  
+
+⑥ Maya workspace：  
+　Mayaのworkspaceの格納フォルダを開く  
+
+ ⑦ Output Scene：  
+ 　_Outputsフォルダを開く  
+
+````
+
+`````
+
+``````
+
+```````
 
 <br>
 

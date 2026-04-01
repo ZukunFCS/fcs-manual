@@ -2,35 +2,44 @@
 
 現在使用しているFCSのバージョン確認、ライセンス情報、および公式サポートへのアクセス方法について案内します。  
 
-`````{tab-set}
+```````{tab-set}
 
 
-````{tab-item} Info
+``````{tab-item} Info
 
-```{list-table}
-:widths: 50 50
-:header-rows: 0
+`````{grid} 1 1 2 2 
+:gutter: 3
+:items-align: top
 
-* - ![](/images/06_glossary_Menu_Info.jpg)
+````{grid-item}
+:child-align: top
 
-  - ① License：ライセンス管理 License infoを開く   
-    
-    <br>
-
-    ② About：FCSについて  
-    
-    <br>
-
-    ③ Help：FCSマニュアル(外部サイト)へ移行  
-
-    <br>
-
-    ④ 3rd party licenses：  
-      サードパーティーライセンスについての一覧を表示  
-
+```{image} /images/06_glossary_Menu_Info.jpg
+:width: 80%
 ```
 
+````
+
+````{grid-item}
+
+① License：  
+　ライセンス管理 License infoを開く   
+
+② About：FCSについて  
+
+③ Help：  
+　FCSマニュアル(外部サイト)へ移行  
+
+④ 3rd party licenses：  
+　サードパーティーライセンスについての一覧を表示  
+
+````
+
 `````
+
+``````
+
+```````
 
 <br>
 

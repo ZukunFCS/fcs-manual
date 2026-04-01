@@ -28,7 +28,7 @@ Fileメニューのうち、Session（セッション）ファイルの新規作
 
 ② Settings：[Settings](settings.md)参照してください。  
 
-③ Quit：FCSを終了し、「.Lockファイル」を削除  
+③ Quit：FCSを終了し「.Lockファイル」を削除  
 ````
 
 `````
