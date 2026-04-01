@@ -65,10 +65,11 @@
    - アニメーションデータ の順で反映される
    - アニメーションデータ反映時はスライダーが動く
 
+<!-- 
 ```{figure} /images/03_workflow_export_animation_maya_reflection.jpg
 :width: 80%
 :align: center
-```
+``` -->
 
 <br><br>
 
